@@ -1,0 +1,4217 @@
+pelicula_id,actor,personaje
+1,Michael B. Jordan,Adonis Creed
+1,Tessa Thompson,Bianca Taylor
+1,Jonathan Majors,Damien Anderson
+1,Wood Harris,Tony 'Little Duke' Evers
+1,Phylicia Rashād,Mary Anne Creed
+1,Mila Davis-Kent,Amara Creed
+1,Florian Munteanu,Viktor Drago
+1,José Benavidez Jr.,Felix Chavez
+1,Selenis Leyva,Laura Chavez
+2,Sam Worthington,Jake Sully
+2,Zoe Saldaña,Neytiri
+2,Sigourney Weaver,Kiri / Dr. Grace Augustine
+2,Stephen Lang,Colonel Miles Quaritch
+2,Kate Winslet,Ronal
+2,Cliff Curtis,Tonowari
+2,Joel David Moore,Norm Spellman
+2,CCH Pounder,Mo'at
+2,Edie Falco,General Frances Ardmore
+3,Chris Pratt,Mario (voice)
+3,Anya Taylor-Joy,Princess Peach (voice)
+3,Charlie Day,Luigi (voice)
+3,Jack Black,Bowser (voice)
+3,Keegan-Michael Key,Toad (voice)
+3,Seth Rogen,Donkey Kong (voice)
+3,Fred Armisen,Cranky Kong (voice)
+3,Kevin Michael Richardson,Kamek (voice)
+3,Sebastian Maniscalco,Spike (voice)
+4,Óscar Barberán,Thut (voice)
+4,Ana Esther Alborg,Nefer (voice)
+4,Luis Pérez Reina,Carnaby (voice)
+4,María Luisa Solá,Madre (voice)
+4,Jaume Solà,Sekhem (voice)
+4,José Luis Mediavilla,Ed (voice)
+4,José Javier Serrano Rodríguez,Danny (voice)
+4,Aleix Estadella,Dennis (voice)
+4,María Moscardó,Usi (voice)
+5,Skeet Ulrich,Roy Cameron
+5,Anne Heche,Dr Quinn Brody
+5,Daniel Diemer,William Brody
+5,Jordan Kristine Seamón,Harper Hunter
+5,Alec Baldwin,Zane Rogers
+5,Richard Gunn,Bill Brody
+5,Praya Lundberg,Amy
+5,Johnny Wactor,Martin
+5,Anjul Nigam,Ramesh
+6,Keri Russell,Sari
+6,Alden Ehrenreich,Eddie
+6,O'Shea Jackson Jr.,Daveed
+6,Ray Liotta,Syd
+6,Kristofer Hivju,Olaf (Kristoffer)
+6,Margo Martindale,Ranger Liz
+6,Christian Convery,Henry
+6,Isiah Whitlock Jr.,Bob
+6,Jesse Tyler Ferguson,Peter
+7,Keanu Reeves,John Wick
+7,Donnie Yen,Caine
+7,Bill Skarsgård,Marquis de Gramont
+7,Ian McShane,Winston
+7,Laurence Fishburne,Bowery King
+7,Lance Reddick,Charon
+7,Clancy Brown,The Harbinger
+7,Hiroyuki Sanada,Shimazu
+7,Shamier Anderson,Mr Nobody
+8,Antonio Banderas,Puss in Boots (voice)
+8,Salma Hayek,Kitty Softpaws (voice)
+8,Harvey Guillén,Perrito (voice)
+8,Wagner Moura,Wolf (voice)
+8,Florence Pugh,Goldilocks (voice)
+8,Olivia Colman,Mama Bear (voice)
+8,Ray Winstone,Papa Bear (voice)
+8,Samson Kayo,Baby Bear (voice)
+8,John Mulaney,Jack Horner (voice)
+9,Paul Bianchi,Computer (voice)
+9,Erin Coker,Allison Quince
+9,Jack Pearson,Max Reece
+9,Anthony Jensen,Jowers
+9,Neli Sabour,Heidi Quince
+9,Karan Sagoo,Adrian Naidu
+9,Natalie Storrs,Saoirse Parker
+9,Justin Tanks,Mark Morales
+9,Jenny Tran,Kim Costa
+10,Chloe Guidry,Ines
+10,Nhedrick Jabier,Bui
+10,Carmina Garay,Kuan
+10,Billy Slaughter,Martin Parker
+10,Carli McIntyre,Rue
+10,Laura Coover,Reporter
+10,Presley Richardson,Bennett
+10,Sean Papajohn,Jack
+10,Legend Jay Jones,Slingshot Gang
+11,Craig David Dowsett,Pooh Bear
+11,Chris Cordell,Piglet
+11,Amber Doig-Thorne,Alice
+11,Natasha Tosini,Lara
+11,Maria Taylor,Maria
+11,Nikolai Leon,Christopher Robin
+11,May Kelly,Tina
+11,Danielle Ronald,Zoe
+11,Danielle Scott,Charlene
+12,María Evoli,Ofelia
+12,Diana Bracho,
+12,Tina Romero,Julia
+12,Norma Lazareno,Señora Ramirez
+12,Pilar Santacruz,Sandra
+12,Salvador Sánchez,Señor Ramirez
+12,Julio Bracho,Padre Victor
+12,Ramón Medína,Fabian
+13,Adam Sandler,Nick
+13,Jennifer Aniston,Audrey
+13,Mark Strong,Miller
+13,Mélanie Laurent,Claudette
+13,Jodie Turner-Smith,Countess Sekou
+13,John Kani,Colonel Ulenga
+13,Kuhoo Verma,Saira
+13,Dany Boon,Inspector Delacroix
+13,Adeel Akhtar,The Maharajah
+14,Letitia Wright,Shuri / Black Panther
+14,Lupita Nyong'o,Nakia
+14,Danai Gurira,Okoye
+14,Winston Duke,M'Baku
+14,Dominique Thorne,Riri Williams / Ironheart
+14,Tenoch Huerta Mejía,Namor
+14,Angela Bassett,Ramonda
+14,Florence Kasumba,Ayo
+14,Michaela Coel,Aneka
+15,Russell Crowe,Father Gabriele Amorth
+15,Daniel Zovatto,Father Esquibel
+15,Alex Essoe,Julia
+15,Franco Nero,The Pope
+15,Laurel Marsden,Amy
+15,Cornell John,Bishop Lumumba
+15,Ralph Ineson,Demon (voice)
+15,River Hawkins,Enzo
+15,Pablo Raybould,Bishop Barbuto
+16,Matt Hookings,Jem Belcher
+16,Ray Winstone,Bill Warr
+16,Jodhi May,Mary Belcher
+16,Marton Csokas,Lord Rushworth
+16,Russell Crowe,Jack Slack
+16,Steven Berkoff,Walter
+16,Julian Glover,Lord Ashford
+17,Dave Bautista,Leonard
+17,Jonathan Groff,Eric
+17,Ben Aldridge,Andrew
+17,Kristen Cui,Wen
+17,Nikki Amuka-Bird,Sabrina
+17,Rupert Grint,Redmond
+17,Abby Quinn,Adriane
+17,Clare Louise Frost,Infomercial Co-Host
+17,McKenna Kerrigan,Andrew's Mom
+18,Alice Orr-Ewing,Laura
+18,Joe Doyle,Father Marconi / Michael
+18,Eveline Hall,Liz
+18,Peter Mensah,Archangel Michael
+18,Joe Anderson,Lucifer
+18,Brian Caspe,Dr. Laurent
+18,Spencer Wilding,Beast of the Ground
+18,James Faulkner,Cardinal Vincini
+18,Victoria Chilap,Brenda
+19,Natalia Reddersen,Rena
+19,Willy Semler,Salvador
+19,Alexandra Von Hummel,Emilia
+19,Felipe Valenzuela,Mateo
+20,Jon Øigarden,Fredrik Haslund
+20,Ida Elise Broch,Nini Haslund Gleditsch
+20,Sven Nordin,Odd Henry
+20,Eivind Sander,Major Bjørn Sunde
+20,Axel Bøyum,Ingvar
+20,Morten Svartveit,Nordahl Grieg
+20,Anatole Taubman,Major Otto Stoltmann
+20,Thorbjørn Harr,Oscar Torp
+20,Gard B. Eidsvold,Andreas Lund
+21,Noah Jupe,Peter (voice)
+21,Mandy Patinkin,Vilna (voice)
+21,Brian Tyree Henry,Leo Matienne (voice)
+21,Natasia Demetriou,Narrator / Fortune Teller (voice)
+21,Sian Clifford,Gloria Matienne (voice)
+21,Benedict Wong,Magician (voice)
+21,Miranda Richardson,Madam LaVaughn (voice)
+21,Kirby Howell-Baptiste,The Countess (voice)
+21,Aasif Mandvi,The King (voice)
+22,Gerard Butler,Brodie Torrance
+22,Mike Colter,Louis Gaspare
+22,Yoson An,Dele
+22,Tony Goldwyn,Scarsdale
+22,Daniella Pineda,Bonnie
+22,Paul Ben-Victor,Hampton
+22,Remi Adeleke,Shellback
+22,Joey Slotnick,Sinclair
+22,Evan Dane Taylor,Junmar
+23,Jim Caviezel,Jesus
+23,Maia Morgenstern,Maria
+23,Christo Jivkov,Juan
+23,Francesco De Vito,Pedro
+23,Monica Bellucci,Magdalena
+23,Mattia Sbragia,Caifás
+23,Toni Bertorelli,Anás
+23,Luca Lionello,Judas
+23,Hristo Shopov,Poncio Pilato
+24,David Giuntoli,Batman / Bruce Wayne (voice)
+24,Patrick Fabian,Harvey Dent / Two-Face (voice)
+24,John DiMaggio,James Gordon (voice)
+24,Karan Brar,Sanjay 'Jay' Tawde (voice)
+24,Navid Negahban,Ra's al Ghul (voice)
+24,Darin De Paul,Thomas Wayne (voice)
+24,Emily O'Brien,Talia al Ghul / Martha Wayne (voice)
+24,Christopher Gorham,Oliver Queen / Green Arrow (voice)
+24,David Dastmalchian,Grendon (voice)
+25,Zachary Levi,Shazam
+25,Asher Angel,Billy Batson
+25,Jack Dylan Grazer,Freddy Freeman
+25,Grace Caroline Currey,Mary Bromfield / Super Hero Mary
+25,Helen Mirren,Hespera
+25,Lucy Liu,Kalypso
+25,Rachel Zegler,Anthea
+25,Adam Brody,Super Hero Freddy
+25,Meagan Good,Super Hero Darla
+26,Jena Malone,Grace
+26,Danny Huston,Father Romero
+26,Thoren Ferguson,DCI Harris
+26,Janet Suzman,Mother Superior
+26,Ian Pirie,Vincent
+26,Steffan Cennydd,Michael
+26,Will Keen,
+26,Alexandra Lewis,Sister Beth
+26,Kit Rakusen,Young Michael
+27,Maxi Witrak,Commander Nicole Tress
+27,Ego Mikitas,Sergei
+27,Michael Marcel,Michael Kelly
+27,Tania Fox,Akula
+27,Konstantin Podprugin,Henri
+27,Lindsey Marie Wilson,Elli Waters
+27,Lydia Hunter,Josie
+27,Reginald Stalling III,Tom
+27,Terrance Livingston Jr.,Liam
+28,Dwayne Johnson,Black Adam / Teth Adam
+28,Aldis Hodge,Hawkman / Carter Hall
+28,Noah Centineo,Atom Smasher / Al Rothstein
+28,Sarah Shahi,Adrianna Tomaz
+28,Quintessa Swindell,Cyclone / Maxine Hunkel
+28,Marwan Kenzari,Ishmael / Sabbac / King Ahk-Ton
+28,Mo Amer,Karim
+28,Bodhi Sabongui,Amon Tomaz
+28,Pierce Brosnan,Dr. Fate / Kent Nelson
+29,Allison Williams,Gemma
+29,Violet McGraw,Cady
+29,Jenna Davis,M3GAN (voice)
+29,Amie Donald,M3GAN
+29,Jen Van Epps,Tess
+29,Brian Jordan Alvarez,Cole
+29,Ronny Chieng,David Lin
+29,Stephane Garneau-Monten,Kurt
+29,Amy Usherwood,Lydia
+30,Paul Rudd,Scott Lang / Ant-Man
+30,Evangeline Lilly,Hope van Dyne / The Wasp
+30,Jonathan Majors,Kang the Conqueror
+30,Kathryn Newton,Cassie Lang
+30,Michelle Pfeiffer,Janet van Dyne
+30,Michael Douglas,Dr. Hank Pym
+30,Corey Stoll,M.O.D.O.K.
+30,Bill Murray,Lord Krylar
+30,William Jackson Harper,Quaz
+31,Rallén Montenegro,Sayen
+31,Arón Piper,Antonio Torres
+31,Enrique Arce,Máximo Torres
+31,Roberto García Ruiz,Bykov
+31,Loreto Aravena,Miranda
+31,Alejandro Trejo,Lira
+31,Eduardo Paxeco,Rubén
+31,Camilo Arancibia,José
+31,Teresa Ramos,Ilwen
+32,Kevin Hart,Kevin Hart
+32,John Travolta,Ron Wilcox
+32,Nathalie Emmanuel,Jordan King
+32,Jean Reno,Claude Van De Velde
+32,Josh Hartnett,Josh
+32,Kenneth Trujillo,Diego
+32,Joshua Lamboy,Ortiz
+32,Brandon Quinn,Danny Morrison
+32,Milana Vayntrub,Leah
+33,María Romanillos,Laura
+33,Ruth Díaz,Carmen
+33,Urko Olazábal,Tomás
+33,Pablo Revuelta,Jesús
+33,José Sacristán,Padre Olmedo
+33,Daniela Bini,Niña Demonio
+33,Cristina Castaño,Asunción
+33,Silma López,Lola
+33,Daniel Arias,Enrique
+34,Portia Chellelynn,Alice
+34,Julie Anne Prescott,Tommi
+34,Andrea Collins,Keziah Mason
+34,Erin Trimble,Kelly
+34,Solon Tsangaras,Brown Jenkin
+34,John Johnson,Professor Sherfick
+34,Shonda Laverty,
+34,Bill Levin,Vespuli
+34,Joe Padgett,Joe
+35,Keanu Reeves,John Wick
+35,Common,Cassian
+35,Ian McShane,Winston
+35,Laurence Fishburne,Bowery King
+35,Riccardo Scamarcio,Santino D'Antonio
+35,Ruby Rose,Ares
+35,Lance Reddick,Charon
+35,Peter Stormare,Abram Tarasov
+35,Bridget Moynahan,Helen Wick
+36,Gideon Adlon,Parker
+36,Bethlehem Million,Miri
+36,Dylan Sprayberry,DJ
+36,Marc Menchaca,Jason
+36,Jane Adams,Pamela
+36,Joel Courtney,Tyler
+36,Chris Reid,Jeb
+36,Duane Stephens,Mr. Lyons
+36,Logan Murphy,Benji
+37,Tom Berenger,Nick Falconi
+37,Cam Gigandet,Anthony
+37,Jeff Fahey,LaRusso
+37,Jonathan Avigdori,Sadiq
+37,Sara Seyed,Rashida
+37,Rafael Cabrera,Zico
+37,Rodrigo Abed,Capitan Escalante
+37,Tonantzin Esparza,Carmen
+38,Jennifer Lopez,Darcy
+38,Josh Duhamel,Tom
+38,Jennifer Coolidge,Carol
+38,Sônia Braga,Renata
+38,Lenny Kravitz,Sean
+38,D'Arcy Carden,Harriet
+38,Cheech Marin,Robert
+38,Selena Tan,Marge
+38,Desmin Borges,Ricky
+39,Keanu Reeves,John Wick
+39,Halle Berry,Sofia
+39,Ian McShane,Winston
+39,Laurence Fishburne,Bowery King
+39,Mark Dacascos,Zero
+39,Asia Kate Dillon,Adjudicator
+39,Lance Reddick,Charon
+39,Anjelica Huston,Director
+39,Tobias Segal,Earl
+40,Meg Donnelly,Supergirl / Kara (voice)
+40,Harry Shum Jr.,Brainiac 5 (voice)
+40,Darren Criss,Superman (voice)
+40,Jensen Ackles,Batman (voice)
+40,Matt Bomer,The Flash (voice)
+40,Cynthia Hamidi,Dawnstar (voice)
+40,Yuri Lowenthal,Mon El (voice)
+40,Gideon Adlon,Phantom Girl (voice)
+40,Ely Henry,Bouncing Boy (voice)
+41,Grace Caroline Currey,Becky
+41,Virginia Gardner,Hunter
+41,Jeffrey Dean Morgan,James
+41,Mason Gooding,Dan Connor
+41,Jasper Cole,Dog Walker Dan
+41,Darrell Dennis,Randy
+41,Julia Pace Mitchell,Waitress
+42,Treach,Jason Dyson
+42,Quinton Jackson,Kane
+42,Khalil Rountree Jr.,Damon Stone
+42,Anderson Silva,Axel
+42,Richard Grieco,Detective Kayes
+42,A.J. McKee,Tre Jordan
+42,Gigi Gustin,Sasha
+42,Meredith Thomas,Teresa
+42,Ashley Doris,Valery Dyson
+43,Frank Grillo,Doc Alexander
+43,Eric Dane,Governor Richard Jeffs
+43,Annabeth Gish,Billie Riggs
+43,Mercedes Mason,Julie Reed
+43,Peter Greene,Karl Roach
+43,Beau Knapp,Raphael 'Cuco' Prado
+43,Thomas Dekker,Clarke Moore
+43,Maurice Compte,Lalo Miguel Prado
+43,Sufe Bradshaw,Carla
+44,Brendan Fraser,Charlie
+44,Sadie Sink,Ellie
+44,Hong Chau,Liz
+44,Ty Simpkins,Thomas
+44,Samantha Morton,Mary
+44,Sathya Sridharan,Dan The Pizza Man
+44,Jacey Sink,Young Ellie
+44,Wilhelm Schalaudek,Liam (uncredited)
+45,Jacqueline Byers,Sister Ann
+45,Colin Salmon,Father Quinn
+45,Christian Navarro,Father Dante
+45,Lisa Palfrey,Sister Euphemia
+45,Nicholas Ralph,Father Raymond
+45,Ben Cross,Cardinal Matthews
+45,Virginia Madsen,Dr. Peters
+45,Tom Forbes,Matt
+45,Velizar Binev,Father Bernhard
+46,Josh Duhamel,Gilbert Galvan Jr/Robert Whiteman
+46,Elisha Cuthbert,Andrea
+46,Mel Gibson,Tommy
+46,Nestor Carbonell,Snydes
+46,Lorenzo Yearby,Ben
+46,Swen Temmel,Hoffman
+46,Keith Arthur Bolden,Diamond Dave
+46,Dylan Flashner,Bishop
+46,Olivia d'Abo,Linda
+47,Alisha Weir,Matilda Wormwood
+47,Emma Thompson,Agatha Trunchbull
+47,Lashana Lynch,Miss Honey
+47,Stephen Graham,Mr. Wormwood
+47,Andrea Riseborough,Mrs. Wormwood
+47,Sindhu Vee,Mrs. Phelps
+47,Charlie Hodson-Prior,Bruce Bogtrotter
+47,Meesha Garbett,Hortensia
+47,Rei Yamauchi Fulker,Lavender
+48,Nancy Cartwright,Bart Simpson (voice)
+48,Yeardley Smith,Lisa Simpson (voice)
+48,Dan Castellaneta,Homer Simpson (voice)
+48,Julie Kavner,Marge Simpson (voice)
+48,Andrea Bocelli,Self (voice)
+48,Matteo Bocelli,Self (voice)
+48,Virginia Bocelli,Self (voice)
+49,Natsuki Hanae,Tanjiro Kamado (voice)
+49,Akari Kito,Nezuko Kamado (voice)
+49,Hiro Shimono,Zenitsu Agatsuma (voice)
+49,Yoshitsugu Matsuoka,Inosuke Hashibira (voice)
+49,Satoshi Hino,Kyojuro Rengoku (voice)
+49,Takahiro Sakurai,Giyū Tomioka (voice)
+49,Katsuyuki Konishi,Tengen Uzui (voice)
+49,Saori Hayami,Shinobu Kocho (voice)
+49,Kenichi Suzumura,Obanai Iguro (voice)
+50,Natalia Solián,Valeria
+50,Alfonso Dosal,Raúl
+50,Mayra Batalla,Octavia
+50,Mercedes Hernández,Isabel
+50,Aida López,Maricarmen
+50,Martha Claudia Moreno,Ursula
+50,Enoc Leaño,Luis
+50,Pablo Guisa Koestinger,Vecino (cameo)
+50,Sonia Couoh,Vero
+51,Germán Palacios,Juan Conte
+51,Victoria Almeida,María
+51,Gloria Carrá,
+51,César Bordón,Tomás Rubio
+51,Germán de Silva,
+51,Miguel Jordán,
+51,Héctor Calori,
+51,María Inés Banegas,
+51,Daniel Miglioranza,Doctor
+52,Kang Soo-youn,Seo-hyun
+52,Kim Hyun-joo,Jung-yi
+52,Ryu Kyung-soo,Sang-hoon
+52,Uhm Ji-won,Se-yeon
+52,Lee Dong-hee,Chairman
+52,Han Woo-yeol,Jae-kyung
+52,Lee Ga-kyung,Researcher 2
+52,Shin Min-jae,Researcher 3
+52,Kim Sun-hyuk,Researcher 5
+53,Tom Hanks,Otto Anderson
+53,Mariana Treviño,Marisol
+53,Rachel Keller,Sonya
+53,Manuel Garcia-Rulfo,Tommy
+53,Cameron Britton,Jimmy
+53,Kailey Hyman,Barb
+53,Mike Birbiglia,Real Estate Agent
+53,Elle Chapman,Sarah
+53,Joe Fishel,Army Doctor
+54,Woody Harrelson,Marcus
+54,Kaitlin Olson,Alex
+54,Cheech Marin,Julio
+54,Matt Cook,Sonny
+54,Ernie Hudson,Coach Phil Peretti
+54,Madison Tevlin,Cosentino
+54,Joshua Felder,Darius
+54,Kevin Iannucci,Johnny
+54,Ashton Gunning,Cody
+55,Chris Pine,Edgin Darvis
+55,Michelle Rodriguez,Holga Kilgore
+55,Regé-Jean Page,Xenk Yendar
+55,Justice Smith,Simon Aumar
+55,Sophia Lillis,Doric
+55,Hugh Grant,Forge Fitzwilliam
+55,Jason Wong,Dralas
+55,Chloe Coleman,Kira Darvis
+55,Daisy Head,Sofina the Red Wizard
+56,Ine Marie Wilmann,Nora Tidemann
+56,Kim S. Falck-Jørgensen,Andreas Isaksen
+56,Mads Sjøgård Pettersen,Kristoffer
+56,Gard B. Eidsvold,Tobias Tidemann
+56,Anneke von der Lippe,Statsminister Berit Moberg
+56,Dennis Storhøi,Forsvarssjef General Sverre Lunde
+56,Karoline Viktoria Sletteng Garvang,Sigrid Hodne
+56,Yusuf Toosh Ibra,Amir
+56,Ameli Olving Sælevik,Unge Nora Tidemann
+57,James Marsden,Tom Wachowski
+57,Ben Schwartz,Sonic the Hedgehog (voice)
+57,Tika Sumpter,Maddie Wachowski
+57,Natasha Rothwell,Rachel
+57,Adam Pally,Wade Whipple
+57,Shemar Moore,Randall
+57,Colleen O'Shaughnessey,Miles 'Tails' Prower (voice)
+57,Lee Majdoub,Agent Stone
+57,Idris Elba,Knuckles the Echidna (voice)
+58,Robert De Niro,Lorenzo Anello
+58,Chazz Palminteri,Sonny LoSpecchio
+58,Lillo Brancato,"Calogero ""C"" Anello (Age 17)"
+58,Francis Capra,"Calogero ""C"" Anello (Age 9)"
+58,Taral Hicks,Jane Williams
+58,Kathrine Narducci,Rosina Anello
+58,Clem Caserta,Jimmy Whispers
+58,Alfred Sauchelli Jr.,Bobby Bars
+58,Frank Pietrangolare,Danny K.O.
+59,Daniil Medvedev,Mic-Mic (voice)
+59,Bernard Jacobsen,Don Vulture (voice)
+59,Stephen Thomas Ochsner,Oscar (voice) (as Steven Ochsner)
+59,Liza Klimova,Michaela / Squirrel (voice)
+59,Kate Lann,Mary Grizzly / Stork Fan 1 (voice)
+59,Jonathan Salway,Old Stork (voice)
+59,Jordan Worsley,Billy (voice)
+59,David Andrew Grout,Karl (voice) (as David Grout)
+59,Andrey Kurganov,Arnold / Big Hyena / Elk (voice)
+60,Lin-Manuel Miranda,Host - Self
+60,Stephanie Beatriz,Mirabel Madrigal
+60,Adassa,Dolores Madrigal
+60,Carolina Gaitán,Pepa Madrigal
+60,Jessica Darrow,Luisa Madrigal
+60,Diane Guerrero,Isabela Madrigal
+60,Mauro Castillo,Félix Madrigal
+60,Angie Cepeda,Julieta Madrigal
+60,Olga Merediz,Abuela Alma Madrigal
+61,Tom Cruise,Capt. Pete 'Maverick' Mitchell
+61,Miles Teller,Lt. Bradley 'Rooster' Bradshaw
+61,Jennifer Connelly,Penny Benjamin
+61,Jon Hamm,Adm. Beau 'Cyclone' Simpson
+61,Glen Powell,Lt. Jake 'Hangman' Seresin
+61,Ed Harris,Radm. Chester 'Hammer' Cain
+61,Val Kilmer,Adm. Tom 'Iceman' Kazansky
+61,Lewis Pullman,Lt. Robert 'Bob' Floyd
+61,Charles Parnell,Adm. Solomon 'Warlock' Bates
+62,Dennis Quaid,Doug White
+62,Heather Graham,Terri White
+62,Jesse Metcalfe,Jesse White
+62,Abbey Rhyne,Bailey White
+62,Jessi Case,Maggie White
+62,Brett Rice,Jeff White
+62,Rocky Myers,Dan Favio
+62,Selena Anduze,Lisa Grimm
+62,E. Roger Mitchell,Brian Norton
+63,Pavlo Aldoshyn,Mykola
+63,Maryna Koshkina,Nastia
+63,Andrii Mostrenko,Cap
+63,Roman Semysal,Brigade commander
+63,Roman Yasinovskyi,
+63,Oleh Shulha,
+63,Yehor Kozlov,Ivan
+63,Yevhen Chernykov,
+63,Vadym Kurylko,Hyurza
+64,Antonio Banderas,Cuda
+64,Kate Bosworth,Estelle
+64,Mojean Aria,Stray
+64,Alexis Ren,Lexus
+64,Zolee Griggs,Billie
+64,2 Chainz,Freddie
+64,Aaron Cohen,Joe
+64,Natalie Burn,Olivia
+64,Mark Rhino Smith,Doom
+65,Giacomo Gianniotti,Diabolik
+65,Miriam Leone,Eva Kant
+65,Valerio Mastandrea,Ginko
+65,Monica Bellucci,Altea di Vallenberg
+65,Alessio Lapice,Roller
+65,Linda Caridi,Elena Vanel
+65,Pier Giorgio Bellocchio,Sgt. Palmer
+65,Ester Pantano,Capo ballerina
+65,Andrea Roncato,Barbo
+66,Melissa Barrera,Sam Carpenter
+66,Jenna Ortega,Tara Carpenter
+66,Jasmin Savoy Brown,Mindy Meeks-Martin
+66,Mason Gooding,Chad Meeks-Martin
+66,Roger Jackson,"""The Voice"" (voice)"
+66,Courteney Cox,Gale Weathers
+66,Dermot Mulroney,Detective Bailey
+66,Jack Champion,Ethan Landry
+66,Josh Segarra,Danny Brackett
+67,Sam Worthington,Jake Sully
+67,Zoe Saldaña,Neytiri
+67,Sigourney Weaver,Dr. Grace Augustine
+67,Stephen Lang,Colonel Miles Quaritch
+67,Michelle Rodriguez,Trudy Chacon
+67,Giovanni Ribisi,Parker Selfridge
+67,Joel David Moore,Norm Spellman
+67,CCH Pounder,Mo'at
+67,Wes Studi,Eytukan
+68,John Boyega,Brian Brown-Easley
+68,Michael Kenneth Williams,Eli Bernard
+68,Nicole Beharie,Estel Valerie
+68,Connie Britton,Lisa Larson
+68,Selenis Leyva,Rosa Diaz
+68,Jeffrey Donovan,Major Riddick
+68,Olivia Washington,Cassandra Brown-Easley
+68,London Covington,Kiah Easley
+68,Robb Derringer,Chief Jack Quail
+69,Taron Egerton,Henk Rogers
+69,Nikita Efremov,Alexey Pajitnov
+69,Sofia Lebedeva,Sasha
+69,Anthony Boyle,Kevin Maxwell
+69,Toby Jones,Robert Stein
+69,Igor Grabuzov,Valentin Trifonov
+69,Ben Miles,Howard Lincoln
+69,Ken Yamamura,Minoru Arakawa
+69,Roger Allam,Robert Maxwell
+70,Adam Driver,Mills
+70,Ariana Greenblatt,Koa
+70,Chloe Coleman,Nevine
+70,Nika King,Alya
+70,Brian Dare,Zoic Ship (voice) (uncredited)
+71,Chris Hemsworth,Thor Odinson
+71,Natalie Portman,Jane Foster / The Mighty Thor
+71,Christian Bale,Gorr
+71,Tessa Thompson,King Valkyrie
+71,Taika Waititi,Korg / Old Kronan God (voice)
+71,Jaimie Alexander,Sif
+71,Russell Crowe,Zeus
+71,Chris Pratt,Peter Quill / Star-Lord
+71,Karen Gillan,Nebula
+72,Michael Weaver,Ray Marsh
+72,Tim Griffin,Alan Meursault
+72,Justin Huen,Sean Tibbets
+72,Rune Temte,Jim
+72,Sarah Alles,Freida
+72,Laura Sophia Becker,Elsie
+72,Ingrid Liavaag,Marlene
+72,Thea Sofie Loch Næss,Lucy
+73,Lauren LaVera,Sienna
+73,David Howard Thornton,Art the Clown
+73,Elliott Fullam,Jonathan
+73,Sarah Voigt,Barbara
+73,Kailey Hyman,Brooke
+73,Casey Hartnett,Allie
+73,Charlie McElveen,Jeff
+73,Amelie McLain,The Little Pale Girl
+73,Johnath Davis,Ricky
+74,Keanu Reeves,John Wick
+74,Michael Nyqvist,Viggo Tarasov
+74,Ian McShane,Winston
+74,John Leguizamo,Aurelio
+74,Willem Dafoe,Marcus
+74,Alfie Allen,Iosef Tarasov
+74,Dean Winters,Avi
+74,Adrianne Palicki,Ms. Perkins
+74,Lance Reddick,Hotel Manager / Charon
+75,Tom Holland,Peter Parker / Spider-Man
+75,Zendaya,Michelle 'MJ' Jones
+75,Benedict Cumberbatch,Stephen Strange / Doctor Strange
+75,Jacob Batalon,Ned Leeds
+75,Jon Favreau,Harold 'Happy' Hogan
+75,Jamie Foxx,Max Dillon / Electro
+75,Willem Dafoe,Norman Osborn / Green Goblin
+75,Alfred Molina,Dr. Otto Octavius / Doctor Octopus
+75,Benedict Wong,Wong
+76,Jeffrey Donovan,Sheriff Roy Pulsipher
+76,Penelope Mitchell,Jeanne
+76,Richard Brake,Otis
+76,Kerry Knuppe,Hano
+76,Jake Choi,Slim
+76,Richard Fleeshman,Angus
+76,Craige Els,Julius Butterfield
+76,Tilly Keeper,Charlotte Pulsipher
+76,Nóra Trokán,Nell
+77,Polina Avdeenko,
+77,Yuliya Rudina,
+77,Boris Khasanov,
+77,Yuliya Zorkina,
+77,Vasilisa Ruchimskaya,
+78,Gregory Mann,Pinocchio (voice)
+78,Ewan McGregor,Sebastian J. Cricket (voice)
+78,David Bradley,Geppetto (voice)
+78,Christoph Waltz,Count Volpe (voice)
+78,Tilda Swinton,Wood Sprite / Death (voice)
+78,Ron Perlman,Il Podestà (voice)
+78,Finn Wolfhard,Candlewick (voice)
+78,Cate Blanchett,Spazzatura the Monkey (voice)
+78,Tim Blake Nelson,The Black Rabbits (voice)
+79,Bruno Bichir,Toto (voice)
+79,Mauricio Castillo,Barba Negra (voice)
+79,Marcelo Barcelo,Polito (voice)
+79,Miguel Rodarte,Barba Roja (voice)
+79,Arath de la Torre,Barba Jan (voice)
+79,Angélica Vale,Bibi (voice)
+79,Maite Perroni,Di (Voice)
+79,Carlos Espejel,Willy (voice)
+79,Vadhir Derbez,Pingüino Rey (voice)
+80,Masako Nozawa,Son Goku / Son Gohan / Son Goten / Gotenks (voice)
+80,Toshio Furukawa,Piccolo (voice)
+80,Yuko Minaguchi,Pan / Videl (voice)
+80,Hiroshi Kamiya,Gamma #1 (voice)
+80,Mamoru Miyano,Gamma #2 (voice)
+80,Miyu Irino,Dr. Hedo (voice)
+80,Ryota Takeuchi,Carmine / Garmine (voice)
+80,Aya Hisakawa,Bulma (voice)
+80,Mayumi Tanaka,Krillin / Yajirobe (voice)
+81,Eva Green,Christine
+81,Mark Strong,Felix
+81,Chai Fonacier,Diana
+81,Billie Gadsdon,Bobs
+81,Cathy Belton,Liz
+81,Anthony Falcon,Jomar
+82,Amber Midthunder,Naru
+82,Dakota Beavers,Taabe
+82,Michelle Thrush,Aruka
+82,Stormee Kipp,Wasape
+82,Julian Black Antelope,Chief Kehetu
+82,Dane DiLiegro,Predator
+82,Stefany Mathias,Sumu (Chief Wife)
+82,Bennett Taylor,Raphael
+82,Mike Paterson,Big Beard
+83,Kayla Adams,Sarah
+83,Matthew Holcomb,Payson
+83,Bryan David Roberts,Wade
+83,Chloe Berman,Lisa
+83,Brad Worch II,Greg
+83,Eric Alperin,
+83,Cody Renee Cameron,Ingrid
+84,Ben Foster,Jan Žižka
+84,Sophie Lowe,Kateřina
+84,Michael Caine,Lord Boreš
+84,Til Schweiger,Rožmberk
+84,Matthew Goode,král Zikmund
+84,Roland Møller,Torak
+84,William Moseley,Jaroslav
+84,Karel Roden,Václav IV.
+84,Werner Daehn,Ulrich
+85,Kirsten Day,Skipper / Tammy (voice)
+85,America Young,Barbie (voice)
+85,Ogie Banks,Sandwich Board Guy / Driver (voice)
+85,Laila Berzins,Captain / Handsome Host (voice)
+85,Alex Cazares,Anna / Brian / Helga / Big Kid / Book on Tape (voice)
+85,Greg Chun,George / Cooks / Zincenzio Dracula (voice)
+85,Julyza Commodore,Cheri / Chantal (voice)
+85,Innocent Ekakitie,Deacon (voice)
+85,Lisa Fuson,Margaret (voice)
+86,Bob Hoskins,Mario Mario
+86,John Leguizamo,Luigi Mario
+86,Dennis Hopper,King Koopa
+86,Samantha Mathis,Princess Daisy
+86,Fisher Stevens,Iggy
+86,Richard Edson,Spike
+86,Fiona Shaw,Lena
+86,Mojo Nixon,Toad
+86,Lance Henriksen,The King
+87,Sam Worthington,Ryan Logan
+87,Matt Nable,Johnny
+87,Phoebe Tonkin,Justine
+87,Edward Carmody,Billy Logan (Aged 16)
+87,Susie Porter,Magistrate
+87,Jeremy Lindsay Taylor,Jim Woods
+87,Sam Parsonson,Ned
+87,Sam Cotton,Boss
+87,George Houvardas,Tyler
+88,Chris Pratt,Owen Grady
+88,Bryce Dallas Howard,Claire Dearing
+88,Laura Dern,Dr. Ellie Sattler
+88,Jeff Goldblum,Dr. Ian Malcolm
+88,Sam Neill,Dr. Alan Grant
+88,DeWanda Wise,Kayla Watts
+88,Mamoudou Athie,Ramsay Cole
+88,Isabella Sermon,Maisie Lockwood
+88,Campbell Scott,Lewis Dodgson
+89,JP Karliak,Boss Baby (voice)
+89,Pierce Gagnon,Tim (voice)
+89,Amaryllis Aubel,French Girl (voice)
+89,Jodi Benson,Lala Doo-Da (voice)
+89,Alex Cazares,Staci (voice)
+89,Kalen Chase,Diddly Doo (voice)
+89,Ray Chase,Ding Dong Dongle (voice)
+89,David W. Collins,Dad (voice)
+89,Dana Davis,Jingly Jangly (voice)
+90,Zachary Levi,Shazam
+90,Mark Strong,Doctor Thaddeus  Sivana
+90,Asher Angel,Billy Batson
+90,Jack Dylan Grazer,Freddy Freeman
+90,Adam Brody,Super Hero Freddy
+90,Djimon Hounsou,Wizard
+90,Faithe Herman,Darla Dudley
+90,Meagan Good,Super Hero Darla
+90,Grace Caroline Currey,Mary Bromfield
+91,Jhon Álex Toro,Piquiña
+91,Laura Acuña,Liliana
+91,Rodrigo Candamil,
+92,Felix Kammerer,Paul Bäumer
+92,Albrecht Schuch,"Stanislaus ""Kat"" Katczinsky"
+92,Aaron Hilmer,Albert Kropp
+92,Moritz Klaus,Franz Müller
+92,Adrian Grünewald,Ludwig Behm
+92,Edin Hasanović,Tjaden Stackfleet
+92,Daniel Brühl,Matthias Erzberger
+92,Thibault de Montalembert,General Ferdinand Foch
+92,Devid Striesow,General Friedrichs
+93,David Harbour,Santa
+93,John Leguizamo,Scrooge
+93,Beverly D'Angelo,Gertrude
+93,Alex Hassell,Jason
+93,Alexis Louder,Linda
+93,Edi Patterson,Alva
+93,Cam Gigandet,Morgan Steel
+93,Leah Brady,Trudy
+93,André Eriksen,Gingerbread
+94,Melissa Barrera,Sam Carpenter
+94,Mason Gooding,Chad Meeks-Martin
+94,Jenna Ortega,Tara Carpenter
+94,Jack Quaid,Richie Kirsch
+94,Mikey Madison,Amber Freeman
+94,Courteney Cox,Gale Weathers
+94,David Arquette,Dewey Riley
+94,Neve Campbell,Sidney Prescott
+94,Dylan Minnette,Wes Hicks
+95,Jonathan Majors,Jesse Brown
+95,Glen Powell,Thomas J. Hudner Jr.
+95,Christina Jackson,Daisy Brown
+95,Thomas Sadoski,Dick Cevoli
+95,Daren Kagasoff,Bill Koenig
+95,Joe Jonas,Marty Goode
+95,Spencer Neville,Bo Lavery
+95,Nick Hargrove,Carol Mohring
+95,Boone Platt,Buddy Gill
+96,Viola Davis,Nanisca
+96,Thuso Mbedu,Nawi
+96,Lashana Lynch,Izogie
+96,Sheila Atim,Amenza
+96,John Boyega,King Ghezo
+96,Jordan Bolger,Malik
+96,Hero Fiennes Tiffin,Santo Ferreira
+96,Jimmy Odukoya,Oba Ade
+96,Masali Baduza,Fumbe
+97,Lily Sullivan,Beth
+97,Alyssa Sutherland,Ellie
+97,Morgan Davies,Danny
+97,Nell Fisher,Kassie
+97,Gabrielle Echols,Bridget
+97,Mia Challis,Jessica
+97,Jayden Daniels,Gabriel
+97,Tai Wano,Scott
+97,Billy Reynolds-McCarthy,Jake
+98,Kiana Madeira,Sienna Lane
+98,Ross Butler,Kayden Williams
+98,Matthew Noszka,Jax Deneris
+98,Bree Winslow,Beth
+98,Nicholas Duvernay,Brent Jacobs
+98,Manu Bennett,Julian
+98,Ryan Bown,Evan Kessler
+98,Poppy Gilbert,Cara
+98,Cecilia Diesch,Athena
+99,Egor Koreshkov,Dr. Steven Ross
+99,Alena Konstantinova,Amy
+99,Konstantin Samoukov,Ryan Connell
+99,Pyotr Romanov,Peter Lehmann
+99,Nikita Dyuvbanov,Frank Miller
+99,Liza Martines,Leona Redwood
+99,Viktor Potapeshkin,Richard Wilson
+99,Dmitry Frid,David Kurtz
+99,Katerina Shpitsa,Jane Rutkovsky
+100,Benedict Cumberbatch,Dr. Stephen Strange / Sinister Strange / Defender Strange
+100,Elizabeth Olsen,Wanda Maximoff / The Scarlet Witch
+100,Chiwetel Ejiofor,Baron Karl Mordo
+100,Benedict Wong,Wong
+100,Xochitl Gomez,America Chavez
+100,Jett Klyne,Tommy Maximoff
+100,Julian Hilliard,Billy Maximoff
+100,Sheila Atim,Sara
+100,Adam Hugill,Rintrah (voice)
+101,José María Yázpik,Neto Niente
+101,Shannyn Sossamon,Inez
+101,Tommy Flanagan,Jet Rink
+101,Ron Perlman,Sans
+101,Karla Souza,Collie
+101,Tim Roth,Carl Abrahams
+101,Paz Vega,Nadia
+101,Neal McDonough,Vincent
+101,Keidrich Sellati,Julio Niente
+102,Robert Downey Jr.,Tony Stark / Iron Man
+102,Chris Hemsworth,Thor Odinson
+102,Mark Ruffalo,Bruce Banner / Hulk
+102,Chris Evans,Steve Rogers / Captain America
+102,Scarlett Johansson,Natasha Romanoff / Black Widow
+102,Benedict Cumberbatch,Stephen Strange / Doctor Strange
+102,Tom Holland,Peter Parker / Spider-Man
+102,Chadwick Boseman,T'Challa / Black Panther
+102,Don Cheadle,James 'Rhodey' Rhodes / War Machine
+103,Sosie Bacon,Dr. Rose Cotter
+103,Kyle Gallner,Joel
+103,Caitlin Stasey,Laura Weaver
+103,Jessie T. Usher,Trevor
+103,Kal Penn,Dr. Morgan Desai
+103,Rob Morgan,Robert Talley
+103,Robin Weigert,Dr. Madeline Northcott
+103,Judy Reyes,Victoria Munoz
+103,Gillian Zinser,Holly
+104,Damián Alcázar,Rosendo / Regino / Ambrosio
+104,Alfonso Herrera,Pancho Reyes
+104,Joaquín Cosío,Rosendito / Reginito / Abuelo
+104,Ana de la Reguera,Mari
+104,Ana Martín,Dolores
+104,Angelina Peláez,Abuela
+104,Mayra Hermosillo,Gloria
+104,Fermín Martínez,El Lupe
+104,Leticia Huijara,Secretaria Regino
+105,Bruce Willis,Detective James Knight
+105,Jack Kilmer,Dezi
+105,Lochlyn Munro,Fitzgerald
+105,Jimmy Jean-Louis,Detective Godwin Sango
+105,Willow Shields,Ally
+105,Dina Meyer,Charlotte Burnham
+105,Timothy V. Murphy,
+105,Lorenzo Antonucci,George
+105,Joe Munroe,Robin
+106,Jake Gyllenhaal,Searcher Clade (voice)
+106,Dennis Quaid,Jaeger Clade (voice)
+106,Jaboukie Young-White,Ethan Clade (voice)
+106,Gabrielle Union,Meridian Clade (voice)
+106,Lucy Liu,Callisto Mal (voice)
+106,Alan Tudyk,Narrator / Radio Host 1 / Duffle (voice)
+106,Jonathan Melo,Diazo (voice)
+106,Abraham Benrubi,Lonnie Redshirt (voice)
+106,Karan Soni,Caspian (voice)
+107,Charlton Heston,Moses
+107,Yul Brynner,Rameses
+107,Anne Baxter,Nefretiri
+107,Edward G. Robinson,Dathan
+107,Yvonne De Carlo,Sephora
+107,Debra Paget,Lilia
+107,John Derek,Joshua
+107,Cedric Hardwicke,Sethi
+107,Nina Foch,Bithiah
+108,Natsuki Hanae,Tanjiro Kamado (voice)
+108,Akari Kito,Nezuko Kamado (voice)
+108,Takahiro Sakurai,Giyū Tomioka (voice)
+108,Hochu Otsuka,Sakonji Urokodaki (voice)
+108,Yuki Kaji,Sabito (voice)
+108,Ai Kakuma,Makomo (voice)
+108,Daisuke Namikawa,Hotaru Haganezuka (voice)
+108,Toshihiko Seki,Muzan Kibutsuji (voice)
+108,Takehito Koyasu,Hand demon (voice)
+109,Blanca Suárez,Lorena
+109,Alberto San Juan,Julián
+109,Rubén Cortada,Sergio
+109,Ernesto Alterio,Juan Carlos
+109,Carlos Areces,Santiago
+109,Isidro Montalvo,Revuelta
+109,Jaime Ordóñez,Morales
+109,Enrique Villén,Violent Guy
+109,Pat Aguiló,Mercedes
+110,Pierre Coffin,Kevin / Stuart / Bob / Minions (voice)
+110,Steve Carell,Gru (voice)
+110,Russell Brand,Dr. Nefario (voice)
+110,Alan Arkin,Wild Knuckles (voice)
+110,Taraji P. Henson,Belle Bottom (voice)
+110,Jean-Claude Van Damme,Jean Clawed (voice)
+110,Lucy Lawless,Nunchuck (voice)
+110,Dolph Lundgren,Svengeance (voice)
+110,Danny Trejo,Stronghold (voice)
+111,Michael B. Jordan,Adonis Johnson
+111,Sylvester Stallone,Rocky Balboa
+111,Tessa Thompson,Bianca
+111,Wood Harris,Tony 'Little Duke' Evers
+111,Russell Hornsby,Buddy Marcelle
+111,Phylicia Rashād,Mary Anne Creed
+111,Dolph Lundgren,Ivan Drago
+111,Florian Munteanu,Viktor Drago
+111,Andre Ward,Danny 'Stuntman' Wheeler
+112,Michael B. Jordan,Adonis Johnson
+112,Sylvester Stallone,Rocky Balboa
+112,Tessa Thompson,Bianca
+112,Phylicia Rashād,Mary Anne Creed
+112,Andre Ward,Danny 'Stuntman' Wheeler
+112,Tony Bellew,'Pretty' Ricky Conlan
+112,Ritchie Coster,Pete Sporino
+112,Jacob 'Stitch' Duran,Stitch
+112,Graham McTavish,Tommy Holiday
+113,Idris Elba,Dr. Nate Daniels
+113,Leah Sava Jeffries,Norah Daniels
+113,Iyana Halley,Meredith Daniels
+113,Sharlto Copley,Martin Battles
+113,Martin Munro,Kees
+113,Liyabuya Gongo,Cut Offs
+113,Daniel Hadebe,Abduya
+113,Thapelo Sebogodi,Camo
+113,Mduduzi Mavimbela,Poacher Mizozi
+114,Vin Diesel,Dominic Toretto
+114,Michelle Rodriguez,Letty Ortiz
+114,Tyrese Gibson,Roman Pearce
+114,Ludacris,Tej Parker
+114,Jason Momoa,Dante Reyes
+114,Nathalie Emmanuel,Ramsey
+114,Jordana Brewster,Mia Toretto
+114,John Cena,Jakob Toretto
+114,Jason Statham,Deckard Shaw
+115,Alessandro Gassmann,Santo
+115,Ginevra Francesconi,Sofia
+115,Remo Girone,Angelo Lo Bianco
+115,Alessio Praticò,Michele Lo Bianco
+115,Francesco Villano,Rudi Crisarà
+115,Gabriele Falsetta,Ferrario
+115,Marcello Mazzarella,Vituzzo
+115,Mauro Lamanna,Marino Gallo
+115,Sinja Dieks,Ingrid Gruber
+116,Jason Statham,H
+116,Holt McCallany,Bullet
+116,Josh Hartnett,Boy Sweat Dave
+116,Scott Eastwood,Jan
+116,Darrell D'Silva,Mike
+116,Babs Olusanmokun,Moggy
+116,Jeffrey Donovan,Jackson
+116,Eddie Marsan,Terry
+116,Andy García,Agent King
+117,Sydney Craven,Laine
+117,Imran Adams,Chase
+117,Jarreau Benjamin,The Creeper
+117,Matt Barkley,Jamie
+117,Peter Brooke,Stu
+117,Ocean Navarro,Carrie
+117,Gary Graham,Ronald
+117,Gabriel Freilich,Sam
+117,Terry Bird,Officer Edwards
+118,Rosalie Chiang,Meilin 'Mei' Lee (voice)
+118,Sandra Oh,Ming (voice)
+118,Ava Morse,Miriam (voice)
+118,Hyein Park,Abby (voice)
+118,Maitreyi Ramakrishnan,Priya (voice)
+118,Orion Lee,Jin Lee (voice)
+118,Wai Ching Ho,Grandma (voice)
+118,Tristan Allerick Chen,Tyler (voice)
+118,Lori Tan Chinn,Auntie Chen (voice)
+119,Stephanie Beatriz,Mirabel Madrigal (voice)
+119,María Cecilia Botero,Abuela Alma Madrigal (voice)
+119,John Leguizamo,Bruno Madrigal (voice)
+119,Mauro Castillo,Félix Madrigal (voice)
+119,Jessica Darrow,Luisa Madrigal (voice)
+119,Angie Cepeda,Julieta Madrigal  (voice)
+119,Carolina Gaitán,Pepa Madrigal (voice)
+119,Diane Guerrero,Isabela Madrigal (voice)
+119,Wilmer Valderrama,Agustín Madrigal (voice)
+120,James Cromwell,Bud
+120,Darcey Ewart,Gloria
+120,Sarah-Jane Potts,Claire
+120,Aaron McCusker,Gerald
+120,Joseph Millson,Finn Wally
+120,Stephanie Levi-John,Erica
+120,Florisa Kamara,Haley
+120,Lucas Persaud,Tyler
+120,Jessica Blake,Sally
+121,Channing Tatum,Mike Lane
+121,Salma Hayek,Maxandra Mendoza
+121,Ayub Khan-Din,Victor
+121,Jemelia George,Zadie Rattigan
+121,Ethan Lawrence,Woody
+121,Juliette Motamed,Hannah
+121,Alan Cox,Roger Rattigan
+121,Caitlin Gerard,Kim
+121,Vicki Pepperdine,Edna Eaglebauer
+122,Kevin Sorbo,King Herod
+122,James Russo,Castor
+122,Major Dodge,Gabriel
+122,Stelio Savante,Tiran
+122,Krista Bradley,Joanna
+122,Xiomara Bermudez,Mary
+122,Jay Giannone,Dismas
+122,"Charles ""Skeeta"" Jenkins",Melchior
+122,Major Dodge Jr.,Young Jotham
+123,Andrew Garfield,Desmond T. Doss
+123,Sam Worthington,Captain Glover
+123,Vince Vaughn,Sergeant Howell
+123,Teresa Palmer,Dorothy Schuttle
+123,Luke Bracey,Smitty Ryker
+123,Hugo Weaving,Tom Doss
+123,Ryan Corr,Lt. Manville
+123,Rachel Griffiths,Bertha Doss
+123,Richard Roxburgh,Colonel Stelzer
+124,Ester Expósito,Lucía
+124,Ángela Cremonte,Rocío
+124,Inés Fernández,Alba
+124,Magüi Mira,Marga
+124,Aten Soria,Romina
+124,María José Sarrate,Rosita
+124,Sofía Reyes,Olivia
+124,Fernando Valdivielso,Moro
+124,Federico Aguado,Salinas
+125,Nick Blood,Art
+125,Emm Wiseman,Claire
+125,Paul Kaye,Heimish
+125,Allan Corduner,Saul
+125,Daniel Ben Zenou,Chayim
+125,Sofia Weldon,Sarah Scheindal
+125,Anton Trendafilov,Yosille
+125,Meglena Karalambova,Aida
+125,Jonathan Yunger,Levi Siegelman
+126,Megumi Ogata,Yuta Okkotsu (voice)
+126,Kana Hanazawa,Rika Orimoto (voice)
+126,Yuichi Nakamura,Satoru Gojo (voice)
+126,Takahiro Sakurai,Suguru Geto (voice)
+126,Mikako Komatsu,Maki Zen'in (voice)
+126,Koki Uchiyama,Toge Inumaki (voice)
+126,Tomokazu Seki,Panda (voice)
+126,Mitsuo Iwata,Kiyotaka Ijichi (voice)
+126,Takaya Kuroda,Masamichi Yaga (voice)
+127,Robert Pattinson,Bruce Wayne / The Batman
+127,Zoë Kravitz,Selina Kyle / Catwoman
+127,Paul Dano,Edward Nashton / The Riddler
+127,Jeffrey Wright,Lt. James Gordon
+127,John Turturro,Carmine Falcone
+127,Peter Sarsgaard,District Attorney Gil Colson
+127,Andy Serkis,Alfred Pennyworth
+127,Colin Farrell,Oswald 'Oz' Cobblepot / The Penguin
+127,Jayme Lawson,Bella Reál
+128,Jaden Smith,Daryn
+128,Cara Delevingne,Isabelle
+128,Cuba Gooding Jr.,Xavier
+128,Nia Long,Catherine
+128,RZA,Ron
+128,JT Neal,Sammy
+128,Chris D'Elia,Phil
+128,Harper Gunn,Little Girl
+128,Dan Tymon,Jackson
+129,Toru Furuya,Mario (voice)
+129,Yu Mizushima,Luigi (voice)
+129,Mami Yamase,Princess Peach (voice)
+129,Akiko Wada,King Koopa Bowser (voice)
+129,Yuriko Yamamoto,The Great Toad (voice)
+129,Kōhei Miyauchi,Mushroom Hermit (voice)
+129,Shigeru Chiba,Kibidango (voice)
+129,Hiroko Emori,Toad (voice)
+129,Hiroko Maruyama,Goomba (voice)
+130,Will Beinbrink,Father Peter Williams
+130,María Gabriela de Faría,Esperanza
+130,Irán Castillo,Magali
+130,Joseph Marcell,Father Michael Lewis
+130,Hector Kotsifakis,Dr. Nelson
+130,Juan Ignacio Aranda,Bishop Balducci
+130,Evelia Di Gennaro,Sister Camila
+131,Thomas Hobson,James 'Doc' McCune
+131,Tara Perry,Annie
+131,Phil Morris,Matthew McCune
+131,Angela Bettis,Lucille
+131,David Arquette,Douglas
+131,Tim Blake Nelson,Torb
+131,Joseph Ruud,William
+131,David Aaron Baker,Jesse
+131,Neva Howell,Miss Roberts
+132,Gilles Lellouche,Mathieu Roussel
+132,Joanna Kulig,Svetlana
+132,Mikhail Gorevoy,Rostov
+132,Sasha Piltsin,Sergey
+132,Mikhail Safronov,Ivanovich
+132,Aleksey Gorbunov,Borodin
+132,Igor Jijikine,Sagarine
+132,Elisa Lasowski,Alica
+132,Daniil Vorobyov,Sacha
+133,Malena Villa,
+133,Julio Perillán,
+133,Ailín Salas,
+133,Rafael Federman,
+133,Lina Gorbaneva,
+133,David Schetman,
+133,Ernestina Gatti,
+133,Lucas Damario,
+133,Eva Bianco,
+134,Matt Damon,Sonny Vaccaro
+134,Ben Affleck,Phil Knight
+134,Jason Bateman,Rob Strasser
+134,Marlon Wayans,George Raveling
+134,Chris Messina,David Falk
+134,Chris Tucker,Howard White
+134,Viola Davis,Deloris Jordan
+134,Julius Tennon,James Jordan
+134,Damian Young,Michael Jordan
+135,Amy Adams,Giselle
+135,Patrick Dempsey,Robert Philip
+135,Maya Rudolph,Malvina
+135,Gabriella Baldacchino,Morgan
+135,James Marsden,Prince Edward
+135,Idina Menzel,Nancy Tremaine
+135,Yvette Nicole Brown,Rosaleen
+135,Jayma Mays,Ruby
+135,Kolton Stewart,Tyson
+136,Eva Noblezada,Sam Greenfield (voice)
+136,Simon Pegg,Bob (voice)
+136,Jane Fonda,Dragon (voice)
+136,Whoopi Goldberg,Captain (voice)
+136,Flula Borg,Jeff the Unicorn (voice)
+136,Lil Rel Howery,Marvin (voice)
+136,Colin O'Donoghue,Jerry (voice)
+136,John Ratzenberger,Rootie (voice)
+136,Adelynn Spoon,Hazel (voice)
+137,Brad Pitt,Ladybug
+137,Joey King,Prince
+137,Aaron Taylor-Johnson,Tangerine
+137,Brian Tyree Henry,Lemon
+137,Andrew Koji,Kimura
+137,Hiroyuki Sanada,The Elder
+137,Michael Shannon,White Death
+137,Bad Bunny,The Wolf
+137,Sandra Bullock,Maria
+138,Joshua Bassett,Nick Daley (voice)
+138,Thomas Lennon,Teddy (voice)
+138,Joseph Kamal,Kahmunrah (voice)
+138,Akmal Saleh,Seth (voice)
+138,Steve Zahn,Jedediah (voice)
+138,Jack Whitehall,Octavius (voice)
+138,Kieran Sequoia,Sacajawea (voice)
+138,Alice Isaaz,Joan of Arc (voice)
+138,Jamie Demetriou,Dr. McPhee (voice)
+139,Anna Akana,Luna
+139,Mark Dacascos,Shinshiro
+139,Teresa Ting,Onami
+139,Dustin Nguyen,Nikko
+139,Dan Southworth,Yurei
+139,Yoshi Sudarso,Sun
+139,Akira Koieyama,Ikeda
+139,Niino Furuhata,Dash
+139,Luna Fujimoto,Mai
+140,Matthew McConaughey,Buster Moon (voice)
+140,Reese Witherspoon,Rosita (voice)
+140,Scarlett Johansson,Ash (voice)
+140,Taron Egerton,Johnny (voice)
+140,Bobby Cannavale,Mr. Crystal (voice)
+140,Tori Kelly,Meena (voice)
+140,Nick Kroll,Gunter (voice)
+140,Halsey,Porsha Crystal (voice)
+140,Spike Jonze,Jerry (voice) (uncredited)
+141,Holly Earl,Nat
+141,Maxime Durand,Street Cleaner
+141,Catherine Hannay,Milly
+141,Jack Trueman,Tom
+141,Joshua Takacs,Spring Breaker
+141,Manuel Cauchi,The Beggar
+141,Malachi Pullar-Latchman,Tyler
+141,Thomas Michael Flynn,Greg
+142,Mike Myers,Shrek (voice)
+142,Eddie Murphy,Donkey (voice)
+142,Cameron Diaz,Princess Fiona (voice)
+142,John Lithgow,Lord Farquaad (voice)
+142,Vincent Cassel,Monsieur Hood (voice)
+142,Peter Dennis,Ogre Hunter (voice)
+142,Clive Pearse,Ogre Hunter (voice)
+142,Jim Cummings,Captain of Guards (voice)
+142,Bobby Block,Baby Bear (voice)
+144,Kaaris,Ibrahim
+144,Alassane Diong,Adama
+144,Assa Sylla,Aïssata
+144,Issaka Sawadogo,Ousmane
+144,Hassam Ghancy,Chérif
+144,Jonas Dinal,Oumar
+144,Dreyfus Gbadjale,Kangourang
+144,Fahmi Guerbaa,Kamel
+144,Samuel Jouy,Eddy
+145,Jack Huston,Shelby John
+145,Robert De Niro,Sheriff Church
+145,John Malkovich,Peter
+145,Willa Fitzgerald,Ruby Red
+145,Quavo,Coyote
+145,Meadow Williams,Detective Zeppelin
+145,Swen Temmel,Elvis Kincaid
+145,Noel Gugliemi,
+145,Jonny Orsini,Skeeter
+146,Jorma Tommila,Aatami Korpi
+146,Aksel Hennie,Bruno Helldorf
+146,Jack Doolan,Wolf
+146,Onni Tommila,Schütze
+146,Mimosa Willamo,Aino
+146,Tatu Sinisalo,SS soldier 1
+146,Wilhelm Enckell,SS soldier 3
+146,Vincent Willestrand,SS soldier 4
+146,Arttu Kapulainen,Rower
+147,Selena Gomez,Mavis Dracula (voice)
+147,Andy Samberg,Johnny Loughran (voice)
+147,Kathryn Hahn,Ericka Van Helsing (voice)
+147,Jim Gaffigan,Van Helsing (voice)
+147,Steve Buscemi,Wayne (voice)
+147,Molly Shannon,Wanda (voice)
+147,David Spade,Griffin (voice)
+147,Keegan-Michael Key,Murray (voice)
+147,Brian Hull,Dracula (voice)
+148,Jason Statham,Orson Fortune
+148,Aubrey Plaza,Sarah Fidel
+148,Josh Hartnett,Danny Franscesco
+148,Hugh Grant,Greg Simmonds
+148,Cary Elwes,Nathan Jasmine
+148,Bugzy Malone,JJ Davies
+148,Peter Ferdinando,Mike
+148,Eddie Marsan,Norman
+148,Lourdes Faberes,Emilia
+149,Dominic Mariche,Gary
+149,Phoebe Rex,Samantha
+149,Calem MacDonald,Billy
+149,Asher Grayson,Jack
+149,Ben Tector,Miles
+149,Emma Vickers,Trish
+149,Isaiah Fortune,Dallas
+149,Jonathan Torrens,Dad
+149,Caleb Allred,Alien
+150,Michelle Yeoh,Evelyn Wang
+150,Stephanie Hsu,Joy Wang / Jobu Tupaki
+150,Ke Huy Quan,Waymond Wang
+150,James Hong,Gong Gong
+150,Jamie Lee Curtis,Deirdre Beaubeirdre
+150,Tallie Medel,Becky Sregor
+150,Jenny Slate,Debbie the Dog Mom
+150,Harry Shum Jr.,Chad
+150,Biff Wiff,Rick
+151,Daniel Craig,Benoit Blanc
+151,Edward Norton,Miles Bron
+151,Janelle Monáe,Helen / Andi Brand
+151,Kathryn Hahn,Claire Debella
+151,Leslie Odom Jr.,Lionel Toussaint
+151,Kate Hudson,Birdie Jay
+151,Dave Bautista,Duke Cody
+151,Jessica Henwick,Peg
+151,Madelyn Cline,Whiskey
+152,Pol López,Iván
+152,Vicky Luengo,Elena
+152,Ilyass El Ouahdani,
+152,Josep Estragués,Enric
+152,David Parcet,Maurici
+152,Vicente Botella,Chema
+152,Josep Maria Gómez,Manel
+152,Irina Moradell,Filla Helena i Ivan
+153,Charlotte Kirk,Capt. Kate Sinclair
+153,Jonathan Howard,Sgt. Tom Hook
+153,Jamie Bamber,Major Roy Finch
+153,Mark Strepan,Corp. Kip Wilks
+153,Hadi Khanjanpour,Kabir
+153,Leon Ockenden,Sgt. Oswald Jones
+153,Cesare Taurasi,Trooper Vince Hughes
+153,Adam Bond,Pvt. Eddie Serano
+153,Neil Marshall,Spearhead Operator
+154,Daiki Yamashita,Izuku Midoriya (voice)
+154,Nobuhiko Okamoto,Katsuki Bakugo (voice)
+154,Yuki Kaji,Shoto Todoroki (voice)
+154,Ryo Yoshizawa,Rody Soul (voice)
+154,Kazuya Nakai,Flect Turn (voice)
+154,Megumi Hayashibara,Pino (voice)
+154,Kenta Miyake,All Might (voice)
+154,Tetsu Inada,Endeavor (voice)
+154,Yuichi Nakamura,Hawks (voice)
+155,Adrián Uribe,Alfredo García
+155,Consuelo Duval,María José Márquez
+155,Niko Antonyan,Tolstoi
+155,Angélica Aragón,Abuela
+155,Luis Arrieta,Ignacio Rosas
+155,Livia Brito Pestana,Carmen Pelusi
+155,Paly Duval,María José de Joven
+155,Carlos Gatica,Alfredo de Joven
+155,Carolina Miranda,Bicha
+156,Ofelia Medina,Josefa
+156,Arap Bethke,Guillermo
+156,Samantha Castillo,Vecina
+156,Mauro González,Pedro
+156,Mildred Motta,Vecina
+156,Ivanna Sofia Ferro,Luna
+156,Paloma Alvamar,Abigail
+156,Paola Miguel,Nala
+156,Pablo Guisa Koestinger,Mercader
+157,Fernando Cabrera,Inspector Sun (voz)
+157,Andrea Villaverde,Janey (voz)
+157,Catherina Martínez,Isabella (voz)
+157,Ana Jiménez,Hormiga Reina (voz)
+157,Txema Moscoso,Escarabeo (voz)
+157,Vicente Gil,Bugsy Spindelthorp (voz)
+157,Jesús Barreda,Comandante Skelt (voz)
+157,Pedro Tena Ramos,Langosta Roja (voz)
+157,María Luisa Marciel,Carol (voz)
+158,Emile Hirsch,Adam
+158,Stephen Dorff,Cody
+158,Gigi Zumbado,Grace
+158,Tyler Sanders,Danny
+158,Erika Ervin,Jodi
+158,Jesse Kinser,John
+158,Sabina Mach,Carly
+158,Vernon Wells,The Doctor
+158,Tanner Zagarino,Shane
+159,Kanichi Kurita,Arsène Lupin III (voice)
+159,Akio Otsuka,Daisuke Jigen (voice)
+159,Miyuki Sawashiro,Fujiko Mine (voice)
+159,Daisuke Namikawa,Goemon Ishikawa XIII (voice)
+159,Koichi Yamadera,Inspector Koichi Zenigata (voice)
+159,Keiko Toda,Hitomi Kisugi (voice)
+159,Rica Fukami,Rui Kisugi (voice)
+159,Chika Sakamoto,Ai Kisugi (voice)
+159,Yoshito Yasuhara,Toshi Utsumi (voice)
+160,Adam Sandler,Nick Spitz
+160,Jennifer Aniston,Audrey Spitz
+160,Luke Evans,Charles Cavendish
+160,Terence Stamp,Malcolm Quince
+160,Gemma Arterton,Grace Ballard
+160,David Walliams,Tobey Quince
+160,Dany Boon,Inspector Laurent de la Croix
+160,John Kani,Colonel Ulenga
+160,Adeel Akhtar,Maharajah
+161,Juan Luppi,Gervasio
+161,Martina Krasinsky,Brenda
+161,Tupac Larriera,Carlos
+161,Diego Alonso,
+161,Gustavo Luppi,
+161,Merceditas Elordi,
+161,Fabián Benítez,
+161,Elvira Onetto,
+162,Brad Pitt,Jack Conrad
+162,Margot Robbie,Nellie LaRoy
+162,Diego Calva,Manny Torres
+162,Jean Smart,Elinor St. John
+162,Flea,Bob Levine
+162,Jovan Adepo,Sidney Palmer
+162,J.C. Currais,Truck Driver
+162,Jimmy Ortega,Elephant Wrangler
+162,Hansford Prince,Joe Holiday
+163,Sandra Bullock,Loretta Sage / Angela
+163,Channing Tatum,Alan / Dash
+163,Daniel Radcliffe,Abigail Fairfax
+163,Brad Pitt,Jack Trainer
+163,Da'Vine Joy Randolph,Beth Hatten
+163,Patti Harrison,Allison
+163,Oscar Nunez,Adrian Austin
+163,Bowen Yang,Ray the Moderator
+163,Stephen Lang,Fantasy Villain
+164,Bruce Willis,Det. James Knight
+164,Beau Mirchoff,Casey Rhodes
+164,Lochlyn Munro,Fitzgerald
+164,Corey Large,Mercer
+164,Jimmy Jean-Louis,Godwin
+164,Michael Eklund,Winna
+164,Johnny Messner,Brigga
+164,Cody Kearsley,Dajon
+164,Keeya King,Nikki Sykes
+165,Auðunn Blöndal,Bússi
+165,Egill Einarsson,Hörður
+165,Steinunn Ólína Þorsteinsdóttir,Þorgerður
+165,Sverrir Þór Sverrisson,Klemenz
+165,Björn Hlynur Haraldsson,Rikki Ferrari
+165,Vivian Ólafsdóttir,Stefanía
+165,Rúrik Gíslason,Ómar
+165,Júlíana Sara Gunnarsdóttir,Lilja Íris
+165,Steinþór Hróar Steinþórsson,Svavar
+166,Yoshitsugu Matsuoka,Futaro Uesugi (voice)
+166,Kana Hanazawa,Ichika Nakano (voice)
+166,Ayana Taketatsu,Nino Nakano (voice)
+166,Miku Ito,Miku Nakano (voice)
+166,Ayane Sakura,Yotsuba Nakano (voice)
+166,Inori Minase,Itsuki Nakano (voice)
+166,Natsumi Takamori,Raiha Uesugi (voice)
+166,Satoshi Hino,Isanari Uesugi (voice)
+167,Daniel Radcliffe,Harry Potter
+167,Rupert Grint,Ron Weasley
+167,Emma Watson,Hermione Granger
+167,Kenneth Branagh,Gilderoy Lockhart
+167,John Cleese,Nearly Headless Nick (Sir Nicholas)
+167,Robbie Coltrane,Rubeus Hagrid
+167,Warwick Davis,Filius Flitwick
+167,Richard Griffiths,Vernon Dursley
+167,Richard Harris,Albus Dumbledore
+168,Jeon Do-yeon,Gil Bok-soon
+168,Sol Kyung-gu,Cha Min-kyu
+168,Kim Si-a,Gil Jae-young
+168,Esom,Cha Min-hee
+168,Koo Kyo-hwan,Han Hee-sung
+168,Kim Sung-oh,Shin
+168,Lee Yeon,Kim Young-ji
+168,Hwang Jung-min,Kim Gwang-il
+168,Choi Byung-mo,Hyun-chul
+169,Eden Brolin,Riley
+169,Olivia Luccardi,Remy
+169,William Baldwin,Sheriff Rex
+169,Owen Campbell,Levi
+169,Brad Carter,Theo
+169,Virginia Rand,Liv
+169,Guinevere Turner,Nora
+169,Sam Quartin,Sadie
+169,Billy Blair,Ogden
+170,Tom Hardy,Eddie Brock / Venom
+170,Woody Harrelson,Cletus Kasady / Carnage
+170,Michelle Williams,Anne Weying
+170,Naomie Harris,Frances Louise Barrison / Shriek
+170,Reid Scott,Dr. Dan Lewis
+170,Stephen Graham,Detective Mulligan
+170,Peggy Lu,Mrs. Chen
+170,Sian Webber,Dr. Pazzo
+170,Michelle Greenidge,Mugging Victim
+171,Daniel Radcliffe,Harry Potter
+171,Rupert Grint,Ron Weasley
+171,Emma Watson,Hermione Granger
+171,Richard Harris,Albus Dumbledore
+171,Tom Felton,Draco Malfoy
+171,Alan Rickman,Severus Snape
+171,Robbie Coltrane,Rubeus Hagrid
+171,Maggie Smith,Minerva McGonagall
+171,Richard Griffiths,Vernon Dursley
+172,Jerrod Carmichael,Val
+172,Christopher Abbott,Kevin
+172,Tiffany Haddish,Natasha
+172,Lavell Crawford,Donny
+172,J.B. Smoove,Lyndell
+172,Henry Winkler,Dr. Brenner
+172,Ryan McDonald,Brian
+172,Allison Busner,Leah
+172,Jamie Mac,Todd
+173,Tom Holland,Nathan Drake
+173,Mark Wahlberg,Victor 'Sully' Sullivan
+173,Sophia Ali,Chloe Frazer
+173,Tati Gabrielle,Jo Braddock
+173,Antonio Banderas,Santiago Moncada
+173,Steven Waddington,The Scotsman
+173,Rudy Pankow,Young Sam
+173,Tiernan Jones,Young Nate
+173,Pingi Moli,Hugo
+174,Dwayne Johnson,Krypto the Superdog (voice)
+174,Kevin Hart,Ace the Bat-Hound (voice)
+174,John Krasinski,Clark Kent / Superman (voice)
+174,Keanu Reeves,Bruce Wayne / Batman (voice)
+174,Kate McKinnon,Lulu (voice)
+174,Vanessa Bayer,PB (voice)
+174,Natasha Lyonne,Merton (voice)
+174,Diego Luna,Chip (voice)
+174,Jameela Jamil,Diana Prince / Wonder Woman (voice)
+175,Halle Berry,Jo Fowler
+175,Patrick Wilson,Brian Harper
+175,John Bradley,K.C. Houseman
+175,Charlie Plummer,Sonny Harper
+175,Kelly Yu,Michelle
+175,Michael Peña,Tom Lopez
+175,Donald Sutherland,Holdenfield
+175,Eme Ikwuakor,Doug Davidson
+175,Carolina Bartczak,Brenda Lopez
+176,Dali Benssalah,Abdel
+176,Anthony Bajon,Jérôme
+176,Alexis Manenti,Sébastien
+176,Ouassini Embarek,Mokhtar
+176,Sami Slimane,Karim
+176,Radostina Rogliano,
+176,Karim Lasmi,
+176,Mehdi Abdelhakmi,
+176,Tarek Haddaji,
+177,Jon Goiri,Azulín (voice)
+177,Jaione Insausti,Gordi (voice)
+177,Ramón Barea,Narrador (voice)
+177,Txema Regalado,Padre (voice)
+177,Manu Heras,Sargento Caricias / Papá (voice)
+177,Gaizka Soria,Coco (voice)
+177,Iker Diaz,Achuchones (voice)
+177,Estívaliz Lizárraga,Pandi (voice)
+177,Pedro Arrieta,Blackie (voice)
+178,Tyler Posey,Scott McCall
+178,Crystal Reed,Allison Argent
+178,Holland Roden,Lydia Martin
+178,Tyler Hoechlin,Derek Hale
+178,Shelley Hennig,Malia Tate
+178,JR Bourne,Chris Argent
+178,Ian Bohen,Peter Hale
+178,Colton Haynes,Jackson Whittemore
+178,Linden Ashby,Sheriff Stilinski
+179,Eddie Redmayne,Newt Scamander
+179,Jude Law,Albus Dumbledore
+179,Mads Mikkelsen,Gellert Grindelwald
+179,Ezra Miller,Credence Barebone / Aurelius Dumbledore
+179,Dan Fogler,Jacob Kowalski
+179,Alison Sudol,Queenie Goldstein / Queenie Kowalski
+179,Callum Turner,Theseus Scamander
+179,Jessica Williams,Eulalie 'Lally' Hicks
+179,Katherine Waterston,Porpentina 'Tina' Goldstein
+180,Owen Wilson,Lightning McQueen (voice)
+180,Cristela Alonzo,Cruz Ramirez (voice)
+180,Chris Cooper,Smokey Yunick (voice)
+180,Nathan Fillion,Sterling (voice)
+180,Armie Hammer,Jackson Storm (voice)
+180,Larry the Cable Guy,Mater (voice)
+180,Bonnie Hunt,Sally Carrera (voice)
+180,Lea DeLaria,Miss Fritter (voice)
+180,Kerry Washington,Natalie Certain (voice)
+181,Brittany Ashworth,Kelly
+181,Nathan Welsh,Reynolds
+181,Anaïs Parello,Sophie
+181,Louis Boyer,Nathan
+181,Ben Lamb,Joshua
+181,David Wayman,Taylor
+182,Abimana Aryasatya,Topan
+182,Putri Marino,Dina
+182,Lutesha,Alpha
+182,Arie Kriting,Jenggo
+182,Kristo Immanuel,Pelor
+182,Marthino Lio,Antonio Sandoval/Suranto
+182,Michelle Tahalea,Alo
+182,Michael Kho,Lengko/Vinsen
+182,Donny Damara,Hassan
+183,Matthew McConaughey,"Joseph ""Coop"" Cooper"
+183,Anne Hathaway,Dr. Amelia Brand
+183,Jessica Chastain,"Murphy ""Murph"" Cooper"
+183,Bill Irwin,TARS (voice)
+183,Ellen Burstyn,Old Murph
+183,Michael Caine,Professor John Brand
+183,Mackenzie Foy,Young Murph
+183,Casey Affleck,Tom Cooper
+183,John Lithgow,Donald
+184,Elli Rhiannon Müller Osborne,Thale Berg
+184,Liv Mjönes,Liv Berg
+184,Vidar Magnussen,Arthur Berg
+184,Mia Fosshaug Laubacher,Jenny Berg
+184,Arthur Hakalahti,William Nordvaag
+184,Sjur Vatne Brean,Jonas Larson
+184,Øyvind Brandtzæg,Eilert Sundas
+184,Ståle Bjørnhaug,Lars Brodin
+184,Sverre Breivik,Torgersen
+185,Kim You-jung,Na Bo-ra
+185,Byeon Woo-seok,Poong Woon-ho
+185,Park Jung-woo,Baek Hyun-jin
+185,Roh Yoon-seo,Kim Yeon-du
+185,Kim Sung-kyung,Bo-ra's Mother
+185,Jeong Seok-yong,Bo-ra's Father
+185,Yoon Yi-reh,Madam
+185,Jeon Hye-won,Darn It
+185,Kim Nu-rim,Dong-wook
+186,Zlatan Ibrahimović,Zlatan Ibrahimović (voice)
+186,Megan Rapinoe,Megan Rapinoe (voice)
+186,'Weird Al' Yankovic,'Weird Al' Yankovic (voice)
+186,Rob Stone,Rob Stone (voice)
+186,Kieran Walton,O'Dang (voice)
+186,Madison Zamor,Zana (voice)
+186,Tania Gunadi,Nautai / Soccer Player #1 (voice)
+186,Arnie Pantoja,Palio / Goalie (voice)
+186,Ian James Corlett,Mutant Zlatan (voice)
+187,Keira Knightley,Loretta McLaughlin
+187,Carrie Coon,Jean Cole
+187,Chris Cooper,Jack Maclaine
+187,Alessandro Nivola,Detective Conley
+187,Rory Cochrane,Detective Deline
+187,David Dastmalchian,Albert DeSalvo
+187,Peter Gerety,Eddie Corsetti
+187,Robert John Burke,Eddie Holland
+187,Ryan Winkles,Daniel Marsh
+188,Eden Dambrine,Léo
+188,Gustav De Waele,Rémi
+188,Émilie Dequenne,Sophie
+188,Léa Drucker,Nathalie
+188,Igor van Dessel,Charlie
+188,Kevin Janssens,Peter
+188,Marc Weiss,Yves
+188,Léon Bataille,Baptiste
+188,Serine Ayari,Céline
+189,Dakota Fanning,Coraline Jones (voice)
+189,Teri Hatcher,Mel Jones / Other Mother (voice)
+189,Keith David,Cat (voice)
+189,Jennifer Saunders,April Spink (voice)
+189,Ian McShane,Mr. Sergei Alexander Bobinsky / Other Bobinsky (voice)
+189,Dawn French,Miriam Forcible (voice)
+189,John Hodgman,Charlie Jones / Other Father (voice)
+189,Robert Bailey Jr.,"Wyborne ""Wybie"" Lovat (voice)"
+189,Aankha Neal,Sweet Ghost Girl (voice)
+190,Idris Elba,John Luther
+190,Cynthia Erivo,DCI Odette Raine
+190,Andy Serkis,David Robey
+190,Dermot Crowley,DSU Martin Schenk
+190,Thomas Coombes,DS Archie Woodward
+190,Hattie Morahan,Corinne Aldrich
+190,Lauryn Ajufo,Anya Raine
+190,Vincent Regan,Dennis McCabe
+190,Ross Waiton,Newman
+191,Daniel Radcliffe,Harry Potter
+191,Rupert Grint,Ron Weasley
+191,Emma Watson,Hermione Granger
+191,Brendan Gleeson,"Alastor ""Mad-Eye"" Moody"
+191,Robbie Coltrane,Rubeus Hagrid
+191,Robert Pattinson,Cedric Diggory
+191,Michael Gambon,Albus Dumbledore
+191,David Tennant,Barty Crouch Junior
+191,Miranda Richardson,Rita Skeeter
+192,Laura Galán,Sara
+192,Richard Holmes,The Stranger
+192,Carmen Machi,Sara's Mother
+192,Irene Ferreiro,Claudia
+192,Camille Aguilar,Roci
+192,Claudia Salas,Maca
+192,José Pastor,Pedro
+192,Fernando Delgado-Hierro,Juancarlitos
+192,Julián Valcárcel,Sara's Father
+193,Isabelle Fuhrman,Leena Klammer / Esther Albright
+193,Julia Stiles,Tricia Albright
+193,Rossif Sutherland,Allen Albright
+193,Matthew Finlan,Gunnar Albright
+193,Hiro Kanagawa,Detective Donnan
+193,Samantha Walkes,Dr. Segar
+193,David Brown,Dr. Novotny
+193,Lauren Cochrane,Officer Leahy
+193,Gwendolyn Collins,Anna Troyev
+194,Ryosuke Yamada,Edward Elric
+194,Atomu Mizuishi,Alphonse Elric
+194,Tsubasa Honda,Winry Rockbell
+194,Dean Fujioka,Roy Mustang
+194,Misako Renbutsu,Riza Hawkeye
+194,Kanata Hongo,Envy
+194,Yuina Kuroshima,Lan Fan
+194,Keisuke Watanabe,Ling Yao
+194,Mackenyu,Scar
+195,Renata Notni,
+195,Cassandra Sánchez Navarro,
+195,Consuelo Duval,
+195,Ricardo Fastlicht,
+195,Aranza Carreiro,
+195,Paz Bascuñan,
+195,Paly Duval,
+195,Mauricio Garza,
+196,Macarena Gómez,MG
+196,Pedro Casablanc,
+196,Petra Martínez,
+196,Salva Reina,
+196,Álvaro Cervantes,
+196,Jordi Vilches,
+196,Lucía Díez,
+196,Marco Cáceres,
+196,Stany Coppet,
+197,Brian Deacon,Jesus
+197,Rivka Neuman,Mary
+197,Alexander Scourby,Luke
+197,Niko Nitai,Simon Peter
+197,Yosef Shiloach,Joseph
+197,Ori Levy,Caiaphas
+198,Daniel Radcliffe,Harry Potter
+198,Rupert Grint,Ron Weasley
+198,Emma Watson,Hermione Granger
+198,Michael Gambon,Albus Dumbledore
+198,Tom Felton,Draco Malfoy
+198,Jim Broadbent,Horace Slughorn
+198,Robbie Coltrane,Rubeus Hagrid
+198,Alan Rickman,Severus Snape
+198,Maggie Smith,Minerva McGonagall
+200,Ward Kerremans,Matthias
+200,Sallie Harmsen,Liv
+200,Johan Leysen,Pol
+200,Jesse Mensah,Timme
+200,Mieke De Groote,Brenda
+200,Katelijne Damen,Yvette
+200,Lize Feryn,Michelle
+200,Simon D'Huyvetter,Pol (young)
+200,Daphne Wellens,Laura
+201,Guy Pearce,Bruce Cogburn
+201,Alice Eve,Officer Higgins
+201,Jeremy Davies,Elijah Barett
+201,Alex Pettyfer,Dwight Tufford
+201,Iris Cayatte,Us Marshall Perez
+201,Rachel De Fontes,Copy Store Clerk
+201,Ana Lopes,Woman at DCC
+201,Georgia Goodman,Francesca
+201,Bella Alexandras,Samantha
+202,Emma Roberts,Sara
+202,John Gallagher Jr.,Alex
+202,Michael Shannon,Renner
+202,Kate Arrington,Cindy
+202,Marie May,Infant Liam
+202,Addy Miller,Anna Solomon
+202,Paul Dillon,Harrington
+202,Justin Matthew Smith,Robert Solomon
+202,Paul Schneider,Dr. Carver
+203,Guilherme Winter,Moisés
+203,Camila Rodrigues,Nefertari
+203,Sergio Marone,Ramsés
+203,Paulo Gorgulho,Anrão
+203,Giselle Itié,Zípora
+203,Vera Zimmermann,Henutmire
+203,Denise Del Vecchio,Joquebede
+203,Zé Carlos Machado,Seti I
+203,Larissa Maciel,Miriã
+204,Robert Downey Jr.,Tony Stark / Iron Man
+204,Chris Evans,Steve Rogers / Captain America
+204,Mark Ruffalo,Bruce Banner / The Hulk
+204,Chris Hemsworth,Thor Odinson
+204,Scarlett Johansson,Natasha Romanoff / Black Widow
+204,Jeremy Renner,Clint Barton / Hawkeye
+204,Tom Hiddleston,Loki
+204,Samuel L. Jackson,Nick Fury
+204,Cobie Smulders,Maria Hill
+205,Edoardo Leo,Dante
+205,Barbara Ronchi,Alice
+205,Mario Sgueglia,Valerio
+205,Francesca Cavallin,Francesca
+205,Raz Degan,Omar
+205,Massimo Wertmüller,Marcello
+205,Stella Trotta,Galadriel (5 - 7 Anni)
+205,Andrea Purgatori,Terapeuta
+205,Alla Krasovitzkaya,Olga
+206,Christian Bale,Moses
+206,Joel Edgerton,Ramses II
+206,Ben Kingsley,Nun
+206,John Turturro,Sethos I
+206,Aaron Paul,Joshua
+206,Ben Mendelsohn,Viceroy Hegep
+206,María Valverde,Séfora
+206,Sigourney Weaver,Tuja
+206,Hiam Abbass,Bithia
+207,James Maslow,Captain David Holden
+207,Trevor Donovan,Major Erich Roth
+207,John Turk,Colonel Krieger
+207,Michael Wayne Foster,Captain Rolf Werner
+207,Ronald Woodhead,Captain Heinrich Roth
+207,Taylor Novak,Sgt. Harrison Friedman
+207,Michael Parrish,Captain Richard Thompson
+207,Brian Heintz,Lt. Henry Armstrong
+208,Halle Bailey,Ariel
+208,Jonah Hauer-King,Prince Eric
+208,Daveed Diggs,Sebastian (voice)
+208,Awkwafina,Scuttle (voice)
+208,Jacob Tremblay,Flounder (voice)
+208,Noma Dumezweni,Queen Selina
+208,Javier Bardem,King Triton
+208,Melissa McCarthy,Ursula
+208,Art Malik,Sir Grimsby
+209,Vin Diesel,Dominic Toretto
+209,Michelle Rodriguez,Letty Ortiz Toretto
+209,Tyrese Gibson,Roman Pearce
+209,Ludacris,Tej Parker
+209,John Cena,Jakob Toretto
+209,Nathalie Emmanuel,Ramsey
+209,Jordana Brewster,Mia Toretto
+209,Sung Kang,Han Lue
+209,Michael Rooker,Buddy
+210,Leonardo DiCaprio,Jordan Belfort
+210,Jonah Hill,Donnie Azoff
+210,Margot Robbie,Naomi Lapaglia
+210,Matthew McConaughey,Mark Hanna
+210,Kyle Chandler,FBI Agent Patrick Denham
+210,Rob Reiner,Max Belfort
+210,Jon Favreau,Manny Riskin
+210,Jean Dujardin,Jean-Jacques Handali
+210,Jon Bernthal,Brad Bodnick
+211,Mike Faist,Roger (young)
+211,Crystal Reed,Ellen
+211,Dennis Boutsikaris,Mr. Sharpe
+211,Christopher Convery,Seth Cammeyer
+211,Connor Ratliff,Jimmy
+211,Mike Doyle,Jack Haber
+211,Kenneth Tigar,Irving Holzman
+211,Damian Young,Ben Chikofsky
+211,Bryan Batt,Harry Coulianos
+212,Tobey Maguire,Sam Cahill
+212,Natalie Portman,Grace Cahill
+212,Jake Gyllenhaal,Tommy Cahill
+212,Sam Shepard,Hank Cahill
+212,Bailee Madison,Isabelle Cahill
+212,Mare Winningham,Elsie Cahill
+212,Taylor Geare,Maggie Cahill
+212,Patrick John Flueger,Joe Willis
+212,Clifton Collins Jr.,Maj. Cavazos
+213,Daniel Radcliffe,Harry Potter
+213,Rupert Grint,Ron Weasley
+213,Emma Watson,Hermione Granger
+213,Robbie Coltrane,Rubeus Hagrid
+213,Michael Gambon,Albus Dumbledore
+213,Gary Oldman,Sirius Black
+213,Alan Rickman,Severus Snape
+213,Timothy Spall,Peter Pettigrew
+213,David Thewlis,Remus Lupin
+214,Diane Kruger,Marilyn
+214,Ray Nicholson,Connor
+214,Hank Azaria,Jock
+214,Chase Sui Wonders,Astrid
+214,Victor Slezak,Richard Chambers
+214,Pamela Jayne Morgan,Miss Wigham
+214,Gia Crovatin,Kim
+215,N. T. Rama Rao Jr.,Komaram Bheem
+215,Ram Charan,Alluri Sitarama Raju
+215,Ajay Devgn,Venkata Rama Raju
+215,Alia Bhatt,Sita
+215,Shriya Saran,Sarojini
+215,Samuthirakani,Venkateshwarulu
+215,Ray Stevenson,Scott Buxton
+215,Alison Doody,Cassandra Buxton
+215,Olivia Morris,Jennifer 'Jenny' Buxton
+216,Song Kang-ho,Sang-hyeon
+216,Gang Dong-won,Dong-soo
+216,Bae Doona,Su-jin
+216,IU,So-young
+216,Lee Joo-young,Detective Lee
+216,Lim Seung-soo,Hae-jin
+216,Park Ji-yong,Woo-sung
+216,Song Sae-byuk,Orphanage Director
+216,Kim Sun-young,Orphanage Director's wife
+217,Mason Thames,Finney Blake
+217,Ethan Hawke,The Grabber
+217,Madeleine McGraw,Gwen Blake
+217,Jeremy Davies,Terrence Blake
+217,E. Roger Mitchell,Detective Wright
+217,Troy Rudeseal,Detective Miller
+217,James Ransone,Max
+217,Miguel Cazarez Mora,Robin Arellano
+217,Rebecca Clarke,Donna
+218,Carlos Alazraqui,Floyd (voice)
+218,Kimberly Brooks,Snow Cop / Little Girl (voice)
+218,Joey D'Auria,Butch (voice)
+218,Regi Davis,Snow Mayor (voice)
+218,Laraine Newman,Mrs. LePage (voice)
+218,Kevin Michael Richardson,Larry (voice)
+218,Kath Soucie,Tuffy (voice)
+218,Stephen Stanton,Doctor Doubleyay / Lightning (voice)
+218,Rick Zieff,Meathead / Narrator (voice)
+219,Anthony Ramos,Noah
+219,Dominique Fishback,Elena
+219,Tobe Nwigwe,Reek
+219,Peter Cullen,Optimus Prime (voice)
+219,Ron Perlman,Optimus Primal (voice)
+219,Michelle Yeoh,Airazor (voice)
+219,Pete Davidson,Mirage (voice)
+219,Peter Dinklage,Scourge (voice)
+219,Liza Koshy,Arcee (voice)
+220,Robert Downey Jr.,Tony Stark / Iron Man
+220,Chris Evans,Steve Rogers / Captain America
+220,Mark Ruffalo,Bruce Banner / Hulk
+220,Chris Hemsworth,Thor Odinson
+220,Scarlett Johansson,Natasha Romanoff / Black Widow
+220,Jeremy Renner,Clint Barton / Hawkeye
+220,Don Cheadle,James Rhodes / War Machine
+220,Paul Rudd,Scott Lang / Ant-Man
+220,Benedict Cumberbatch,Stephen Strange / Doctor Strange
+221,Shameik Moore,Miles Morales / Spider-Man (voice)
+221,Hailee Steinfeld,Gwen Stacy / Spider-Woman (voice)
+221,Jake Johnson,Peter B. Parker / Spider-Man (voice)
+221,Oscar Isaac,Miguel O'Hara / Spider-Man 2099 (voice)
+221,Issa Rae,Jessica Drew / Spider-Woman (voice)
+221,Daniel Kaluuya,Hobart 'Hobie' Brown / Spider-Punk (voice)
+221,Jason Schwartzman,The Spot (voice)
+221,Brian Tyree Henry,Jefferson Davis (voice)
+221,Luna Lauren Velez,Rio Morales (voice)
+222,Bárbara de Regil,Jefe Vargas
+222,Iñaki Godoy,Tavo
+222,Sara Maldonado,Sara
+222,Vincent Michael Webb,Johnny
+222,Mayra Batalla,Mamá Tavo
+222,Alejandro Puente,Deivid
+222,Daniel Tovar,Lalo
+222,Ricardo Polanco,Runner
+222,Roberta Damián,Ana
+223,Daniel Radcliffe,Harry Potter
+223,Rupert Grint,Ron Weasley
+223,Emma Watson,Hermione Granger
+223,Imelda Staunton,Dolores Umbridge
+223,Helena Bonham Carter,Bellatrix Lestrange
+223,Robbie Coltrane,Rubeus Hagrid
+223,Ralph Fiennes,Lord Voldemort
+223,Michael Gambon,Albus Dumbledore
+223,Jason Isaacs,Lucius Malfoy
+224,Alexander Skarsgård,Amleth
+224,Nicole Kidman,Queen Gudrún
+224,Claes Bang,Fjölnir the Brotherless
+224,Ethan Hawke,King Aurvandil War-Raven
+224,Anya Taylor-Joy,Olga of the Birch Forest
+224,Gustav Lindh,Thórir the Proud
+224,Elliott Rose,Gunnar
+224,Willem Dafoe,Heimir the Fool
+224,Phill Martin,Hallgrímr Half-Troll
+225,Rowan Smyth,Brian Webber
+225,Matt Lindquist,Simon Webber
+225,Wilford Brimley,Pastor
+225,Jeremy London,Captain Iberson
+225,Tom Sizemore,Don Carlo
+225,William McNamara,Robert
+225,Sarah Navratil,Patricia Webber
+225,Thomas Silcott,Frank Williams
+225,Savanah Faith Milby,Becky
+226,Joshua Dela Cruz,Josh
+226,Steve Burns,Steve / NYC Cup of Coffee (voice)
+226,Donovan Patton,Joe / Skiddo Express (voice)
+226,Traci Paige Johnson,Blue / Off-Camera Auditoner #2 (voice)
+226,Nick Balaban,Mr. Salt / Off-Camera Auditioner #1 (voice)
+226,BD Wong,Director
+226,Ali Stroker,Ali Stroker
+226,Taboo,Taboo
+226,Alex Winter,Cab Driver
+227,Josephine Langford,Tessa Young
+227,Hero Fiennes Tiffin,Hardin Scott
+227,Louise Lombard,Trish Daniels
+227,Chance Perdomo,Landon Gibson
+227,Rob Estes,Ken Scott
+227,Arielle Kebbel,"Kimberly ""Kim"" Vance"
+227,Stephen Moyer,Christian Vance
+227,Mira Sorvino,Carol Young
+227,Frances Turner,Karen Scott
+228,Mel Gibson,Elvis Cooney
+228,William Moseley,Dylan
+228,Alia Seror-O'Neill,Mary
+228,Paul Spera,Gary / James
+228,Kevin Dillon,Justin
+228,Nadia Farès,Sam Dubois
+228,Yoli Fuller,Steven
+228,Yann Bean,Bruce
+228,Enrique Arce,Tony
+229,Charlton Heston,Judah Ben-Hur
+229,Haya Harareet,Esther
+229,Stephen Boyd,Messala
+229,Martha Scott,Miriam
+229,Cathy O'Donnell,Tirzah
+229,Jack Hawkins,Quintus Arrius
+229,Sam Jaffe,Simonides
+229,Hugh Griffith,Scheich Ildirim
+229,Finlay Currie,Balthasar
+230,Anna-Maria Sieklucka,Laura Torricelli
+230,Michele Morrone,Massimo Torricelli
+230,Simone Susinna,"Marcelo ""Nacho"" Matos"
+230,Magdalena Lamparska,Olga
+230,Otar Saralidze,Domenico
+230,Ewa Kasprzyk,Klara Biel
+230,Dariusz Jakubowski,Tomasz Biel
+230,Ramón Langa,Don Fernando Matos
+230,Tomasz Mandes,Tommaso
+231,Bette Midler,Winifred Sanderson
+231,Sarah Jessica Parker,Sarah Sanderson
+231,Kathy Najimy,Mary Sanderson
+231,Whitney Peak,Becca
+231,Belissa Escobedo,Izzy
+231,Lilia Buckingham,Cassie
+231,Froy Gutierrez,Mike
+231,Sam Richardson,Gilbert
+231,Doug Jones,Billy Butcherson
+232,Jared Leto,Dr. Michael Morbius / Morbius
+232,Matt Smith,Milo / Lucien
+232,Adria Arjona,Martine Bancroft
+232,Jared Harris,Dr. Emil Nicholas
+232,Al Madrigal,Agent Alberto Rodriguez
+232,Tyrese Gibson,Agent Simon Stroud
+232,Zaris-Angel Hator,Anna
+232,Joe Ferrara,Bush Pilot
+232,Charlie Shotwell,Young Michael
+233,Larry the Cable Guy,Mater (voice)
+233,Owen Wilson,Lightning McQueen (voice)
+233,Michael Caine,Finn McMissile (voice)
+233,Emily Mortimer,Holley Shiftwell (voice)
+233,John Turturro,Francesco Bernoulli (voice)
+233,Eddie Izzard,Sir Miles Axlerod (voice)
+233,Thomas Kretschmann,Professor Z (voice)
+233,Guido Quaroni,Guido (voice)
+233,Joe Mantegna,Grem (voice)
+234,Mandy Moore,Rapunzel (voice)
+234,Zachary Levi,Flynn Rider (voice)
+234,Donna Murphy,Mother Gothel (voice)
+234,Ron Perlman,Stabbington Brother (voice)
+234,M.C. Gainey,Captain of the Guard (voice)
+234,Jeffrey Tambor,Big Nose Thug (voice)
+234,Brad Garrett,Hook Hand Thug (voice)
+234,Paul F. Tompkins,Short Thug (voice)
+234,Richard Kiel,Vlad (voice)
+235,Cole Hauser,Jason
+235,Jaimie Alexander,Delaine
+235,Morgan Freeman,Sheriff Thurmond Fowler
+235,Darren Mann,Lucius
+235,Andrew Stevens,Dewey
+235,Kenneth Farmer,Atticus
+235,Ben VanderMey,Deputy Kane
+235,Tony DeMil,Jody
+235,Liann Pattison,Purnie Cannon
+236,Dakota Johnson,Anastasia Steele
+236,Jamie Dornan,Christian Grey
+236,Jennifer Ehle,Carla Wilks
+236,Eloise Mumford,Kate Kavanagh
+236,Victor Rasuk,Jose Rodriguez
+236,Luke Grimes,Elliot Grey
+236,Marcia Gay Harden,Dr. Grace Trevelyan-Grey
+236,Rita Ora,Mia Grey
+236,Max Martini,Jason Taylor
+237,Daniel Radcliffe,Harry Potter
+237,Rupert Grint,Ron Weasley
+237,Emma Watson,Hermione Granger
+237,Ralph Fiennes,Lord Voldemort
+237,Alan Rickman,Severus Snape
+237,Helena Bonham Carter,Bellatrix Lestrange
+237,Maggie Smith,Minerva McGonagall
+237,Michael Gambon,Albus Dumbledore
+237,John Hurt,Ollivander
+238,Simon Pegg,Buck Wild (voice)
+238,Vincent Tong,Crash (voice)
+238,Aaron Harris,Eddie (voice)
+238,Utkarsh Ambudkar,Orson (voice)
+238,Justina Machado,Zee (or whatever her name is) (voice)
+238,Sean Kenin,Manny (voice)
+238,Dominique Jennings,Ellie (voice)
+238,Jake Green,Sid (voice)
+238,Skyler Stone,Diego (voice)
+239,Javon Walton,Sam Cleary
+239,Sylvester Stallone,Joe Smith
+239,Dascha Polanco,Tiffany Cleary
+239,Moisés Arias,Reza
+239,Pilou Asbæk,Cyrus
+239,Sophia Tatum,Sil
+239,Martin Starr,Albert Casler
+239,Henry G. Sanders,Arthur Holloway
+239,Jared Odrick,Farshad
+240,Alexander Skarsgård,Nathan Lind
+240,Millie Bobby Brown,Madison Russell
+240,Rebecca Hall,Ilene Andrews
+240,Brian Tyree Henry,Bernie Hayes
+240,Shun Oguri,Ren Serizawa
+240,Eiza González,Maia Simmons
+240,Julian Dennison,Josh Valentine
+240,Lance Reddick,Guillermin
+240,Kyle Chandler,Mark Russell
+241,John Travolta,Buck
+241,Bruce Willis,Ian Swan
+241,Blake Jenner,Ryan Swan
+241,Stephen Dorff,Robbie Cole
+241,Corey Large,Zyatt
+241,Branscombe Richmond,Senator Kane
+241,Lorenzo Antonucci,Scorpion
+241,Kate Katzman,Nikki
+241,Amber Abara,Gerry
+242,Simu Liu,Shaun / Shang-Chi
+242,Tony Leung Chiu-wai,Xu Wenwu / The Mandarin
+242,Awkwafina,Katy Chen
+242,Zhang Meng'er,Xu Xialing
+242,Fala Chen,Ying Li
+242,Michelle Yeoh,Ying Nan
+242,Yuen Wah,Master Guang Bo
+242,Ben Kingsley,Trevor Slattery
+242,Florian Munteanu,Razor Fist
+243,Ben Affleck,Bruce Wayne / Batman
+243,Henry Cavill,Clark Kent / Superman / Kal-El
+243,Gal Gadot,Diana Prince / Wonder Woman
+243,Jason Momoa,Arthur Curry / Aquaman
+243,Ezra Miller,Barry Allen / The Flash
+243,Ray Fisher,Victor Stone / Cyborg
+243,Amy Adams,Lois Lane
+243,Jeremy Irons,Alfred Pennyworth
+243,Connie Nielsen,Queen Hippolyta
+244,Chris Evans,Buzz Lightyear (voice)
+244,Keke Palmer,Izzy Hawthorne (voice)
+244,Peter Sohn,SOX (voice)
+244,Taika Waititi,Mo Morrison (voice)
+244,Dale Soules,Darby Steel (voice)
+244,James Brolin,Zurg (voice)
+244,Uzo Aduba,Alisha Hawthorne (voice)
+244,Mary McDonald-Lewis,I.V.A.N. (voice)
+244,Isiah Whitlock Jr.,Commander Burnside (voice)
+245,Marie Vinck,Kiki
+245,Geert Van Rampelberg,Nick Cafmeyer
+245,Ériq Ebouaney,Cézaire
+245,Lukas Bulteel,Tom
+245,Willem Herbots,Jonas
+245,Frank Onana,Dopie
+245,Line Pillet,Borsu
+245,Babetida Sadjo,l'activiste
+245,Stany Paquay,l'activiste
+246,Álvaro Cervantes,Javier
+246,Silvia Alonso,Lucía
+246,Gorka Otxoa,
+246,Susana Abaitua,
+246,Pilar Castro,
+247,Signe Egholm Olsen,Susanne Hartmann
+247,Anton Hjejle,Mark Zidenius
+247,Dan Zahle,Bjørn
+247,Sara Fanta Traore,Johanne
+247,Anders Mossling,Gregers
+248,Nanoka Hara,Suzume Iwato (voice)
+248,Hokuto Matsumura,Souta Munakata (voice)
+248,Eri Fukatsu,Tamaki Iwato (voice)
+248,Shota Sometani,Minoru Okabe (voice)
+248,Sairi Ito,Rumi Ninomiya (voice)
+248,Kotone Hanase,Chika Amabe (voice)
+248,Kana Hanazawa,Tsubame Iwato (voice)
+248,Matsumoto Hakuō II,Hitsujiro Munakata (voice)
+248,Ryunosuke Kamiki,Tomoya Serizawa (voice)
+249,Johnny Depp,Jack Sparrow
+249,Orlando Bloom,Will Turner
+249,Keira Knightley,Elizabeth Swann
+249,Geoffrey Rush,Hector Barbossa
+249,Stellan Skarsgård,"William ""Bootstrap Bill"" Turner"
+249,Chow Yun-fat,Sao Feng
+249,Bill Nighy,Davy Jones
+249,Jack Davenport,James Norrington
+249,Kevin McNally,Joshamee Gibbs
+250,Skyler Davenport,Canan
+250,Brock Powell,Necati
+251,Sofia Wylie,Agatha
+251,Sophia Anne Caruso,Sophie
+251,Kerry Washington,Professor Dovey
+251,Charlize Theron,Lady Lesso
+251,Laurence Fishburne,School Master
+251,Michelle Yeoh,Professor Anemone
+251,Jamie Flatters,Tedros
+251,Kit Young,Rafal / Rhian
+251,Peter Serafinowicz,Yuba
+252,Christina Ricci,Laura
+252,Santino Barnard,Cody
+252,Don Baldaramos,Mr. Langtree
+252,Colleen Camp,Mrs. Langtree
+252,Lew Temple,Mr. Alonzo
+252,Carol Anne Watts,Jane
+252,Peter Hodge,Policeman
+252,Nick Vallelonga,Legionnaire
+252,Sally Elbert,Grandmother
+253,Mike Myers,Shrek (voice)
+253,Eddie Murphy,Donkey (voice)
+253,Cameron Diaz,Princess Fiona (voice)
+253,Julie Andrews,Queen Lillian (voice)
+253,Antonio Banderas,Puss in Boots (voice)
+253,John Cleese,King Harold (voice)
+253,Rupert Everett,Prince Charming (voice)
+253,Jennifer Saunders,Fairy Godmother (voice)
+253,Aron Warner,Wolf (voice)
+254,Nicolas Cage,Nick Cage
+254,Pedro Pascal,Javi Gutierrez
+254,Tiffany Haddish,Vivian
+254,Neil Patrick Harris,Richard Fink
+254,Lily Mo Sheen,Addy
+254,Sharon Horgan,Olivia
+254,Ike Barinholtz,Martin
+254,Paco León,Lucas Gutierrez
+254,Jacob Scipio,Carlos
+255,Dakota Johnson,Anastasia Steele
+255,Jamie Dornan,Christian Grey
+255,Eric Johnson,Jack Hyde
+255,Luke Grimes,Elliot Grey
+255,Rita Ora,Mia Grey
+255,Eloise Mumford,Kate Kavanagh
+255,Victor Rasuk,Jose
+255,Marcia Gay Harden,Dr. Grace Trevelyan-Grey
+255,Andrew Airlie,Carrick Grey
+256,Darío Autrán,
+256,Déborah Vukusic,
+256,Lidia Veiga,
+256,Pablo Reyes,
+256,Sabela Hermida,
+256,Manuel Manquiña,
+256,Celso Bugallo,
+257,Wu Jing,Wu Qianli
+257,Jackson Yee,Wu Wanli
+257,Duan Yihong,Tan Ziwei
+257,Yawen Zhu,Mei Sheng
+257,Jerry Lee,Yu Congrong
+257,Elvis Han,Ping He
+257,Zhang Hanyu,Shilun Song
+257,Geng Le,Yang Lao
+257,Du Chun,Trad Zhang
+258,Shameik Moore,Miles Morales / Spider-Man (voice)
+258,Jake Johnson,Peter B. Parker / Spider-Man (voice)
+258,Hailee Steinfeld,Gwen Stacy / Spider-Woman (voice)
+258,Mahershala Ali,Uncle Aaron / Prowler (voice)
+258,Brian Tyree Henry,Jefferson Davis (voice)
+258,Lily Tomlin,Aunt May (voice)
+258,Luna Lauren Velez,Rio Morales (voice)
+258,Zoë Kravitz,Mary Jane (voice)
+258,John Mulaney,Peter Porker / Spider-Ham (voice)
+259,Daniel Radcliffe,Harry Potter
+259,Rupert Grint,Ron Weasley
+259,Emma Watson,Hermione Granger
+259,Helena Bonham Carter,Bellatrix Lestrange
+259,Robbie Coltrane,Rubeus Hagrid
+259,Ralph Fiennes,Lord Voldemort
+259,Michael Gambon,Albus Dumbledore
+259,Bill Nighy,Rufus Scrimgeour
+259,Brendan Gleeson,"Alastor ""Mad-Eye"" Moody"
+260,Aubrey Plaza,Emily
+260,Theo Rossi,Youcef
+260,Megalyn Echikunwoke,Liz
+260,Gina Gershon,Alice
+260,Jonathan Avigdori,Khalil
+260,Bernardo Badillo,Javier
+260,Craig Stark,Chip
+260,Brandon Sklenar,Brent
+260,John Billingsley,Office Manager (uncredited)
+261,Song Kang-ho,Gu In-ho / Homicide Detective
+261,Lee Byung-hun,Park Jae-hyuk / Passenger
+261,Jeon Do-yeon,Kim Sook-hee / Minister
+261,Kim Nam-gil,Choi Hyun-soo / Pilot
+261,Yim Si-wan,Ryu Jin-seok / Passenger
+261,Park Hae-jun,Tae-su / Blue House Crisis Management Centre Director
+261,Lim Hyung-kook,Captain
+261,Lee Yul-eum,Park Shi-young
+261,Kim So-jin,Hee-jin / Flight Attendant
+262,Michelle Monaghan,Jess
+262,Skeet Ulrich,Patrick
+262,Finlay Wojtak-Hissong,Owen
+262,Skylar Morgan Jones,Tyler
+262,June B. Wilde,Helen
+262,Erik Athavale,Dr. Don Forsythe
+262,Onalee Ames,Jess' Lawyer
+262,Danika Frederick,Shelly
+262,Jerni Stewart,Nurse
+263,Liam Neeson,Alex Lewis
+263,Guy Pearce,Vincent Serra
+263,Taj Atwal,Linda Amistead
+263,Harold Torres,Hugo Marquez
+263,Monica Bellucci,Davana Sealman
+263,Ray Stevenson,Detective Danny Mora
+263,Stella Stocker,Maya
+263,Antonio Jaramillo,Papa Leon
+263,Louis Mandylor,Drunk Broker
+264,Linda Louise Duan,Sam
+264,Penelope Read,Dr. Carpenter
+264,Arron Blake,Joe
+264,Amy Secker,Gwen
+264,Richard Conrad,The Patient
+264,Nadia Nadif,The Old Hag
+264,Carly Jolley,Clara
+264,Ben Maytham,Peter
+264,Roman Wood,Dr. Wright
+265,Sam Worthington,Mack Phillips
+265,Octavia Spencer,Papa / Elouisa
+265,Tim McGraw,Willie
+265,Aviv Alush,Jesus
+265,Sumire Matsubara,Sarayu
+265,Radha Mitchell,Nan Phillips
+265,Graham Greene,Male Papa
+265,Gage Munroe,Jose Phillips
+265,Megan Charpentier,Kate Phillips
+266,Gemma Chan,Sersi
+266,Richard Madden,Ikaris
+266,Angelina Jolie,Thena
+266,Kumail Nanjiani,Kingo
+266,Barry Keoghan,Druig
+266,Lauren Ridloff,Makkari
+266,Lia McHugh,Sprite
+266,Brian Tyree Henry,Phastos
+266,Ma Dong-seok,Gilgamesh
+267,Wasabi Mizuta,Doraemon (voice)
+267,Megumi Oohara,Nobita (voice)
+267,Yumi Kakazu,Shizuka (voice)
+267,Subaru Kimura,Gian (voice)
+267,Tomokazu Seki,Suneo (voice)
+267,Shihoko Hagino,Dekisugi (voice)
+267,Teruyuki Kagawa,Gilmore (voice)
+267,Yuki Kaji,Rokoroko (voice)
+267,Takashi Komaba,Pilot (voice)
+268,Channing Tatum,Jackson Briggs
+268,Jane Adams,Tamara
+268,Kevin Nash,Gus
+268,Ethan Suplee,Noah
+268,Bill Burr,Police Officer
+268,Q'orianka Kilcher,Niki
+268,Amanda Booth,Tiffany
+268,Aqueela Zoll,Callan
+268,Ronnie Gene Blevins,Keith
+269,Nathalie Emmanuel,Evie Alexander
+269,Thomas Doherty,Walter De Ville
+269,Sean Pertwee,Mr. Fields
+269,Hugh Skinner,Oliver Alexander
+269,Carol Ann Crawford,Mrs. Swift
+269,Alana Boden,Lucy
+269,Stephanie Corneliussen,Viktoria
+269,Tian Chaudhry,Diya (Maid #5)
+269,Courtney Taylor,Grace
+270,Patrick Wilson,Ed Warren
+270,Vera Farmiga,Lorraine Warren
+270,Ruairí O'Connor,Arne Cheyne Johnson
+270,Sarah Catherine Hook,Debbie Glatzel
+270,Julian Hilliard,David Glatzel
+270,John Noble,Father Kastner
+270,Eugenie Bondurant,The Occultist
+270,Shannon Kook,Drew Thomas
+270,Ronnie Gene Blevins,Bruno
+271,Saori Hara,Ruizhu
+271,周防雪子,Dongmei
+271,Tony Ho,Prince of Ning
+271,Vonnie Lui,The Elder of Bliss
+271,Leni Lan,Tie Yuxiang
+271,Hiro Hayama,Wei Yangsheng
+271,Carina Chan,Maid Xian Lan
+271,Jason Yiu,Scholar Shun Shang Guang
+271,Tenky Tin Kai-Man,Dique
+272,Sara Mitich,Eileen
+272,George Tchortov,Roger
+272,Evie Loiselle,Eve
+272,Karen LeBlanc,The Administrator
+273,Lewis Tan,Cole Young
+273,Jessica McNamee,Sonya Blade
+273,Josh Lawson,Kano
+273,Joe Taslim,Bi-Han / Sub-Zero
+273,Mehcad Brooks,Jax Briggs
+273,Matilda Kimber,Emily Young
+273,Laura Brent,Allison Young
+273,Tadanobu Asano,Lord Raiden
+273,Hiroyuki Sanada,Hanzo Hasashi / Scorpion
+274,Johnny Depp,Jack Sparrow
+274,Orlando Bloom,Will Turner
+274,Keira Knightley,Elizabeth Swann
+274,Geoffrey Rush,Hector Barbossa
+274,Jack Davenport,James Norrington
+274,Jonathan Pryce,Weatherby Swann
+274,Lee Arenberg,Pintel
+274,Mackenzie Crook,Ragetti
+274,Damian O'Hare,Gillette
+275,Darby Camp,Emily Elizabeth
+275,Jack Whitehall,Casey
+275,Izaac Wang,Owen Yu
+275,John Cleese,Mr. Bridwell
+275,Tony Hale,Zack Tieran
+275,David Alan Grier,Packard
+275,Paul Rodríguez,Sanchez
+275,Horatio Sanz,Raul
+275,Sienna Guillory,Maggie
+276,Ryan Livingstone,Braedyn
+276,Megan Tremethick,Jigme
+276,Regan Walker,Edwin
+276,Michael Daviot,Highfather Albens
+277,Emma Stone,Estella / Cruella
+277,Emma Thompson,The Baroness
+277,Joel Fry,Jasper
+277,Paul Walter Hauser,Horace
+277,Mark Strong,John the Valet
+277,Tipper Seifert-Cleveland,Estella (12 yrs)
+277,Kirby Howell-Baptiste,Anita Darling
+277,Emily Beecham,Catherine
+277,John McCrea,Artie
+278,Margot Robbie,Harleen Quinzel / Harley Quinn
+278,Idris Elba,Robert DuBois / Bloodsport
+278,John Cena,Christopher Smith / Peacemaker
+278,Joel Kinnaman,Colonel Rick Flag
+278,Sylvester Stallone,Nanaue / King Shark (voice)
+278,Viola Davis,Amanda Waller
+278,David Dastmalchian,Abner Krill / Polka-Dot Man
+278,Daniela Melchior,Cleo Cazo / Ratcatcher 2
+278,Michael Rooker,Brian Durlin / Savant
+279,Mutsumi Tamura,Kosuke Kumagaya (voice)
+279,Asami Seto,Natsume Tonai (voice)
+279,Ayumu Murase,Noppo (voice)
+279,Daiki Yamashita,Yuzuru Tachibana (voice)
+279,Yumiko Kobayashi,Taishi Koiwai (voice)
+279,Inori Minase,Reina Haba (voice)
+279,Kana Hanazawa,Juri Ando (voice)
+279,Bin Shimada,Yasuji Kumagaya (voice)
+279,Rikako Aikawa,Yasuko Kumagaya (voice)
+280,Sam Rockwell,Wolf (voice)
+280,Marc Maron,Snake (voice)
+280,Awkwafina,Tarantula (voice)
+280,Craig Robinson,Shark (voice)
+280,Anthony Ramos,Piranha (voice)
+280,Richard Ayoade,Professor Marmalade (voice)
+280,Zazie Beetz,Diane Foxington (voice)
+280,Alex Borstein,Police Chief Misty Luggins (voice)
+280,Lilly Singh,Tiffany Fluffit (voice)
+281,Alexa PenaVega,Skylar
+281,Johnny Pacar,Tommy
+281,Shaun Sipos,Jack
+281,Italia Ricci,Allison
+281,Bryan Dechart,Dan
+281,Liz E. Morgan,Sam
+281,John Pyper-Ferguson,Pastor Shay
+281,Kim Pacheco,Nurse Rachel
+281,Hayley Lovitt,Southern Belle
+282,Junko Takeuchi,Naruto Uzumaki (voice)
+282,Nana Mizuki,Hinata Hyūga (voice)
+282,Jun Fukuyama,Toneri Ōtsutsuki (voice)
+282,Chie Nakamura,Sakura Haruno (voice)
+282,Showtaro Morikubo,Shikamaru Nara (voice)
+282,Kazuhiko Inoue,Kakashi Hatake (voice)
+282,Akira Ishida,Gaara
+282,The Fifth Kazekage (voice),Hideaki Tezuka
+282,A,The Fourth Raikage (voice)
+282,Yurika Hino,Mei Teriumî
+283,Johnny Depp,Jack Sparrow
+283,Penélope Cruz,Angelica
+283,Geoffrey Rush,Hector Barbossa
+283,Ian McShane,"Edward ""Blackbeard"" Teach"
+283,Kevin McNally,Joshamee Gibbs
+283,Sam Claflin,Philip
+283,Astrid Bergès-Frisbey,Syrena
+283,Stephen Graham,Scrum
+283,Keith Richards,Captain Teague
+284,Zach Gilford,Ben
+284,Alisha Wainwright,Margaret
+284,Amanda Crew,Ellie
+284,Carlos Santos,Thomas
+284,Briella Guiza,Lucy
+284,David Mattle,Spencer
+285,Peyton Elizabeth Lee,Mandy Coleman
+285,Milo Manheim,Ben
+285,Margaret Cho,Ms. Chen
+285,Blake Draper,Graham Lansing
+285,Monique A. Green,LaToya
+285,Arica Himmel,Zenobia
+285,Jason Sakaki,Charles
+285,David S. Jung,Tom Coleman
+285,Nolen Dubuc,Kyle
+286,Anthony Gonzalez,Miguel Rivera (voice)
+286,Gael García Bernal,Héctor (voice)
+286,Benjamin Bratt,Ernesto de la Cruz (voice)
+286,Alanna Ubach,Mamá Imelda Rivera (voice)
+286,Renée Victor,Elena Rivera (voice)
+286,Jaime Camil,Papá Enrique Rivera (voice)
+286,Alfonso Arau,Papá Julio Rivera (voice)
+286,Herbert Siguenza,Tío Oscar Rivera / Tío Felipe Rivera (voice)
+286,Lombardo Boyar,Mariachi / Gustavo (voice)
+287,Karl Urban,Jacob Holland (voice)
+287,Zaris-Angel Hator,Maisie Brumble (voice)
+287,Jared Harris,Captain Crow (voice)
+287,Marianne Jean-Baptiste,Sarah Sharpe (voice)
+287,Benjamin Plessala,Child 1 (voice)
+287,Somali Rose,Child 2 (voice)
+287,Kaya McLean,Child 3 (voice)
+287,Davis Pak,Child 4 / Village Boy (voice)
+287,Helen Sadler,Ms. Merino / Matron / Cart Driver (voice)
+288,Tom Hanks,Woody (voice)
+288,Tim Allen,Buzz Lightyear (voice)
+288,Don Rickles,Mr. Potato Head (voice)
+288,Jim Varney,Slinky Dog (voice)
+288,Wallace Shawn,Rex (voice)
+288,John Ratzenberger,Hamm (voice)
+288,Annie Potts,Bo Peep (voice)
+288,John Morris,Andy (voice)
+288,Erik von Detten,Sid (voice)
+289,Alec Baldwin,Theodore Templeton (voice)
+289,James Marsden,Tim Templeton (voice)
+289,Amy Sedaris,Tina Templeton (voice)
+289,Jeff Goldblum,Dr. Armstrong (voice)
+289,Eva Longoria,Carol Templeton (voice)
+289,Lisa Kudrow,Janice Templeton (voice)
+289,Jimmy Kimmel,Ted Templeton (voice)
+289,Ariana Greenblatt,Tabitha Templeton (voice)
+289,James McGrath,Wizzie (voice)
+290,Jodie Turner-Smith,"Elisha ""Eli"" James"
+290,Brian Cox,Nick Booker
+290,Ali Marsh,Sharon Romney
+290,Luke Kirby,Lucas Nicoll
+290,John Cena,Nate Sterling
+290,Ann Dowd,Patricia Turnball
+290,Margaret Odette,Jennifer Cooke
+290,Alysia Reiner,Kathy Gibbs
+290,Victor Slezak,President Archer
+291,Leonardo DiCaprio,Jack Dawson
+291,Kate Winslet,Rose DeWitt Bukater
+291,Billy Zane,Cal Hockley
+291,Kathy Bates,Molly Brown
+291,Frances Fisher,Ruth DeWitt Bukater
+291,Gloria Stuart,Old Rose
+291,Victor Garber,Thomas Andrews
+291,Bill Paxton,Brock Lovett
+291,Bernard Hill,Edward Smith
+292,Jennifer Lawrence,Katniss Everdeen
+292,Josh Hutcherson,Peeta Mellark
+292,Liam Hemsworth,Gale Hawthorne
+292,Woody Harrelson,Haymitch Abernathy
+292,Elizabeth Banks,Effie Trinket
+292,Julianne Moore,President Alma Coin
+292,Philip Seymour Hoffman,Plutarch Heavensbee
+292,Jeffrey Wright,Beetee
+292,Stanley Tucci,Caesar Flickerman
+293,Emile Hirsch,Austin Tilden
+293,Brian Cox,Tommy Tilden
+293,Ophelia Lovibond,Emma
+293,Olwen Catherine Kelly,Jane Doe
+293,Michael McElhatton,Sheriff Sheldon
+293,Parker Sawyers,Officer Cole
+293,Jane Perry,Lieutenant Wade
+293,Mark Phoenix,Louis Tannis
+293,Mary Duddy,Irene Daniels
+294,Bruce Willis,Julius The Lobe Loeb
+294,Michael Rooker,Warden Devlin
+294,Hayley Sales,Dr. Isabelle Josephs
+294,Kat Ruston,Officer Liz Morales
+294,Matthew Kevin Anderson,Danny Breeze
+294,Doug Bradley,Senator Zechariah
+294,Tom Cavanagh,Gordon Tweedy
+294,Dan Payne,Payback
+294,Brennan Mejia,Diego Diaz
+295,Matt McClure,Edgar Marsdale
+295,Mollie Hindle,Amy Proctor
+295,James Swanton,Jack
+295,Nicola Wright,Olga Marsdale
+295,Nicholas Anscombe,Doctor Clarke
+295,Michaela Longden,Janet
+295,Erina Mashate,Stacey
+295,Jason Farries,Frank
+295,Victor Mellors,Issac Huxley
+296,Iola Evans,Kayla
+296,Asa Butterfield,Isaac
+296,Robert Englund,Robert Englund
+296,Angela Griffin,Thea
+296,Ryan Gage,Lance
+296,Eddie Marsan,Hal
+296,Kate Fleetwood,Laura
+296,Joe Bolland,Beck
+296,Ioanna Kimbook,Grace
+297,Seo In-guk,Park Jong-du
+297,Jang Dong-yoon,Lee Do-il
+297,Park Ho-san,Lee Seok-woo
+297,Jung So-min,Lee Da-yeon
+297,Ko Chang-seok,Ko Gun-bae
+297,Jang Young-nam,Choi Myung-ju
+297,Sung Dong-il,Oh Dae-woong
+297,Son Jong-hak,Son Soo-cheol
+297,Lee Sung-wook,Dr. Lee Kyung-ho
+298,Alban Lenoir,Lino
+298,Stéfi Celma,Julia
+298,Pascale Arbillot,Moss
+298,Sébastien Lalanne,Marco
+298,Diego Martín,Álvaro
+298,Jérôme Niel,Yann
+298,Anne Serra,Stella
+298,Quentin D'Hainaut,Yuri
+298,Thibaut Évrard,Lieutenant Bruno
+299,Henry Thomas,Robert
+299,Bradley Stryker,Sterling
+299,C. Ernst Harth,Dooley
+299,Jennifer Robertson,Jordan
+299,Olivia Taylor Dudley,Carrie
+299,Catherine Lough Haggquist,Helen Masur
+299,Carlos Joe Costa,Sheriff Higgon
+299,Colin Decker,Tim Witner
+299,Andrei Kovski,Vladimir
+300,Jonathan Rhys Meyers,Robert
+300,Luke Kleintank,David
+300,Eloise Smyth,Vanessa
+300,Bruce Davison,Grant
+300,Ieva Florence-Vīksne,Janine
+300,Regīna Razuma,Mrs. Petrova
+300,Guna Zariņa,Juta Reine
+300,Kaspars Znotiņš,Henry
+300,Tom J. Benedict,Policeman
+301,Ekapol Chanthawong,Self
+301,Ei Khan,Titna's mother
+301,Panumas Sangdee,Mig
+301,Chanin Vibulrungruang,Titna
+301,June Yoon,Various Interviewees (voice)
+302,Vin Diesel,Baby Groot (voice)
+302,Fred Tatasciore,Additional Voices (voice)
+303,Roma Downey,Mary
+303,Mother of Jesus,Diogo Morgado
+303,Jesus,Louise Delamere
+303,Claudia,Darwin Shaw
+303,Peter,Amber Rose Revah
+303,Mary Magdalene,Andrew Brooke
+303,Antonius,Simon Kunz
+303,Nicodemus,William Houston
+303,Moses,Nonso Anozie
+304,Yoshitsugu Matsuoka,Kirito (voice)
+304,Haruka Tomatsu,Asuna Yuuki (voice)
+304,Inori Minase,Misumi Mito Tozawa (voice)
+304,Koichi Yamadera,Akihiko Kayaba (voice)
+304,Hiroki Yasumoto,Agil (voice)
+304,Nobuyuki Hiyama,Diabel (voice)
+304,Rina Hidaka,Silica (voice)
+304,Ryusei Nakao,Mito Avatar (voice)
+304,Tomokazu Seki,Kibaou (voice)
+305,Chiaki Kobayashi,Tomoya Sugisaki (voice)
+305,Miyuri Shimabukuro,Aoi Harukawa (voice)
+305,Rina Kawaei,Ayane Sato (voice)
+305,Nobunaga Shimazaki,Ryo Kobayashi (voice)
+306,Kaya Scodelario,Claire Redfield
+306,Hannah John-Kamen,Jill Valentine
+306,Robbie Amell,Chris Redfield
+306,Tom Hopper,Albert Wesker
+306,Avan Jogia,Leon Kennedy
+306,Donal Logue,Chief Irons
+306,Neal McDonough,William Birkin
+306,Lily Gao,Ada Wong
+306,Chad Rook,Richard Aiken
+307,Yumiri Hanamori,Nadeshiko Kagamihara (voice)
+307,Nao Toyama,Rin Shima (voice)
+307,Sayuri Hara,Chiaki Ogaki (voice)
+307,Aki Toyosaki,Aoi Inuyama (voice)
+307,Rie Takahashi,Ena Saito (voice)
+307,Kentaro Tone,Kariya (voice)
+307,Yutaka Aoyama,Editor-in-chief (voice)
+307,Natsu Yorita,Komaki Store Manager (voice)
+307,Yoji Ueda,Shirakawa (voice)
+308,Christian Bale,Augustus Landor
+308,Harry Melling,Edgar Allan Poe
+308,Lucy Boynton,Lea Marquis
+308,Toby Jones,Dr. Daniel Marquis
+308,Simon McBurney,Captain Hitchcock
+308,Timothy Spall,Superintendent Thayer
+308,Robert Duvall,Jean-Pepe
+308,Harry Lawtey,Artemus Marquis
+308,Gillian Anderson,Julia Marquis
+309,Matthew Broderick,Simba (voice)
+309,James Earl Jones,King Mufasa (voice)
+309,Jeremy Irons,Scar (voice)
+309,Rowan Atkinson,Zazu the Hornbill (voice)
+309,Moira Kelly,Nala (voice)
+309,Whoopi Goldberg,Shenzi the Hyena (voice)
+309,Cheech Marin,Banzai the Hyena (voice)
+309,Jim Cummings,ED the Hyena (voice)
+309,Robert Guillaume,Rafiki (voice)
+310,Robert Downey Jr.,Tony Stark / Iron Man
+310,Chris Hemsworth,Thor Odinson
+310,Mark Ruffalo,Bruce Banner / The Hulk
+310,Chris Evans,Steve Rogers / Captain America
+310,Scarlett Johansson,Natasha Romanoff / Black Widow
+310,Jeremy Renner,Clint Barton / Hawkeye
+310,James Spader,Ultron (voice)
+310,Samuel L. Jackson,Nick Fury
+310,Don Cheadle,James Rhodey Rhodes / War Machine
+311,Jacob Tremblay,Luca Paguro (voice)
+311,Jack Dylan Grazer,Alberto Scorfano (voice)
+311,Emma Berman,Giulia Marcovaldo (voice)
+311,Saverio Raimondo,Ercole Visconti (voice)
+311,Maya Rudolph,Daniela Paguro (voice)
+311,Marco Barricelli,Massimo Marcovaldo (voice)
+311,Jim Gaffigan,Lorenzo Paguro (voice)
+311,Peter Sohn,Ciccio (voice)
+311,Lorenzo Crisci,Guido (voice)
+312,Ralph Fiennes,Chef Slowik
+312,Anya Taylor-Joy,Margot
+312,Nicholas Hoult,Tyler
+312,Hong Chau,Elsa
+312,Janet McTeer,Lillian
+312,Reed Birney,Richard
+312,Judith Light,Anne
+312,John Leguizamo,Movie Star
+312,Paul Adelstein,Ted
+313,Mason Thames,Finney Blake
+313,Ethan Hawke,The Grabber
+313,Madeleine McGraw,Gwen Blake
+313,Jeremy Davies,Terrence Blake
+313,E. Roger Mitchell,Detective Wright
+313,Troy Rudeseal,Detective Miller
+313,James Ransone,Max
+313,Miguel Cazarez Mora,Robin Arellano
+313,Rebecca Clarke,Donna
+314,Austin Butler,Elvis Presley
+314,Tom Hanks,Colonel Tom Parker
+314,Olivia DeJonge,Priscilla
+314,Helen Thomson,Gladys Presley
+314,Richard Roxburgh,Vernon Presley
+314,Kelvin Harrison Jr.,B.B. King
+314,David Wenham,Hank Snow
+314,Kodi Smit-McPhee,Jimmie Rodgers Snow
+314,Luke Bracey,Jerry Schilling
+315,Chadwick Boseman,King T'Challa / Black Panther
+315,Michael B. Jordan,N'Jadaka / Erik Killmonger Stevens
+315,Lupita Nyong'o,Nakia
+315,Danai Gurira,Okoye
+315,Martin Freeman,Everett K. Ross
+315,Daniel Kaluuya,W'Kabi
+315,Letitia Wright,Shuri
+315,Winston Duke,M'Baku
+315,Sterling K. Brown,N'Jobu
+316,Ben Affleck,Bruce Wayne / Batman
+316,Henry Cavill,Clark Kent / Superman / Kal-El
+316,Jesse Eisenberg,Lex Luthor
+316,Gal Gadot,Diana Prince / Wonder Woman
+316,Amy Adams,Lois Lane
+316,Diane Lane,Martha Kent
+316,Jeremy Irons,Alfred Pennyworth
+316,Holly Hunter,Senator June Finch
+316,Laurence Fishburne,Perry White
+317,Marlon Brando,Vito Corleone
+317,Al Pacino,Michael Corleone
+317,James Caan,Sonny Corleone
+317,Richard S. Castellano,Peter Clemenza
+317,Robert Duvall,Tom Hagen
+317,Sterling Hayden,Captain McCluskey
+317,John Marley,Jack Woltz
+317,Richard Conte,Emilio Barzini
+317,Diane Keaton,Kay Adams-Corleone
+318,Tim Robbins,Andy Dufresne
+318,Morgan Freeman,Ellis Boyd Red Redding
+318,Bob Gunton,Warden Norton
+318,William Sadler,Heywood
+318,Clancy Brown,Captain Byron T. Hadley
+318,Gil Bellows,Tommy
+318,Mark Rolston,Bogs Diamond
+318,James Whitmore,Brooks Hatlen
+318,Jeffrey DeMunn,1946 D.A.
+319,Mark Hamill,Luke Skywalker
+319,Harrison Ford,Han Solo
+319,Carrie Fisher,Princess Leia Organa
+319,Peter Cushing,Grand Moff Tarkin
+319,Alec Guinness,Obi-Wan Ben Kenobi
+319,Anthony Daniels,C-3PO
+319,Kenny Baker,R2-D2
+319,Peter Mayhew,Chewbacca
+319,David Prowse,Darth Vader
+320,Christian Bale,Bruce Wayne / Batman
+320,Heath Ledger,Joker
+320,Michael Caine,Alfred Pennyworth
+320,Gary Oldman,James Gordon
+320,Aaron Eckhart,Harvey Dent / Two-Face
+320,Maggie Gyllenhaal,Rachel Dawes
+320,Morgan Freeman,Lucius Fox
+320,Nestor Carbonell,Anthony Garcia
+320,Monique Gabriela Curnen,Anna Ramirez
+321,Edward Norton,The Narrator
+321,Brad Pitt,Tyler Durden
+321,Helena Bonham Carter,Marla Singer
+321,Meat Loaf,Robert Bob Paulson
+321,Jared Leto,Angel Face
+321,Zach Grenier,Richard Chesler
+321,Holt McCallany,The Mechanic
+321,Eion Bailey,Ricky
+321,Richmond Arquette,Intern
+322,Matthew McConaughey,Joseph Coop Cooper
+322,Anne Hathaway,Dr. Amelia Brand
+322,Jessica Chastain,Murphy Murph Cooper
+322,Bill Irwin,TARS (voice)
+322,Ellen Burstyn,Old Murph
+322,Michael Caine,Professor John Brand
+322,Mackenzie Foy,Young Murph
+322,Casey Affleck,Tom Cooper
+322,John Lithgow,Donald
+323,Leonardo DiCaprio,Dom Cobb
+323,Joseph Gordon-Levitt,Arthur
+323,Ken Watanabe,Saito
+323,Tom Hardy,Eames
+323,Elliot Page,Ariadne
+323,Dileep Rao,Yusuf
+323,Cillian Murphy,Robert Fischer Jr.
+323,Tom Berenger,Peter Browning
+323,Marion Cotillard,Mal Cobb
+324,Elijah Wood,Frodo
+324,Ian McKellen,Gandalf
+324,Liv Tyler,Arwen
+324,Viggo Mortensen,Aragorn
+324,Sean Astin,Sam
+324,Sean Bean,Boromir
+324,Cate Blanchett,Galadriel
+324,John Rhys-Davies,Gimli
+324,Billy Boyd,Pippin
+325,Elijah Wood,Frodo
+325,Ian McKellen,Gandalf
+325,Liv Tyler,Arwen
+325,Viggo Mortensen,Aragorn
+325,Sean Astin,Sam
+325,Andy Serkis,Gollum / Sméagol
+325,Cate Blanchett,Galadriel
+325,John Rhys-Davies,Gimli / Treebeard (voice)
+325,Bernard Hill,Théoden
+326,Elijah Wood,Frodo
+326,Ian McKellen,Gandalf
+326,Liv Tyler,Arwen
+326,Viggo Mortensen,Aragorn
+326,Sean Astin,Sam
+326,Andy Serkis,Gollum
+326,Cate Blanchett,Galadriel
+326,John Rhys-Davies,Gimli / Treebeard (voice)
+326,Bernard Hill,Théoden
+327,Keanu Reeves,Thomas A. Anderson / Neo
+327,Laurence Fishburne,Morpheus
+327,Carrie-Anne Moss,Trinity
+327,Hugo Weaving,Agent Smith
+327,Joe Pantoliano,Cypher
+327,Marcus Chong,Tank
+327,Anthony Ray Parker,Dozer
+327,Matt Doran,Mouse
+327,Gloria Foster,Oracle
+328,Russell Crowe,Maximus Meridius
+328,Joaquin Phoenix,Emperor Commodus
+328,Connie Nielsen,Lucilla
+328,Oliver Reed,Proximo
+328,Richard Harris,Marcus Aurelius
+328,Derek Jacobi,Gracchus
+328,Djimon Hounsou,Juba
+328,David Schofield,Falco
+328,John Shrapnel,Gaius
+329,John Travolta,Vincent Vega
+329,Samuel L. Jackson,Jules Winnfield
+329,Uma Thurman,Mia Wallace
+329,Bruce Willis,Butch Coolidge
+329,Ving Rhames,Marsellus Wallace
+329,Harvey Keitel,Winston The Wolf Wolfe
+329,Eric Stoltz,Lance
+329,Tim Roth,Ringo Pumpkin
+329,Amanda Plummer,Yolanda Honey Bunny
+330,Arnold Schwarzenegger,The Terminator
+330,Linda Hamilton,Sarah Connor
+330,Edward Furlong,John Connor
+330,Robert Patrick,T-1000
+330,Joe Morton,Dr. Miles Bennett Dyson
+330,Earl Boen,Dr. Peter Silberman
+330,S. Epatha Merkerson,Tarissa Dyson
+330,Castulo Guerra,Enrique Salceda
+330,Danny Cooksey,Tim
+331,Tom Hanks,Captain John H. Miller
+331,Tom Sizemore,Technical Sergeant Michael Horvath
+331,Edward Burns,Private Richard Reiben
+331,Matt Damon,Private James Francis Ryan
+331,Barry Pepper,Private Daniel Jackson
+331,Adam Goldberg,Private Stanley Mellish
+331,Vin Diesel,Private Adrian Caparzo
+331,Giovanni Ribisi,T-Medic Irwin Wade
+331,Ted Danson,Captain Fred Hamill
+332,Miles Teller,Andrew Neiman
+332,J.K. Simmons,Terence Fletcher
+332,Paul Reiser,Jim Neiman
+332,Melissa Benoist,Nicole
+332,Austin Stowell,Ryan Connolly
+332,Chris Mulkey,Uncle Frank
+332,Nate Lang,Carl Tanner
+332,Charlie Ian,Dustin
+332,Jayson Blair,Travis
+333,Rumi Hiiragi,Chihiro Ogino / Sen (voice)
+333,Miyu Irino,Haku (voice)
+333,Mari Natsuki,Yubaba / Zeniba (voice)
+333,Bunta Sugawara,Kamaji (voice)
+333,Akio Nakamura,Kaonashi (voice)
+333,Yumi Tamai,Rin (voice)
+333,Ryunosuke Kamiki,Boh (voice)
+333,Takashi Naito,Akio Ogino (voice)
+333,Yasuko Sawaguchi,Yuko Ogino (voice)
+334,Song Kang-ho,Kim Ki-taek
+334,Lee Sun-kyun,Park Dong-ik
+334,Cho Yeo-jeong,Yeon-kyo
+334,Choi Woo-shik,Ki-woo
+334,Park So-dam,Ki-jung
+334,Lee Jung-eun,Moon-gwang
+334,Jang Hye-jin,Chung-sook
+334,Park Myung-hoon,Geun-se
+334,Jung Ji-so,Da-hye
+335,Roberto Benigni,Guido Orefice
+335,Nicoletta Braschi,Dora
+335,Giorgio Cantarini,Giosué Orefice
+335,Giustino Durano,Eliseo Orefice
+335,Sergio Bini Bustric,Ferruccio
+335,Lidia Alfonsi,Signora Guicciardini
+335,Giuliana Lojodice,Direttrice
+335,Amerigo Fontani,Rodolfo
+335,Pietro De Silva,Bartolomeo
+336,Tom Hanks,Paul Edgecomb
+336,David Morse,Brutus Brutal Howell
+336,Bonnie Hunt,Jan Edgecomb
+336,Michael Clarke Duncan,John Coffey
+336,James Cromwell,Warden Hal Moores
+336,Michael Jeter,Eduard Delacroix
+336,Graham Greene,Arlen Bitterbuck
+336,Doug Hutchison,Percy Wetmore
+336,Sam Rockwell,Wild Bill Wharton
+337,Leonardo DiCaprio,Frank Abagnale Jr.
+337,Tom Hanks,Carl Hanratty
+337,Christopher Walken,Frank Abagnale
+337,Martin Sheen,Roger Strong
+337,Nathalie Baye,Paula Abagnale
+337,Amy Adams,Brenda Strong
+337,James Brolin,Jack Barnes
+337,Jennifer Garner,Cheryl Ann
+337,Chris Ellis,Special Agent Witkins
+338,Tom Hanks,Woody (voice)
+338,Tim Allen,Buzz Lightyear (voice)
+338,Joan Cusack,Jessie (voice)
+338,Don Rickles,Mr. Potato Head (voice)
+338,Wallace Shawn,Rex (voice)
+338,John Ratzenberger,Hamm (voice)
+338,Estelle Harris,Mrs. Potato Head (voice)
+338,Blake Clark,Slinky Dog (voice)
+338,Jeff Pidgeon,Aliens (voice)
+339,Joaquin Phoenix,Arthur Fleck / Joker
+339,Robert De Niro,Murray Franklin
+339,Zazie Beetz,Sophie Dumond
+339,Frances Conroy,Penny Fleck
+339,Brett Cullen,Thomas Wayne
+339,Shea Whigham,Detective Burke
+339,Bill Camp,Detective Garrity
+339,Glenn Fleshler,Randall
+339,Leigh Gill,Gary
+340,Al Pacino,Tony Montana
+340,Steven Bauer,Manny Ribera
+340,Michelle Pfeiffer,Elvira
+340,Mary Elizabeth Mastrantonio,Gina
+340,Robert Loggia,Frank Lopez
+340,Miriam Colon,Mama Montana
+340,F. Murray Abraham,Omar
+340,Paul Shenar,Alejandro Sosa
+340,Harris Yulin,Bernstein
+341,Harrison Ford,Han Solo
+341,Mark Hamill,Luke Skywalker
+341,Carrie Fisher,General Leia Organa
+341,Adam Driver,Kylo Ren / Ben Solo
+341,Daisy Ridley,Rey
+341,John Boyega,Finn
+341,Oscar Isaac,Poe Dameron
+341,Lupita Nyong'o,Maz Kanata
+341,Andy Serkis,Supreme Leader Snoke
+342,Leonardo DiCaprio,Teddy Daniels
+342,Mark Ruffalo,Chuck Aule
+342,Ben Kingsley,Dr. John Cawley
+342,Michelle Williams,Dolores Chanal
+342,Max von Sydow,Dr. Jeremiah Naehring
+342,Emily Mortimer,Rachel Solando
+342,Jackie Earle Haley,George Noyce
+342,John Carroll Lynch,Deputy Warden McPherson
+342,Ted Levine,Warden
+343,Brad Pitt,First Lieutenant Aldo The Apache Raine
+343,Mélanie Laurent,Shosanna Dreyfus
+343,Christoph Waltz,Hans Landa
+343,Eli Roth,Donny Donowitz
+343,Michael Fassbender,Archie Hicox
+343,Diane Kruger,Bridget von Hammersmark
+343,Daniel Brühl,Fredrick Zoller
+343,Til Schweiger,Hugo Stiglitz
+343,Gedeon Burkhard,Wilhelm Wicki
+344,George MacKay,Lance Corporal Schofield
+344,Dean-Charles Chapman,Lance Corporal Blake
+344,Mark Strong,Captain Smith
+344,Andrew Scott,Lieutenant Leslie
+344,Richard Madden,Lieutenant Blake
+344,Claire Duburcq,Lauri
+344,Colin Firth,General Erinmore
+344,Benedict Cumberbatch,Colonel MacKenzie
+344,Daniel Mays,Sergeant Sanders
+345,Jaeden Martell,Bill Denbrough
+345,Bill Skarsgård,It
+345,Jeremy Ray Taylor,Ben Hanscom
+345,Sophia Lillis,Beverly Marsh
+345,Finn Wolfhard,Richie Tozier
+345,Chosen Jacobs,Mike Hanlon
+345,Jack Dylan Grazer,Eddie Kaspbrak
+345,Wyatt Oleff,Stanley Uris
+345,Nicholas Hamilton,Henry Bowers
+346,Anne Hathaway,Andy Sachs
+346,Meryl Streep,Miranda Priestly
+346,Emily Blunt,Emily
+346,Stanley Tucci,Nigel
+346,Simon Baker,Christian Thompson
+346,Adrian Grenier,Nate
+346,Tracie Thoms,Lily
+346,Rich Sommer,Doug
+346,Daniel Sunjata,James Holt
+347,Hugh Jackman,Logan / Wolverine / X-24
+347,Dafne Keen,Laura / X-23
+347,Patrick Stewart,Charles Xavier / Professor X
+347,Elizabeth Rodriguez,Gabriela
+347,Boyd Holbrook,Pierce
+347,Stephen Merchant,Caliban
+347,Richard E. Grant,Dr. Rice
+347,Stephen Dunlevy,Macon
+347,Eriq La Salle,Will Munson
+348,Benedict Cumberbatch,Stephen Strange / Doctor Strange
+348,Chiwetel Ejiofor,Karl Mordo
+348,Rachel McAdams,Dr. Christine Palmer
+348,Benedict Wong,Wong
+348,Mads Mikkelsen,Kaecilius
+348,Tilda Swinton,The Ancient One
+348,Michael Stuhlbarg,Dr. Nicodemus West
+348,Benjamin Bratt,Jonathan Pangborn
+348,Scott Adkins,Lucian
+349,Robert Downey Jr.,Tony Stark / Iron Man
+349,Terrence Howard,James Rhodey Rhodes
+349,Jeff Bridges,Obadiah Stane / Iron Monger
+349,Gwyneth Paltrow,Virginia Pepper Potts
+349,Leslie Bibb,Christine Everhart
+349,Bill Smitrovich,General Gabriel
+349,Paul Bettany,J.A.R.V.I.S. (voice)
+349,Jon Favreau,Harold Happy Hogan
+349,Shaun Toub,Yinsen
+350,Robert Downey Jr.,Tony Stark / Iron Man
+350,Chris Hemsworth,Thor Odinson
+350,Mark Ruffalo,Bruce Banner / Hulk
+350,Chris Evans,Steve Rogers / Captain America
+350,Scarlett Johansson,Natasha Romanoff / Black Widow
+350,Benedict Cumberbatch,Stephen Strange / Doctor Strange
+350,Tom Holland,Peter Parker / Spider-Man
+350,Chadwick Boseman,T'Challa / Black Panther
+350,Don Cheadle,James Rhodey Rhodes / War Machine
+351,Robert Downey Jr.,Tony Stark / Iron Man
+351,Chris Evans,Steve Rogers / Captain America
+351,Mark Ruffalo,Bruce Banner / Hulk
+351,Chris Hemsworth,Thor Odinson
+351,Scarlett Johansson,Natasha Romanoff / Black Widow
+351,Jeremy Renner,Clint Barton / Hawkeye
+351,Don Cheadle,James Rhodes / War Machine
+351,Paul Rudd,Scott Lang / Ant-Man
+351,Benedict Cumberbatch,Stephen Strange / Doctor Strange
+352,Robert Downey Jr.,Tony Stark / Iron Man
+352,Chris Evans,Steve Rogers / Captain America
+352,Mark Ruffalo,Bruce Banner / The Hulk
+352,Chris Hemsworth,Thor Odinson
+352,Scarlett Johansson,Natasha Romanoff / Black Widow
+352,Jeremy Renner,Clint Barton / Hawkeye
+352,Tom Hiddleston,Loki
+352,Samuel L. Jackson,Nick Fury
+352,Cobie Smulders,Maria Hill
+353,Tom Cruise,Capt. Pete Maverick Mitchell
+353,Miles Teller,Lt. Bradley Rooster Bradshaw
+353,Jennifer Connelly,Penny Benjamin
+353,Jon Hamm,Adm. Beau Cyclone Simpson
+353,Glen Powell,Lt. Jake Hangman Seresin
+353,Ed Harris,Radm. Chester Hammer Cain
+353,Val Kilmer,Adm. Tom Iceman Kazansky
+353,Lewis Pullman,Lt. Robert Bob Floyd
+353,Charles Parnell,Adm. Solomon Warlock Bates
+354,Tom Holland,Peter Parker / Spider-Man
+354,Zendaya,Michelle MJ Jones
+354,Benedict Cumberbatch,Stephen Strange / Doctor Strange
+354,Jacob Batalon,Ned Leeds
+354,Jon Favreau,Harold Happy Hogan
+354,Jamie Foxx,Max Dillon / Electro
+354,Willem Dafoe,Norman Osborn / Green Goblin
+354,Alfred Molina,Otto Octavius / Doctor Octopus
+354,Benedict Wong,Wong
+355,Jennifer Lawrence,Katniss Everdeen
+355,Josh Hutcherson,Peeta Mellark
+355,Liam Hemsworth,Gale Hawthorne
+355,Woody Harrelson,Haymitch Abernathy
+355,Elizabeth Banks,Effie Trinket
+355,Donald Sutherland,President Snow
+355,Lenny Kravitz,Cinna
+355,Philip Seymour Hoffman,Plutarch Heavensbee
+355,Jeffrey Wright,Beetee
+356,Chris Pratt,Peter Quill / Star-Lord
+356,Zoe Saldaña,Gamora
+356,Dave Bautista,Drax the Destroyer
+356,Vin Diesel,Baby Groot (voice)
+356,Bradley Cooper,Rocket (voice)
+356,Kurt Russell,Ego
+356,Michael Rooker,Yondu Udonta
+356,Karen Gillan,Nebula
+356,Pom Klementieff,Mantis
+357,Paul Rudd,Scott Lang / Ant-Man
+357,Evangeline Lilly,Hope van Dyne / Wasp
+357,Michael Peña,Luis
+357,Walton Goggins,Sonny Burch
+357,Bobby Cannavale,Paxton
+357,Judy Greer,Maggie
+357,T.I.,Dave
+357,David Dastmalchian,Kurt
+357,Hannah John-Kamen,Ava Starr / Ghost
+358,Chris Evans,Steve Rogers / Captain America
+358,Robert Downey Jr.,Tony Stark / Iron Man
+358,Scarlett Johansson,Natasha Romanoff / Black Widow
+358,Sebastian Stan,James Bucky Barnes / Winter Soldier
+358,Anthony Mackie,Sam Wilson / Falcon
+358,Don Cheadle,James Rhodey Rhodes / War Machine
+358,Jeremy Renner,Clint Barton / Hawkeye
+358,Chadwick Boseman,T'Challa / Black Panther
+358,Paul Bettany,Vision
+359,Benedict Cumberbatch,Dr. Stephen Strange
+359,Elizabeth Olsen,Wanda Maximoff / The Scarlet Witch
+359,Chiwetel Ejiofor,Baron Karl Mordo
+359,Benedict Wong,Wong
+359,Xochitl Gomez,America Chavez
+359,Jett Klyne,Tommy Maximoff
+359,Julian Hilliard,Billy Maximoff
+359,Sheila Atim,Sara
+359,Adam Hugill,Rintrah (voice)
+360,Chris Hemsworth,Thor Odinson
+360,Natalie Portman,Jane Foster / The Mighty Thor
+360,Christian Bale,Gorr
+360,Tessa Thompson,King Valkyrie
+360,Taika Waititi,Korg (voice)
+360,Jaimie Alexander,Sif
+360,Russell Crowe,Zeus
+360,Chris Pratt,Peter Quill / Star-Lord
+360,Karen Gillan,Nebula
+361,Chris Hemsworth,Thor Odinson
+361,Tom Hiddleston,Loki
+361,Cate Blanchett,Hela
+361,Tessa Thompson,Scrapper 142 / Valkyrie
+361,Jeff Goldblum,Grandmaster
+361,Idris Elba,Heimdall
+361,Karl Urban,Skurge
+361,Mark Ruffalo,Bruce Banner / Hulk
+361,Anthony Hopkins,Odin
+362,Letitia Wright,Shuri / Black Panther
+362,Lupita Nyong'o,Nakia
+362,Danai Gurira,Okoye
+362,Winston Duke,M'Baku
+362,Dominique Thorne,Riri Williams / Ironheart
+362,Tenoch Huerta Mejía,Namor
+362,Angela Bassett,Ramonda
+362,Florence Kasumba,Ayo
+362,Michaela Coel,Aneka
+363,Paul Rudd,Scott Lang / Ant-Man
+363,Evangeline Lilly,Hope van Dyne / The Wasp
+363,Jonathan Majors,Kang the Conqueror
+363,Kathryn Newton,Cassie Lang
+363,Michelle Pfeiffer,Janet van Dyne
+363,Michael Douglas,Dr. Hank Pym
+363,Corey Stoll,M.O.D.O.K.
+363,Bill Murray,Lord Krylar
+363,William Jackson Harper,Quaz
+364,Chris Pratt,Peter Quill / Star-Lord
+364,Zoe Saldaña,Gamora
+364,Dave Bautista,Drax the Destroyer
+364,Karen Gillan,Nebula
+364,Pom Klementieff,Mantis
+364,Bradley Cooper,Rocket (voice)
+364,Vin Diesel,Groot (voice)
+364,Sean Gunn,Kraglin
+364,Chukwudi Iwuji,The High Evolutionary
+365,Michael B. Jordan,Adonis Creed
+365,Tessa Thompson,Bianca Taylor
+365,Jonathan Majors,Damien Anderson
+365,Wood Harris,Tony Little Duke Evers
+365,Phylicia Rashād,Mary Anne Creed
+365,Mila Davis-Kent,Amara Creed
+365,Florian Munteanu,Viktor Drago
+365,José Benavidez Jr.,Felix Chavez
+365,Selenis Leyva,Laura Chavez
+366,Michael B. Jordan,Adonis Johnson
+366,Sylvester Stallone,Rocky Balboa
+366,Tessa Thompson,Bianca
+366,Wood Harris,Tony Little Duke Evers
+366,Russell Hornsby,Buddy Marcelle
+366,Phylicia Rashād,Mary Anne Creed
+366,Dolph Lundgren,Ivan Drago
+366,Florian Munteanu,Viktor Drago
+366,Andre Ward,Danny Stuntman Wheeler
+367,Michael B. Jordan,Adonis Johnson
+367,Sylvester Stallone,Rocky Balboa
+367,Tessa Thompson,Bianca
+367,Phylicia Rashād,Mary Anne Creed
+367,Andre Ward,Danny Stuntman Wheeler
+367,Tony Bellew,Pretty Ricky Conlan
+367,Ritchie Coster,Pete Sporino
+367,Jacob Stitch Duran,Stitch
+367,Graham McTavish,Tommy Holiday
+368,Keanu Reeves,John Wick
+368,Michael Nyqvist,Viggo Tarasov
+368,Ian McShane,Winston
+368,John Leguizamo,Aurelio
+368,Willem Dafoe,Marcus
+368,Alfie Allen,Iosef Tarasov
+368,Dean Winters,Avi
+368,Adrianne Palicki,Ms. Perkins
+368,Lance Reddick,Hotel Manager / Charon
+369,Keanu Reeves,John Wick
+369,Common,Cassian
+369,Ian McShane,Winston
+369,Laurence Fishburne,Bowery King
+369,Riccardo Scamarcio,Santino D'Antonio
+369,Ruby Rose,Ares
+369,Lance Reddick,Charon
+369,Peter Stormare,Abram Tarasov
+369,Bridget Moynahan,Helen Wick
+370,Keanu Reeves,John Wick
+370,Halle Berry,Sofia
+370,Ian McShane,Winston
+370,Laurence Fishburne,Bowery King
+370,Mark Dacascos,Zero
+370,Asia Kate Dillon,Adjudicator
+370,Lance Reddick,Charon
+370,Anjelica Huston,Director
+370,Tobias Segal,Earl
+371,Keanu Reeves,John Wick
+371,Donnie Yen,Caine
+371,Bill Skarsgård,Marquis de Gramont
+371,Ian McShane,Winston
+371,Laurence Fishburne,Bowery King
+371,Lance Reddick,Charon
+371,Clancy Brown,The Harbinger
+371,Hiroyuki Sanada,Shimazu
+371,Shamier Anderson,Mr Nobody
+372,Sam Worthington,Jake Sully
+372,Zoe Saldaña,Neytiri
+372,Sigourney Weaver,Dr. Grace Augustine
+372,Stephen Lang,Colonel Miles Quaritch
+372,Michelle Rodriguez,Trudy Chacon
+372,Giovanni Ribisi,Parker Selfridge
+372,Joel David Moore,Norm Spellman
+372,CCH Pounder,Mo'at
+372,Wes Studi,Eytukan
+373,Sam Worthington,Jake Sully
+373,Zoe Saldaña,Neytiri
+373,Sigourney Weaver,Kiri
+373,Stephen Lang,Colonel Miles Quaritch
+373,Kate Winslet,Ronal
+373,Cliff Curtis,Tonowari
+373,Joel David Moore,Norm Spellman
+373,CCH Pounder,Mo'at
+373,Edie Falco,General Frances Ardmore
+374,Leonardo DiCaprio,Jack Dawson
+374,Kate Winslet,Rose DeWitt Bukater
+374,Billy Zane,Cal Hockley
+374,Kathy Bates,Molly Brown
+374,Frances Fisher,Ruth DeWitt Bukater
+374,Gloria Stuart,Old Rose
+374,Victor Garber,Thomas Andrews
+374,Bill Paxton,Brock Lovett
+374,Bernard Hill,Edward Smith
+375,Chris Pratt,Owen Grady
+375,Bryce Dallas Howard,Claire Dearing
+375,Ty Simpkins,Gray Mitchell
+375,Nick Robinson,Zach Mitchell
+375,Vincent D'Onofrio,Vic Hoskins
+375,BD Wong,Dr. Henry Wu
+375,Omar Sy,Barry Sembène
+375,Jake Johnson,Lowery Cruthers
+375,Irrfan Khan,Simon Masrani
+376,Chris Pratt,Owen Grady
+376,Bryce Dallas Howard,Claire Dearing
+376,Laura Dern,Dr. Ellie Sattler
+376,Jeff Goldblum,Dr. Ian Malcolm
+376,Sam Neill,Dr. Alan Grant
+376,DeWanda Wise,Kayla Watts
+376,Mamoudou Athie,Ramsay Cole
+376,Isabella Sermon,Maisie Lockwood
+376,Campbell Scott,Lewis Dodgson
+377,Chris Pratt,Owen Grady
+377,Bryce Dallas Howard,Claire Dearing
+377,Rafe Spall,Eli Mills
+377,Toby Jones,Mr. Eversoll
+377,Ted Levine,Ken Wheatley
+377,BD Wong,Dr. Henry Wu
+377,Jeff Goldblum,Dr. Ian Malcolm
+377,Justice Smith,Franklin Webb
+377,Daniella Pineda,Zia Rodriguez
+378,Idina Menzel,Elsa (voice)
+378,Kristen Bell,Anna (voice)
+378,Josh Gad,Olaf (voice)
+378,Jonathan Groff,Kristoff (voice)
+378,Sterling K. Brown,Mattias (voice)
+378,Evan Rachel Wood,Iduna (voice)
+378,Alfred Molina,Agnarr (voice)
+378,Martha Plimpton,Yelena (voice)
+378,Jason Ritter,Ryder (voice)
+379,Kristen Bell,Anna (voice)
+379,Idina Menzel,Elsa (voice)
+379,Jonathan Groff,Kristoff (voice)
+379,Frank Welker,Sven (voice)
+379,Josh Gad,Olaf (voice)
+379,Santino Fontana,Hans (voice)
+379,Alan Tudyk,Duke (voice)
+379,Ciarán Hinds,Pabbie (voice)
+379,Chris Williams,Oaken (voice)
+380,Stephanie Beatriz,Mirabel Madrigal (voice)
+380,María Cecilia Botero,Abuela Alma Madrigal (voice)
+380,John Leguizamo,Bruno Madrigal (voice)
+380,Mauro Castillo,Félix Madrigal (voice)
+380,Jessica Darrow,Luisa Madrigal (voice)
+380,Angie Cepeda,Julieta Madrigal (voice)
+380,Carolina Gaitán,Pepa Madrigal (voice)
+380,Diane Guerrero,Isabela Madrigal (voice)
+380,Wilmer Valderrama,Agustín Madrigal (voice)
+381,Pierre Coffin,Kevin / Stuart / Bob / Minions (voice)
+381,Steve Carell,Gru (voice)
+381,Russell Brand,Dr. Nefario (voice)
+381,Alan Arkin,Wild Knuckles (voice)
+381,Taraji P. Henson,Belle Bottom (voice)
+381,Jean-Claude Van Damme,Jean Clawed (voice)
+381,Lucy Lawless,Nunchuck (voice)
+381,Dolph Lundgren,Svengeance (voice)
+381,Danny Trejo,Stronghold (voice)
+382,Steve Carell,Gru (voice)
+382,Miranda Cosgrove,Margo (voice)
+382,Dana Gaier,Edith (voice)
+382,Elsie Fisher,Agnes (voice)
+382,Jason Segel,Vector (voice)
+382,Russell Brand,Dr. Nefario (voice)
+382,Julie Andrews,Gru's Mother (voice)
+382,Will Arnett,Mr. Perkins (voice)
+382,Kristen Wiig,Miss Hattie (voice)
+383,Steve Carell,Gru (voice)
+383,Kristen Wiig,Lucy (voice)
+383,Benjamin Bratt,Eduardo El Macho Pérez (voice)
+383,Miranda Cosgrove,Margo (voice)
+383,Russell Brand,Dr. Nefario (voice)
+383,Ken Jeong,Floyd Eagle-san (voice)
+383,Steve Coogan,Silas Ramsbottom (voice)
+383,Elsie Fisher,Agnes (voice)
+383,Dana Gaier,Edith (voice)
+384,Tom Hanks,Woody (voice)
+384,Tim Allen,Buzz Lightyear (voice)
+384,Annie Potts,Bo Peep (voice)
+384,Tony Hale,Forky (voice)
+384,Keegan-Michael Key,Ducky (voice)
+384,Madeleine McGraw,Bonnie (voice)
+384,Christina Hendricks,Gabby Gabby (voice)
+384,Jordan Peele,Bunny (voice)
+384,Keanu Reeves,Duke Caboom (voice)
+385,Tom Hanks,Woody (voice)
+385,Tim Allen,Buzz Lightyear (voice)
+385,Joan Cusack,Jessie the Yodeling Cowgirl (voice)
+385,Kelsey Grammer,Stinky Pete the Prospector (voice)
+385,Don Rickles,Mr. Potato Head (voice)
+385,Jim Varney,Slinky Dog (voice)
+385,Wallace Shawn,Rex the Green Dinosaur (voice)
+385,John Ratzenberger,Hamm the Piggy Bank (voice)
+385,Annie Potts,Bo Peep (voice)
+386,Jason Bateman,Nick Wilde (voice)
+386,Ginnifer Goodwin,Judy Hopps (voice)
+386,Idris Elba,Chief Bogo (voice)
+386,Jenny Slate,Assistant Mayor Dawn Bellwether (voice)
+386,Nate Torrence,Officer Benjamin Clawhauser (voice)
+386,Bonnie Hunt,Bonnie Hopps (voice)
+386,Don Lake,Stu Hopps (voice)
+386,Tommy Chong,Yax (voice)
+386,J.K. Simmons,Mayor Leodore Lionheart (voice)
+387,Craig T. Nelson,Bob Parr / Mr. Incredible (voice)
+387,Holly Hunter,Helen Parr / Elastigirl (voice)
+387,Sarah Vowell,Violet Parr (voice)
+387,Huck Milner,Dashiell Dash Parr (voice)
+387,Samuel L. Jackson,Lucius Best / Frozone (voice)
+387,Bob Odenkirk,Winston Deavor (voice)
+387,Jonathan Banks,Rick Dicker (voice)
+387,Catherine Keener,Evelyn Deavor (voice)
+387,Eli Fucile,Jack-Jack Parr (voice)
+388,Craig T. Nelson,Bob Parr / Mr. Incredible (voice)
+388,Holly Hunter,Helen Parr / Elastigirl (voice)
+388,Sarah Vowell,Violet Parr (voice)
+388,Spencer Fox,Dashiell Dash Parr (voice)
+388,Jason Lee,Buddy Pine / Syndrome (voice)
+388,Samuel L. Jackson,Lucius Best / Frozone (voice)
+388,Elizabeth Peña,Mirage (voice)
+388,Eli Fucile,Jack-Jack Parr (voice)
+388,Maeve Andrews,Jack-Jack Parr (voice)
+389,Paige O'Hara,Belle (voice)
+389,Robby Benson,Beast (voice)
+389,Richard White,Gaston (voice)
+389,Jerry Orbach,Lumiere (voice)
+389,David Ogden Stiers,Cogsworth (voice)
+389,Angela Lansbury,Mrs. Potts (voice)
+389,Rex Everhart,Maurice (voice)
+389,Jesse Corti,Lefou (voice)
+389,Bradley Pierce,Chip (voice)
+390,Emma Watson,Belle
+390,Dan Stevens,Beast
+390,Luke Evans,Gaston
+390,Josh Gad,LeFou
+390,Kevin Kline,Maurice
+390,Hattie Morahan,Enchantress
+390,Haydn Gwynne,Clothilde
+390,Gerard Horan,Jean the Potter
+390,Ray Fearon,Père Robert
+391,Will Smith,Genie / Mariner
+391,Mena Massoud,Aladdin
+391,Naomi Scott,Jasmine
+391,Marwan Kenzari,Jafar
+391,Navid Negahban,Sultan
+391,Nasim Pedrad,Dalia
+391,Billy Magnussen,Prince Anders
+391,Numan Acar,Hakim
+391,Jordan A. Nash,Omar
+392,Chiwetel Ejiofor,Scar (voice)
+392,John Oliver,Zazu (voice)
+392,James Earl Jones,Mufasa (voice)
+392,John Kani,Rafiki (voice)
+392,Alfre Woodard,Sarabi (voice)
+392,JD McCrary,Young Simba (voice)
+392,Shahadi Wright Joseph,Young Nala (voice)
+392,Penny Johnson Jerald,Sarafina (voice)
+392,Keegan-Michael Key,Kamari (voice)
+393,Ming-Na Wen,Mulan (voice)
+393,Eddie Murphy,Mushu (voice)
+393,BD Wong,Shang (voice)
+393,Miguel Ferrer,Shan-Yu (voice)
+393,Harvey Fierstein,Yao (voice)
+393,Freda Foh Shen,Fa Li (voice)
+393,June Foray,Grandmother Fa (voice)
+393,James Hong,Chi Fu (voice)
+393,Miriam Margolyes,The Matchmaker (voice)
+394,Liu Yifei,Hua Mulan
+394,Donnie Yen,Commander Tung
+394,Gong Li,Xian Niang
+394,Jet Li,The Emperor
+394,Jason Scott Lee,Böri Khan
+394,Yoson An,Chen Honghui
+394,Tzi Ma,Hua Zhou
+394,Rosalind Chao,Hua Li
+394,Cheng Pei-pei,The Matchmaker
+395,Mike Myers,Shrek (voice)
+395,Eddie Murphy,Donkey (voice)
+395,Cameron Diaz,Princess Fiona (voice)
+395,John Lithgow,Lord Farquaad (voice)
+395,Vincent Cassel,Monsieur Hood (voice)
+395,Peter Dennis,Ogre Hunter (voice)
+395,Clive Pearse,Ogre Hunter (voice)
+395,Jim Cummings,Captain of Guards (voice)
+395,Bobby Block,Baby Bear (voice)
+396,Mike Myers,Shrek (voice)
+396,Eddie Murphy,Donkey (voice)
+396,Cameron Diaz,Princess Fiona (voice)
+396,Julie Andrews,Queen Lillian (voice)
+396,Antonio Banderas,Puss in Boots (voice)
+396,John Cleese,King Harold (voice)
+396,Rupert Everett,Prince Charming (voice)
+396,Jennifer Saunders,Fairy Godmother (voice)
+396,Aron Warner,Wolf (voice)
+397,Antonio Banderas,Puss in Boots (voice)
+397,Salma Hayek,Kitty Softpaws (voice)
+397,Harvey Guillén,Perrito (voice)
+397,Wagner Moura,Wolf (voice)
+397,Florence Pugh,Goldilocks (voice)
+397,Olivia Colman,Mama Bear (voice)
+397,Ray Winstone,Papa Bear (voice)
+397,Samson Kayo,Baby Bear (voice)
+397,John Mulaney,Jack Horner (voice)
+398,Chris Pratt,Mario (voice)
+398,Anya Taylor-Joy,Princess Peach (voice)
+398,Charlie Day,Luigi (voice)
+398,Jack Black,Bowser (voice)
+398,Keegan-Michael Key,Toad (voice)
+398,Seth Rogen,Donkey Kong (voice)
+398,Fred Armisen,Cranky Kong (voice)
+398,Kevin Michael Richardson,Kamek (voice)
+398,Sebastian Maniscalco,Spike (voice)
+399,James Marsden,Tom Wachowski
+399,Ben Schwartz,Sonic the Hedgehog (voice)
+399,Tika Sumpter,Maddie Wachowski
+399,Natasha Rothwell,Rachel
+399,Adam Pally,Wade Whipple
+399,Neal McDonough,Major Bennington
+399,Jim Carrey,Dr. Robotnik
+399,Lee Majdoub,Agent Stone
+399,Tom Butler,Vice Chairman Walters
+400,James Marsden,Tom Wachowski
+400,Ben Schwartz,Sonic the Hedgehog (voice)
+400,Tika Sumpter,Maddie Wachowski
+400,Natasha Rothwell,Rachel
+400,Adam Pally,Wade Whipple
+400,Shemar Moore,Randall
+400,Colleen O'Shaughnessey,Miles Tails Prower (voice)
+400,Lee Majdoub,Agent Stone
+400,Idris Elba,Knuckles the Echidna (voice)
+401,Anthony Gonzalez,Miguel Rivera (voice)
+401,Gael García Bernal,Héctor (voice)
+401,Benjamin Bratt,Ernesto de la Cruz (voice)
+401,Alanna Ubach,Mamá Imelda Rivera (voice)
+401,Renée Victor,Elena Rivera (voice)
+401,Jaime Camil,Papá Enrique Rivera (voice)
+401,Alfonso Arau,Papá Julio Rivera (voice)
+401,Herbert Siguenza,Tío Oscar Rivera (voice)
+401,Lombardo Boyar,Mariachi (voice)
+402,Ed Asner,Carl Fredricksen (voice)
+402,Christopher Plummer,Charles F. Muntz (voice)
+402,Jordan Nagai,Russell (voice)
+402,Bob Peterson,Dug / Alpha (voice)
+402,Delroy Lindo,Beta (voice)
+402,Jerome Ranft,Gamma (voice)
+402,John Ratzenberger,Construction Foreman Tom (voice)
+402,David Kaye,Newsreel Announcer (voice)
+402,Elie Docter,Young Ellie (voice)
+403,Patton Oswalt,Remy (voice)
+403,Ian Holm,Skinner (voice)
+403,Lou Romano,Linguini (voice)
+403,Brian Dennehy,Django (voice)
+403,Peter Sohn,Emile (voice)
+403,Peter O'Toole,Anton Ego (voice)
+403,Brad Garrett,Auguste Gusteau (voice)
+403,Janeane Garofalo,Colette (voice)
+403,Will Arnett,Horst (voice)
+404,Ben Burtt,WALL·E / M-O (voice)
+404,Elissa Knight,EVE (voice)
+404,Jeff Garlin,Captain (voice)
+404,Fred Willard,Shelby Forthright (voice)
+404,John Ratzenberger,John (voice)
+404,Kathy Najimy,Mary (voice)
+404,Sigourney Weaver,Ship's Computer (voice)
+404,Teddy Newton,Additional Voices (voice)
+404,Bob Bergen,Additional Voices (voice)
+405,Jamie Foxx,Joe Gardner (voice)
+405,Tina Fey,22 (voice)
+405,Graham Norton,Moonwind (voice)
+405,Rachel House,Terry (voice)
+405,Alice Braga,Counselor Jerry (voice)
+405,Richard Ayoade,Counselor Jerry (voice)
+405,Phylicia Rashād,Libba Gardner (voice)
+405,Donnell Rawlings,Dez (voice)
+405,Questlove,Curly (voice)
+406,Rosalie Chiang,Meilin Mei Lee (voice)
+406,Sandra Oh,Ming (voice)
+406,Ava Morse,Miriam (voice)
+406,Hyein Park,Abby (voice)
+406,Maitreyi Ramakrishnan,Priya (voice)
+406,Orion Lee,Jin Lee (voice)
+406,Wai Ching Ho,Grandma (voice)
+406,Tristan Allerick Chen,Tyler (voice)
+406,Lori Tan Chinn,Auntie Chen (voice)
+407,Chris Evans,Buzz Lightyear (voice)
+407,Keke Palmer,Izzy Hawthorne (voice)
+407,Peter Sohn,SOX (voice)
+407,Taika Waititi,Mo Morrison (voice)
+407,Dale Soules,Darby Steel (voice)
+407,James Brolin,Zurg (voice)
+407,Uzo Aduba,Alisha Hawthorne (voice)
+407,Mary McDonald-Lewis,I.V.A.N. (voice)
+407,Isiah Whitlock Jr.,Commander Burnside (voice)
+408,Kelly Macdonald,Merida (voice)
+408,Billy Connolly,Fergus (voice)
+408,Emma Thompson,Elinor (voice)
+408,Julie Walters,The Witch (voice)
+408,Robbie Coltrane,Lord Dingwall (voice)
+408,Kevin McKidd,Lord MacGuffin (voice)
+408,Craig Ferguson,Lord MacIntosh (voice)
+408,Sally Kinghorn,Maudie (voice)
+408,Eilidh Fraser,Maudie (voice)
+409,Billy Crystal,Mike Wazowski (voice)
+409,John Goodman,James Sullivan (voice)
+409,Steve Buscemi,Randall Boggs (voice)
+409,Helen Mirren,Dean Hardscrabble (voice)
+409,Peter Sohn,Scott Squibbles (voice)
+409,Joel Murray,Don Carlton (voice)
+409,Sean Hayes,Terri Perry (voice)
+409,Dave Foley,Terry Perry (voice)
+409,Charlie Day,Art (voice)
+410,Larry the Cable Guy,Mater (voice)
+410,Owen Wilson,Lightning McQueen (voice)
+410,Michael Caine,Finn McMissile (voice)
+410,Emily Mortimer,Holley Shiftwell (voice)
+410,John Turturro,Francesco Bernoulli (voice)
+410,Eddie Izzard,Sir Miles Axlerod (voice)
+410,Thomas Kretschmann,Professor Z (voice)
+410,Guido Quaroni,Guido (voice)
+410,Joe Mantegna,Grem (voice)
+411,Owen Wilson,Lightning McQueen (voice)
+411,Cristela Alonzo,Cruz Ramirez (voice)
+411,Chris Cooper,Smokey Yunick (voice)
+411,Nathan Fillion,Sterling (voice)
+411,Armie Hammer,Jackson Storm (voice)
+411,Larry the Cable Guy,Mater (voice)
+411,Bonnie Hunt,Sally Carrera (voice)
+411,Lea DeLaria,Miss Fritter (voice)
+411,Kerry Washington,Natalie Certain (voice)
+412,Owen Wilson,Lightning McQueen (voice)
+412,Larry the Cable Guy,Mater (voice)
+412,Bonnie Hunt,Sally Carrera (voice)
+412,Paul Newman,Doc Hudson (voice)
+412,Tony Shalhoub,Luigi (voice)
+412,Cheech Marin,Ramone (voice)
+412,Michael Wallis,Sheriff (voice)
+412,George Carlin,Fillmore (voice)
+412,Paul Dooley,Sarge (voice)
+413,Jay Baruchel,Hiccup (voice)
+413,Gerard Butler,Stoick the Vast (voice)
+413,Craig Ferguson,Gobber the Belch (voice)
+413,America Ferrera,Astrid Hofferson (voice)
+413,Jonah Hill,Snotlout Jorgenson (voice)
+413,Christopher Mintz-Plasse,Fishlegs Ingerman (voice)
+413,T.J. Miller,Tuffnut Thorston (voice)
+413,Kristen Wiig,Ruffnut Thorston (voice)
+413,David Tennant,Spitelout (voice)
+414,Jay Baruchel,Hiccup (voice)
+414,Cate Blanchett,Valka (voice)
+414,Gerard Butler,Stoick (voice)
+414,Craig Ferguson,Gobber (voice)
+414,America Ferrera,Astrid (voice)
+414,Jonah Hill,Snotlout (voice)
+414,Christopher Mintz-Plasse,Fishlegs (voice)
+414,T.J. Miller,Tuffnut (voice)
+414,Kristen Wiig,Ruffnut (voice)
+415,Jay Baruchel,Hiccup (voice)
+415,America Ferrera,Astrid (voice)
+415,F. Murray Abraham,Grimmel (voice)
+415,Cate Blanchett,Valka (voice)
+415,Gerard Butler,Stoick (voice)
+415,Craig Ferguson,Gobber (voice)
+415,Jonah Hill,Snotlout (voice)
+415,Christopher Mintz-Plasse,Fishlegs (voice)
+415,Kristen Wiig,Ruffnut (voice)
+416,Jack Black,Po (voice)
+416,Dustin Hoffman,Shifu (voice)
+416,Angelina Jolie,Master Tigress (voice)
+416,Jackie Chan,Master Monkey (voice)
+416,Lucy Liu,Master Viper (voice)
+416,Seth Rogen,Mantis (voice)
+416,David Cross,Crane (voice)
+416,Ian McShane,Tai Lung (voice)
+416,Randall Duk Kim,Oogway (voice)
+417,Jack Black,Po (voice)
+417,Bryan Cranston,Li Shan (voice)
+417,Dustin Hoffman,Shifu (voice)
+417,Angelina Jolie,Tigress (voice)
+417,J.K. Simmons,Kai (voice)
+417,Jackie Chan,Monkey (voice)
+417,Seth Rogen,Mantis (voice)
+417,Lucy Liu,Viper (voice)
+417,David Cross,Crane (voice)
+418,Ben Stiller,Alex (voice)
+418,Chris Rock,Marty (voice)
+418,David Schwimmer,Melman (voice)
+418,Jada Pinkett Smith,Gloria (voice)
+418,Sacha Baron Cohen,Julien (voice)
+418,Cedric the Entertainer,Maurice (voice)
+418,Andy Richter,Mort (voice)
+418,Tom McGrath,Skipper (voice)
+418,Christopher Knights,Private (voice)
+419,Jesse Eisenberg,Blu (voice)
+419,Anne Hathaway,Jewel (voice)
+419,Leslie Mann,Linda (voice)
+419,Jane Lynch,Alice / Goose (voice)
+419,Will.i.am,Pedro (voice)
+419,George Lopez,Rafael (voice)
+419,Wanda Sykes,Chloe / Goose (voice)
+419,Jamie Foxx,Nico (voice)
+419,Rodrigo Santoro,Tulio (voice)
+420,Jesse Eisenberg,Blu (voice)
+420,Anne Hathaway,Jewel (voice)
+420,Will.i.am,Pedro (voice)
+420,Jamie Foxx,Nico (voice)
+420,Leslie Mann,Linda (voice)
+420,George Lopez,Rafael (voice)
+420,Andy García,Eduardo (voice)
+420,Bruno Mars,Roberto (voice)
+420,Bernardo de Paula,Carnival Barker (voice)
+421,Ray Romano,Manny (voice)
+421,John Leguizamo,Sid (voice)
+421,Denis Leary,Diego (voice)
+421,Goran Visnjic,Soto (voice)
+421,Jack Black,Zeke (voice)
+421,Cedric the Entertainer,Carl (voice)
+421,Stephen Root,Frank / Start (voice)
+421,Diedrich Bader,Oscar (voice)
+421,Alan Tudyk,Lenny (voice)
+422,Ray Romano,Manny (voice)
+422,John Leguizamo,Sid (voice)
+422,Denis Leary,Diego (voice)
+422,Queen Latifah,Ellie (voice)
+422,Seann William Scott,Crash (voice)
+422,Josh Peck,Eddie (voice)
+422,Jay Leno,Fast Tony (voice)
+422,Will Arnett,Lone Gunslinger Vulture (voice)
+422,Chris Wedge,Scrat (voice)
+423,Ray Romano,Manny (voice)
+423,John Leguizamo,Sid (voice)
+423,Denis Leary,Diego (voice)
+423,Queen Latifah,Ellie (voice)
+423,Simon Pegg,Buck (voice)
+423,Seann William Scott,Crash (voice)
+423,Josh Peck,Eddie (voice)
+423,Chris Wedge,Scrat (voice)
+423,Karen Disher,Scratte (voice)
+424,Ray Romano,Manny (voice)
+424,John Leguizamo,Sid (voice)
+424,Denis Leary,Diego (voice)
+424,Seann William Scott,Crash (voice)
+424,Josh Peck,Eddie (voice)
+424,Queen Latifah,Ellie (voice)
+424,Jennifer Lopez,Shira (voice)
+424,Peter Dinklage,Captain Gutt (voice)
+424,Wanda Sykes,Granny (voice)
+425,Anna Kendrick,Poppy (voice)
+425,Justin Timberlake,Branch (voice)
+425,Zooey Deschanel,Bridget (voice)
+425,Russell Brand,Creek (voice)
+425,James Corden,Biggie (voice)
+425,Gwen Stefani,DJ Suki (voice)
+425,Iris Dohrn,Baby Poppy (voice)
+425,Liam Henry,Young Branch (voice)
+425,Aino Jawo,Satin (voice)
+426,Matthew McConaughey,Buster Moon (voice)
+426,Reese Witherspoon,Rosita (voice)
+426,Seth MacFarlane,Mike (voice)
+426,Scarlett Johansson,Ash (voice)
+426,John C. Reilly,Eddie (voice)
+426,Taron Egerton,Johnny (voice)
+426,Tori Kelly,Meena (voice)
+426,Jennifer Saunders,Nana (voice)
+426,Garth Jennings,Miss Crawly (voice)
+427,Matthew McConaughey,Buster Moon (voice)
+427,Reese Witherspoon,Rosita (voice)
+427,Scarlett Johansson,Ash (voice)
+427,Taron Egerton,Johnny (voice)
+427,Bobby Cannavale,Mr. Crystal (voice)
+427,Tori Kelly,Meena (voice)
+427,Nick Kroll,Gunter (voice)
+427,Halsey,Porsha Crystal (voice)
+427,Spike Jonze,Jerry (voice)
+428,Robert Pattinson,Bruce Wayne / The Batman
+428,Zoë Kravitz,Selina Kyle / Catwoman
+428,Paul Dano,Edward Nashton / The Riddler
+428,Jeffrey Wright,Lt. James Gordon
+428,John Turturro,Carmine Falcone
+428,Peter Sarsgaard,District Attorney Gil Colson
+428,Andy Serkis,Alfred Pennyworth
+428,Colin Farrell,Oswald Cobblepot / The Penguin
+428,Jayme Lawson,Bella Reál
+429,Ben Affleck,Batman / Bruce Wayne
+429,Henry Cavill,Superman / Clark Kent / Kal-El
+429,Amy Adams,Lois Lane
+429,Gal Gadot,Wonder Woman / Diana Prince
+429,Ezra Miller,The Flash / Barry Allen
+429,Jason Momoa,Aquaman / Arthur Curry
+429,Ray Fisher,Cyborg / Victor Stone
+429,Jeremy Irons,Alfred Pennyworth
+429,Diane Lane,Martha Kent
+430,Ben Affleck,Bruce Wayne / Batman
+430,Henry Cavill,Clark Kent / Superman / Kal-El
+430,Gal Gadot,Diana Prince / Wonder Woman
+430,Jason Momoa,Arthur Curry / Aquaman
+430,Ezra Miller,Barry Allen / The Flash
+430,Ray Fisher,Victor Stone / Cyborg
+430,Amy Adams,Lois Lane
+430,Jeremy Irons,Alfred Pennyworth
+430,Connie Nielsen,Queen Hippolyta
+431,Henry Cavill,Clark Kent / Superman / Kal-El
+431,Amy Adams,Lois Lane
+431,Michael Shannon,General Zod
+431,Diane Lane,Martha Kent
+431,Russell Crowe,Jor-El
+431,Kevin Costner,Jonathan Kent
+431,Laurence Fishburne,Perry White
+431,Christopher Meloni,Colonel Nathan Hardy
+431,Antje Traue,Faora-Ul
+432,Gal Gadot,Diana Prince / Wonder Woman
+432,Chris Pine,Steve Trevor
+432,Kristen Wiig,Barbara Ann Minerva / Cheetah
+432,Pedro Pascal,Maxwell Lord
+432,Robin Wright,Antiope
+432,Connie Nielsen,Hippolyta
+432,Lilly Aspell,Young Diana
+432,Amr Waked,Emir Said Bin Abydos
+432,Kristoffer Polaha,Handsome Man
+435,Margot Robbie,Harleen Quinzel / Harley Quinn
+435,Idris Elba,Robert DuBois / Bloodsport
+435,John Cena,Christopher Smith / Peacemaker
+435,Joel Kinnaman,Colonel Rick Flag
+435,Sylvester Stallone,Nanaue / King Shark (voice)
+435,Viola Davis,Amanda Waller
+435,David Dastmalchian,Abner Krill / Polka-Dot Man
+435,Daniela Melchior,Cleo Cazo / Ratcatcher 2
+435,Michael Rooker,Brian Durlin / Savant
+436,Ryan Reynolds,Wade Wilson / Deadpool
+436,Morena Baccarin,Vanessa
+436,Ed Skrein,Ajax
+436,T.J. Miller,Weasel
+436,Gina Carano,Angel Dust
+436,Leslie Uggams,Blind Al
+436,Brianna Hildebrand,Negasonic Teenage Warhead
+436,Karan Soni,Dopinder
+436,Jed Rees,Recruiter
+437,Ryan Reynolds,Wade Wilson / Deadpool
+437,Josh Brolin,Nathan Summers / Cable
+437,Morena Baccarin,Vanessa Carlysle
+437,Julian Dennison,Russell Collins / Firefist
+437,Zazie Beetz,Neena Thurman / Domino
+437,T.J. Miller,Jack Hammer / Weasel
+437,Leslie Uggams,Blind Al
+437,Karan Soni,Dopinder
+437,Brianna Hildebrand,Ellie Phimister
+438,James McAvoy,Charles Xavier / Professor X
+438,Jennifer Lawrence,Raven Darkholme / Mystique
+438,Michael Fassbender,Erik Lehnsherr / Magneto
+438,Oscar Isaac,En Sabah Nur / Apocalypse
+438,Nicholas Hoult,Hank McCoy / Beast
+438,Rose Byrne,Moira MacTaggert
+438,Tye Sheridan,Scott Summers / Cyclops
+438,Sophie Turner,Jean Grey
+438,Evan Peters,Peter Maximoff / Quicksilver
+439,Hugh Jackman,Logan / Wolverine / X-24
+439,Dafne Keen,Laura / X-23
+439,Patrick Stewart,Charles Xavier / Professor X
+439,Elizabeth Rodriguez,Gabriela
+439,Boyd Holbrook,Pierce
+439,Stephen Merchant,Caliban
+439,Richard E. Grant,Dr. Rice
+439,Stephen Dunlevy,Macon
+439,Eriq La Salle,Will Munson
+440,Simu Liu,Shaun / Shang-Chi
+440,Tony Leung Chiu-wai,Xu Wenwu
+440,Awkwafina,Katy Chen
+440,Zhang Meng'er,Xu Xialing
+440,Fala Chen,Ying Li
+440,Michelle Yeoh,Ying Nan
+440,Yuen Wah,Master Guang Bo
+440,Ben Kingsley,Trevor Slattery
+440,Florian Munteanu,Razor Fist
+441,Gemma Chan,Sersi
+441,Richard Madden,Ikaris
+441,Angelina Jolie,Thena
+441,Kumail Nanjiani,Kingo
+441,Barry Keoghan,Druig
+441,Lauren Ridloff,Makkari
+441,Lia McHugh,Sprite
+441,Brian Tyree Henry,Phastos
+441,Ma Dong-seok,Gilgamesh
+442,Scarlett Johansson,Natasha Romanoff / Black Widow
+442,Florence Pugh,Yelena Belova
+442,Rachel Weisz,Melina Vostokoff
+442,David Harbour,Alexei Shostakov / Red Guardian
+442,Ray Winstone,Dreykov
+442,Olga Kurylenko,Antonia Dreykov
+442,Ever Anderson,Young Natasha
+442,Violet McGraw,Young Yelena
+442,O.T. Fagbenle,Mason
+443,Tom Hardy,Eddie Brock / Venom
+443,Michelle Williams,Anne Weying
+443,Riz Ahmed,Carlton Drake / Riot
+443,Scott Haze,Security Chief Roland Treece
+443,Reid Scott,Dr. Dan Lewis
+443,Jenny Slate,Dr. Dora Skirth
+443,Melora Walters,Homeless Woman Maria
+443,Woody Harrelson,Cletus Kasady / Carnage
+443,Peggy Lu,Mrs. Chen
+444,Tom Hardy,Eddie Brock / Venom
+444,Woody Harrelson,Cletus Kasady / Carnage
+444,Michelle Williams,Anne Weying
+444,Naomie Harris,Frances Louise Barrison / Shriek
+444,Reid Scott,Dr. Dan Lewis
+444,Stephen Graham,Detective Mulligan
+444,Peggy Lu,Mrs. Chen
+444,Sian Webber,Dr. Pazzo
+444,Michelle Greenidge,Mugging Victim
+445,Jared Leto,Dr. Michael Morbius / Morbius
+445,Matt Smith,Milo / Lucien
+445,Adria Arjona,Martine Bancroft
+445,Jared Harris,Dr. Emil Nicholas
+445,Al Madrigal,Agent Alberto Rodriguez
+445,Tyrese Gibson,Agent Simon Stroud
+445,Zaris-Angel Hator,Anna
+445,Joe Ferrara,Bush Pilot
+445,Charlie Shotwell,Young Michael
+446,Tom Holland,Nathan Drake
+446,Mark Wahlberg,Victor Sully Sullivan
+446,Sophia Ali,Chloe Frazer
+446,Tati Gabrielle,Jo Braddock
+446,Antonio Banderas,Santiago Moncada
+446,Steven Waddington,The Scotsman
+446,Rudy Pankow,Young Sam
+446,Tiernan Jones,Young Nate
+446,Pingi Moli,Hugo
+447,Eddie Redmayne,Newt Scamander
+447,Katherine Waterston,Tina Goldstein
+447,Dan Fogler,Jacob Kowalski
+447,Alison Sudol,Queenie Goldstein
+447,Colin Farrell,Percival Graves
+447,Jon Voight,Henry Shaw Sr.
+447,Ron Perlman,Gnarlak
+447,Johnny Depp,Gellert Grindelwald
+447,Zoë Kravitz,Leta Lestrange
+448,Eddie Redmayne,Newt Scamander
+448,Jude Law,Albus Dumbledore
+448,Mads Mikkelsen,Gellert Grindelwald
+448,Ezra Miller,Credence Barebone
+448,Dan Fogler,Jacob Kowalski
+448,Alison Sudol,Queenie Goldstein
+448,Callum Turner,Theseus Scamander
+448,Jessica Williams,Eulalie Hicks
+448,Katherine Waterston,Tina Goldstein
+449,Daniel Radcliffe,Harry Potter
+449,Rupert Grint,Ron Weasley
+449,Emma Watson,Hermione Granger
+449,Richard Harris,Albus Dumbledore
+449,Tom Felton,Draco Malfoy
+449,Alan Rickman,Severus Snape
+449,Robbie Coltrane,Rubeus Hagrid
+449,Maggie Smith,Minerva McGonagall
+449,Richard Griffiths,Vernon Dursley
+450,Daniel Radcliffe,Harry Potter
+450,Rupert Grint,Ron Weasley
+450,Emma Watson,Hermione Granger
+450,Kenneth Branagh,Gilderoy Lockhart
+450,John Cleese,Nearly Headless Nick
+450,Robbie Coltrane,Rubeus Hagrid
+450,Warwick Davis,Filius Flitwick
+450,Richard Griffiths,Vernon Dursley
+450,Richard Harris,Albus Dumbledore
+451,Daniel Radcliffe,Harry Potter
+451,Rupert Grint,Ron Weasley
+451,Emma Watson,Hermione Granger
+451,Robbie Coltrane,Rubeus Hagrid
+451,Michael Gambon,Albus Dumbledore
+451,Gary Oldman,Sirius Black
+451,Alan Rickman,Severus Snape
+451,Timothy Spall,Peter Pettigrew
+451,David Thewlis,Remus Lupin
+452,Daniel Radcliffe,Harry Potter
+452,Rupert Grint,Ron Weasley
+452,Emma Watson,Hermione Granger
+452,Brendan Gleeson,Alastor Moody
+452,Robbie Coltrane,Rubeus Hagrid
+452,Robert Pattinson,Cedric Diggory
+452,Michael Gambon,Albus Dumbledore
+452,David Tennant,Barty Crouch Junior
+452,Miranda Richardson,Rita Skeeter
+453,Daniel Radcliffe,Harry Potter
+453,Rupert Grint,Ron Weasley
+453,Emma Watson,Hermione Granger
+453,Imelda Staunton,Dolores Umbridge
+453,Helena Bonham Carter,Bellatrix Lestrange
+453,Robbie Coltrane,Rubeus Hagrid
+453,Ralph Fiennes,Lord Voldemort
+453,Michael Gambon,Albus Dumbledore
+453,Jason Isaacs,Lucius Malfoy
+454,Daniel Radcliffe,Harry Potter
+454,Rupert Grint,Ron Weasley
+454,Emma Watson,Hermione Granger
+454,Michael Gambon,Albus Dumbledore
+454,Tom Felton,Draco Malfoy
+454,Jim Broadbent,Horace Slughorn
+454,Robbie Coltrane,Rubeus Hagrid
+454,Alan Rickman,Severus Snape
+454,Maggie Smith,Minerva McGonagall
+455,Daniel Radcliffe,Harry Potter
+455,Rupert Grint,Ron Weasley
+455,Emma Watson,Hermione Granger
+455,Helena Bonham Carter,Bellatrix Lestrange
+455,Robbie Coltrane,Rubeus Hagrid
+455,Ralph Fiennes,Lord Voldemort
+455,Michael Gambon,Albus Dumbledore
+455,Bill Nighy,Rufus Scrimgeour
+455,Brendan Gleeson,Alastor Moody
+456,Daniel Radcliffe,Harry Potter
+456,Rupert Grint,Ron Weasley
+456,Emma Watson,Hermione Granger
+456,Ralph Fiennes,Lord Voldemort
+456,Alan Rickman,Severus Snape
+456,Helena Bonham Carter,Bellatrix Lestrange
+456,Maggie Smith,Minerva McGonagall
+456,Michael Gambon,Albus Dumbledore
+456,John Hurt,Ollivander
+457,Ian McKellen,Gandalf
+457,Martin Freeman,Bilbo Baggins
+457,Richard Armitage,Thorin
+457,Graham McTavish,Dwalin
+457,Aidan Turner,Kili
+457,Ken Stott,Balin
+457,Dean O'Gorman,Fili
+457,James Nesbitt,Bofur
+457,Mark Hadlow,Dori
+458,Ian McKellen,Gandalf
+458,Martin Freeman,Bilbo Baggins
+458,Richard Armitage,Thorin Oakenshield
+458,Benedict Cumberbatch,Smaug
+458,Orlando Bloom,Legolas
+458,Evangeline Lilly,Tauriel
+458,Lee Pace,Thranduil
+458,Luke Evans,Bard
+458,Stephen Fry,The Master of Laketown
+459,Ian McKellen,Gandalf
+459,Martin Freeman,Bilbo Baggins
+459,Richard Armitage,Thorin Oakenshield
+459,Orlando Bloom,Legolas
+459,Evangeline Lilly,Tauriel
+459,Luke Evans,Bard
+459,Lee Pace,Thranduil
+459,Benedict Cumberbatch,Smaug (voice)
+459,Ken Stott,Balin
+460,Johnny Depp,Jack Sparrow
+460,Orlando Bloom,Will Turner
+460,Keira Knightley,Elizabeth Swann
+460,Geoffrey Rush,Hector Barbossa
+460,Jack Davenport,James Norrington
+460,Jonathan Pryce,Weatherby Swann
+460,Lee Arenberg,Pintel
+460,Mackenzie Crook,Ragetti
+460,Damian O'Hare,Gillette
+461,Johnny Depp,Jack Sparrow
+461,Orlando Bloom,Will Turner
+461,Keira Knightley,Elizabeth Swann
+461,Stellan Skarsgård,Bootstrap Bill Turner
+461,Bill Nighy,Davy Jones
+461,Jack Davenport,James Norrington
+461,Kevin McNally,Joshamee Gibbs
+461,Jonathan Pryce,Weatherby Swann
+461,Lee Arenberg,Pintel
+462,Johnny Depp,Jack Sparrow
+462,Orlando Bloom,Will Turner
+462,Keira Knightley,Elizabeth Swann
+462,Geoffrey Rush,Hector Barbossa
+462,Stellan Skarsgård,Bootstrap Bill Turner
+462,Chow Yun-fat,Sao Feng
+462,Bill Nighy,Davy Jones
+462,Jack Davenport,James Norrington
+462,Kevin McNally,Joshamee Gibbs
+463,Johnny Depp,Jack Sparrow
+463,Penélope Cruz,Angelica
+463,Geoffrey Rush,Hector Barbossa
+463,Ian McShane,Blackbeard
+463,Kevin McNally,Joshamee Gibbs
+463,Sam Claflin,Philip
+463,Astrid Bergès-Frisbey,Syrena
+463,Stephen Graham,Scrum
+463,Keith Richards,Captain Teague
+464,Johnny Depp,Jack Sparrow
+464,Javier Bardem,Armando Salazar
+464,Geoffrey Rush,Hector Barbossa
+464,Brenton Thwaites,Henry Turner
+464,Kaya Scodelario,Carina Smyth
+464,Kevin McNally,Joshamee Gibbs
+464,Golshifteh Farahani,Shansa
+464,David Wenham,Scarfield
+464,Stephen Graham,Scrum
+465,Kristen Stewart,Bella Swan
+465,Robert Pattinson,Edward Cullen
+465,Taylor Lautner,Jacob Black
+465,Dakota Fanning,Jane
+465,Michael Sheen,Aro
+465,Ashley Greene,Alice Cullen
+465,Rachelle Lefevre,Victoria Sutherland
+465,Billy Burke,Charlie Swan
+465,Peter Facinelli,Dr. Carlisle Cullen
+466,Kristen Stewart,Bella Swan
+466,Robert Pattinson,Edward Cullen
+466,Billy Burke,Charlie Swan
+466,Peter Facinelli,Dr. Carlisle Cullen
+466,Elizabeth Reaser,Esme Cullen
+466,Cam Gigandet,James
+466,Ashley Greene,Alice Cullen
+466,Anna Kendrick,Jessica
+466,Nikki Reed,Rosalie
+467,Kristen Stewart,Bella Swan
+467,Robert Pattinson,Edward Cullen
+467,Taylor Lautner,Jacob Black
+467,Bryce Dallas Howard,Victoria
+467,Dakota Fanning,Jane
+467,Billy Burke,Charlie Swan
+467,Peter Facinelli,Dr. Carlisle Cullen
+467,Elizabeth Reaser,Esme Cullen
+467,Jackson Rathbone,Jasper Hale
+468,Kristen Stewart,Bella Swan
+468,Robert Pattinson,Edward Cullen
+468,Taylor Lautner,Jacob Black
+468,Billy Burke,Charlie Swan
+468,Peter Facinelli,Dr. Carlisle Cullen
+468,Michael Sheen,Aro
+468,Elizabeth Reaser,Esme Cullen
+468,Kellan Lutz,Emmett Cullen
+468,Nikki Reed,Rosalie Hale
+469,Robert Pattinson,Edward Cullen
+469,Kristen Stewart,Bella Swan
+469,Taylor Lautner,Jacob Black
+469,Peter Facinelli,Carlisle Cullen
+469,Elizabeth Reaser,Esme Cullen
+469,Ashley Greene,Alice Cullen
+469,Jackson Rathbone,Jasper Hale
+469,Nikki Reed,Rosalie Hale
+469,Kellan Lutz,Emmett Cullen
+470,Andrew Garfield,Peter Parker / Spider-Man
+470,Emma Stone,Gwen Stacy
+470,Rhys Ifans,Curt Connors / The Lizard
+470,Denis Leary,Captain Stacy
+470,Martin Sheen,Uncle Ben
+470,Sally Field,Aunt May
+470,Max Charles,Peter Parker (Age 4)
+470,Campbell Scott,Richard Parker
+470,Embeth Davidtz,Mary Parker
+471,Andrew Garfield,Peter Parker / Spider-Man
+471,Emma Stone,Gwen Stacy
+471,Jamie Foxx,Max Dillon / Electro
+471,Dane DeHaan,Harry Osborn
+471,Colm Feore,Donald Menken
+471,Felicity Jones,Felicia Hardy
+471,Paul Giamatti,Aleksei Sytsevich
+471,Sally Field,Aunt May
+471,Embeth Davidtz,Mary Parker
+472,Tobey Maguire,Spider-Man / Peter Parker
+472,Willem Dafoe,Green Goblin / Norman Osborn
+472,Kirsten Dunst,Mary Jane Watson
+472,James Franco,Harry Osborn
+472,Cliff Robertson,Ben Parker
+472,Rosemary Harris,May Parker
+472,J.K. Simmons,J. Jonah Jameson
+472,Joe Manganiello,Flash Thompson
+472,Gerry Becker,Maximilian Fargas
+473,Tobey Maguire,Spider-Man / Peter Parker
+473,Kirsten Dunst,Mary Jane Watson
+473,James Franco,New Goblin / Harry Osborn
+473,Thomas Haden Church,Sandman / Flint Marko
+473,Topher Grace,Venom / Eddie Brock
+473,Bryce Dallas Howard,Gwen Stacy
+473,Rosemary Harris,May Parker
+473,J.K. Simmons,J. Jonah Jameson
+473,James Cromwell,Captain Stacey
+474,Tom Holland,Peter Parker / Spider-Man
+474,Michael Keaton,Adrian Toomes / Vulture
+474,Robert Downey Jr.,Tony Stark / Iron Man
+474,Marisa Tomei,May Parker
+474,Jon Favreau,Happy Hogan
+474,Gwyneth Paltrow,Pepper Potts
+474,Zendaya,Michelle Jones
+474,Donald Glover,Aaron Davis
+474,Jacob Batalon,Ned
+475,Tom Holland,Peter Parker / Spider-Man
+475,Samuel L. Jackson,Nick Fury
+475,Jake Gyllenhaal,Quentin Beck / Mysterio
+475,Marisa Tomei,May Parker
+475,Jon Favreau,Happy Hogan
+475,Zendaya,Michelle Jones
+475,Jacob Batalon,Ned Leeds
+475,Tony Revolori,Flash Thompson
+475,Angourie Rice,Betty Brant
+476,Shameik Moore,Miles Morales / Spider-Man (voice)
+476,Jake Johnson,Peter B. Parker / Spider-Man (voice)
+476,Hailee Steinfeld,Gwen Stacy / Spider-Woman (voice)
+476,Mahershala Ali,Uncle Aaron / Prowler (voice)
+476,Brian Tyree Henry,Jefferson Davis (voice)
+476,Lily Tomlin,Aunt May (voice)
+476,Luna Lauren Velez,Rio Morales (voice)
+476,Zoë Kravitz,Mary Jane (voice)
+476,John Mulaney,Peter Porker (voice)
+477,Shameik Moore,Miles Morales / Spider-Man (voice)
+477,Hailee Steinfeld,Gwen Stacy (voice)
+477,Jake Johnson,Peter B. Parker (voice)
+477,Oscar Isaac,Miguel O'Hara (voice)
+477,Issa Rae,Jessica Drew (voice)
+477,Daniel Kaluuya,Hobie Brown (voice)
+477,Jason Schwartzman,The Spot (voice)
+477,Brian Tyree Henry,Jefferson Davis (voice)
+477,Luna Lauren Velez,Rio Morales (voice)
+478,Vin Diesel,Dominic Toretto
+478,Michelle Rodriguez,Letty Ortiz
+478,Tyrese Gibson,Roman Pearce
+478,Ludacris,Tej Parker
+478,Jason Momoa,Dante Reyes
+478,Nathalie Emmanuel,Ramsey
+478,Jordana Brewster,Mia Toretto
+478,John Cena,Jakob Toretto
+478,Jason Statham,Deckard Shaw
+479,Vin Diesel,Dominic Toretto
+479,Michelle Rodriguez,Letty Ortiz Toretto
+479,Tyrese Gibson,Roman Pearce
+479,Ludacris,Tej Parker
+479,John Cena,Jakob Toretto
+479,Nathalie Emmanuel,Ramsey
+479,Jordana Brewster,Mia Toretto
+479,Sung Kang,Han Lue
+479,Michael Rooker,Buddy
+480,Vin Diesel,Dominic Toretto
+480,Paul Walker,Brian O'Conner
+480,Dwayne Johnson,Luke Hobbs
+480,Jason Statham,Deckard Shaw
+480,Michelle Rodriguez,Letty Ortiz
+480,Tyrese Gibson,Roman Pearce
+480,Ludacris,Tej Parker
+480,Jordana Brewster,Mia Toretto
+480,Djimon Hounsou,Jakande
+481,Vin Diesel,Dominic Toretto
+481,Jason Statham,Deckard Shaw
+481,Dwayne Johnson,Luke Hobbs
+481,Michelle Rodriguez,Letty Ortiz
+481,Tyrese Gibson,Roman Pearce
+481,Ludacris,Tej Parker
+481,Charlize Theron,Cipher
+481,Kurt Russell,Mr. Nobody
+481,Nathalie Emmanuel,Ramsey
+482,Dwayne Johnson,Luke Hobbs
+482,Jason Statham,Deckard Shaw
+482,Idris Elba,Brixton
+482,Vanessa Kirby,Hattie Shaw
+482,Helen Mirren,Queenie Shaw
+482,Eiza González,Madame M
+482,Eddie Marsan,Professor Andreiko
+482,Eliana Su'a,Sam Hobbs
+482,Cliff Curtis,Jonah Hobbs
+484,Tye Sheridan,Wade Watts / Parzival
+484,Olivia Cooke,Samantha Cook / Artemis
+484,Ben Mendelsohn,Nolan Sorrento
+484,Lena Waithe,Helen Harris / Aech
+484,T.J. Miller,i-R0k (voice)
+484,Simon Pegg,Ogden Morrow
+484,Mark Rylance,James Halliday
+484,Philip Zhao,Zhou / Sho
+484,Win Morisaki,Toshiro / Daito
